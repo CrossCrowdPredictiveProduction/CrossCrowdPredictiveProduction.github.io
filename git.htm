@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>git</title>
+  <link href=".src/preferred.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<p class='header'>
+ <a href="home.htm">Home</a> | <a href="faq.htm">FAQ</a> | <a href="diary.htm">Diary</a> | <a href="projects.htm">Projects</a> | <a href="todo.htm">Todo</a> | <a href="pages.htm">Pages</a> |</p>
+<p class='main'><span class="h2">==Init Machine</span><br/>
+<span class="shell">$ <a href="git.htm">git</a> config --global <a class="ext" href="http://user.name">user.name</a> "Your Name"</span><br/>
+<span class="shell">$ <a href="git.htm">git</a> config --global user.email your@<a class="ext" href="http://email.com">email.com</a></span><br/>
+<span class="shell">$ <a href="git.htm">git</a> config --global --bool pull.rebase true</span><br/>
+<br/>
+<span class="shell">$ ssh-keygen -t rsa -C "your@<a class="ext" href="http://email.com"">email.com"</a></span><br/>
+<span class="shell">$ copy ~/.ssh/id_rsa.pub to the <a href="git.htm">git</a> host <small>(such as <a href="git.htm">git</a>hub)</small></span><br/>
+<br/>
+To make another machine trust you:<br/>
+<span class="shell">$ ssh-copy-id REMOTE_MACHINE</span><br/>
+<br/>
+<br/>
+<span class="h4">====Init project</span><br/>
+<span class="shell">$ cd $<small>(PROJECT)</small></span><br/>
+<span class="shell">$ <a href="git.htm">git</a> init</span><br/>
+<span class="shell">$ <a href="git.htm">git</a> add README.txt</span><br/>
+<span class="shell">$ <a href="git.htm">git</a> commit -a -m 'init'</span><br/>
+<span class="shell">$ <a href="git.htm">git</a> remote add origin <a href="git.htm">git</a>@<a class="ext" href="http://github.com">github.com</a>:$<small>(USER)</small>/$<small>(PROJECT)</small>.<a href="git.htm">git</a></span><br/>
+<span class="shell">$ <a href="git.htm">git</a> push -u origin master</span><br/>
+<br/>
+<br/>
+<span class="h4">====Clone project with write access</span><br/>
+<span class="shell">$ <a href="git.htm">git</a> clone <a href="git.htm">git</a>@<a class="ext" href="http://github.com">github.com</a>:<a href="agnu.htm">AGNU</a>cius/<a href="gnunix.htm">GNUnix</a>.<a href="git.htm">git</a></span><br/>
+<br/>
+<br/>
+to publish:<br/>
+<span class="shell">$ <a href="git.htm">git</a> commit -a -m "some message"; <a href="git.htm">git</a> push</span><br/>
+<br/>
+<br/>
+to update:<br/>
+<span class="shell">$ <a href="git.htm">git</a> pull</span><br/>
+<br/>
+<br/>
+<br/>
+<span class="h2">==Documentation</span><br/>
+<a class="ext" href="http://Git-SCM.com">Git-SCM.com</a> <span class="quot2">>>The fast version control system</span><br/>
+<br/>
+<a class="ext" href="http://Jonas.Nitro.dk/git/quick-reference.html">Jonas.Nitro.dk/git/quick-reference.html</a><br/>
+<br/>
+<a class="ext" href="http://Kernel.org/pub/software/scm/git/docs">Kernel.org/pub/software/scm/git/docs</a><br/>
+<br/>
+<a class="ext" href="http://sunoano.name/ws/public_xhtml/scm.html">sunoano.name/ws/public_xhtml/scm.html</a><br/>
+<br/>
+<a class="ext" href="http://www-cs-students.stanford.edu/~blynn/gitmagic">www-cs-students.stanford.edu/~blynn/gitmagic</a> <span class="quot2">>><a href="git.htm">Git</a> is a version control Swiss army knife. A reliable versatile multipurpose revision control tool whose extraordinary flexibility makes it tricky to learn, let alone master.</span><br/>
+<br/>
+<a class="ext" href="http://Eagain.net/articles/git-for-computer-scientists">Eagain.net/articles/git-for-computer-scientists</a> <span class="quot2">>>Quick introduction to <a href="git.htm">git</a> internals for people who are not scared by words like Directed Acyclic Graph.</span><br/>
+<br/>
+<a class="ext" href="http://WikiBooks.org/wiki/Source_Control_Management_With_Git">WikiBooks.org/wiki/Source_Control_Management_With_Git</a><br/>
+<br/>
+<a class="ext" href="http://WhyGitIsBetterThanX.com">WhyGitIsBetterThanX.com</a> <span class="quot2">>>This site is here because I seem to be spending a lot of time lately defending <a href="git.htm">Git</a>sters against charges of fanboyism, bandwagonism and koolaid-thirst. So, here is why people are switching to <a href="git.htm">Git</a> from X, and why you should too.</span><br/>
+<br/>
+<br/>
+<span class="h2">==Hosting</span><br/>
+<a class="ext" href="http://repo.or.cz">repo.or.cz</a><br/>
+<a class="ext" href="http://Gitorious.org">Gitorious.org</a><br/>
+<a class="ext" href="http://GitHub.com">GitHub.com</a><br/>
+<br/>
+<span class="h2">==related</span><br/>
+quilt: patch management<br/>
+<a href="git.htm">git</a>k: gui<br/>
+ditz, BugsEverywhere: store bugs in the same repo<br/>
+<a class="ext" href="http://gitlab.org">gitlab.org</a></p>
+<p class='footer'>
+ Page generated from <a href=".txt/git">git</a> by <a href=".src/lens.el">lens.el</a>.</p>
+</body>
+</html>

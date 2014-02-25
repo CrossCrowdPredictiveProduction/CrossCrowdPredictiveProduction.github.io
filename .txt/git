@@ -1,0 +1,62 @@
+==Init Machine
+$ git config --global user.name "Your Name"
+$ git config --global user.email your@email.com
+$ git config --global --bool pull.rebase true
+
+$ ssh-keygen -t rsa -C "your@email.com"
+$ copy ~/.ssh/id_rsa.pub to the git host (such as github)
+
+To make another machine trust you:
+$ ssh-copy-id REMOTE_MACHINE
+
+
+====Init project
+$ cd $(PROJECT)
+$ git init
+$ git add README.txt
+$ git commit -a -m 'init'
+$ git remote add origin git@github.com:$(USER)/$(PROJECT).git
+$ git push -u origin master
+
+
+====Clone project with write access
+$ git clone git@github.com:AGNUcius/GNUnix.git
+
+
+to publish:
+$ git commit -a -m "some message"; git push
+
+
+to update:
+$ git pull
+
+
+
+==Documentation
+Git-SCM.com >>The fast version control system
+
+Jonas.Nitro.dk/git/quick-reference.html
+
+Kernel.org/pub/software/scm/git/docs
+
+sunoano.name/ws/public_xhtml/scm.html
+
+www-cs-students.stanford.edu/~blynn/gitmagic >>Git is a version control Swiss army knife. A reliable versatile multipurpose revision control tool whose extraordinary flexibility makes it tricky to learn, let alone master.
+
+Eagain.net/articles/git-for-computer-scientists >>Quick introduction to git internals for people who are not scared by words like Directed Acyclic Graph.
+
+WikiBooks.org/wiki/Source_Control_Management_With_Git
+
+WhyGitIsBetterThanX.com >>This site is here because I seem to be spending a lot of time lately defending Gitsters against charges of fanboyism, bandwagonism and koolaid-thirst. So, here is why people are switching to Git from X, and why you should too.
+
+
+==Hosting
+repo.or.cz
+Gitorious.org
+GitHub.com
+
+==related
+quilt: patch management
+gitk: gui
+ditz, BugsEverywhere: store bugs in the same repo
+gitlab.org

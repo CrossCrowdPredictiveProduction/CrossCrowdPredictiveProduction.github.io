@@ -1,0 +1,42 @@
+Related: CCPP, Product Future, VIPM
+
+The IOTA (Intra-Owner Trade Agreement) is the legal document applied to Product Futures designed to autodistribute growth to those who pay for it by treating some % of profit as the payer's investment so all users gain co-ownership in the property used for the products they need.
+
+
+==Timeline
+Vision of future product
+Determine required scale and level of vertical integration, balancing more immediate needs with longer term goals.
+Write recipe
+ List Property needed
+ List Promises needed
+Issue Product Futures against those Property and Promises
+Sell Product Futures to purchase the Property
+ Some pay with commitments of Property
+ Some pay with commitments of Promises
+Begin production
+Distribute Products to owners based on % Property ownership
+Auction surplus to non-owners
+
+
+==Ruleset
+0. Investors become real co-owners.  This means those who invest Property or Promises become real co-owners in the VIPM.  Some will invest money to buy Property, while others will invest future work as Promises.
+
+1. Product is the investor's return.  This means the Product is not sold (except surplus) because it is already in the hands of those who need it.  Each investor spreads their investments across the various Property needed to produce the quality and quantity of products they predict they will need.  This eliminates the collection of profit and also eliminates the payout of profit.
+
+2. Promise-to-work is an investment.  This means some investors will commit to work in the future in return for co-ownership in the VIPM.  This eliminates the need for traditional wages.
+
+3. Profit is the payer's investment.  This means we will charge profit against latecomers who buy surplus product but treat at least some % of that profit as an investment in more Property that will finally vest to the consumer who paid it so that every consumer incrementally gains co-ownership in the Property needed to produce the products they need.
+
+4. Secession is a protected right.  This means any subgroup may secede for any arbitrary reason while retaining their portion of ownership that Property.  This is an attempt to address the Tyranny of the Majority.
+
+
+==Constraints
+As Consumer of some Product you MAY:
+  0. Use this instance for any purpose.
+  1. Modify this instance by renting or buying the Property needed for that modification.  (YOU ARE ALREADY A CO-OWNER IF YOU PAID PROFIT.)
+  2. Copy this instance by renting or buying the Property needed for that production.  (YOU ARE ALREADY A CO-OWNER IF YOU PAID PROFIT.)
+  3. Share this instance or a copy - whether modified or not.
+	If you share this object instance or a copy - whether modified or not, you MUST:
+	  A. Accompany each instance with a copy of this document.
+	  B. Treat all Profit gained through the sale of this object or through the rental of Property as an investment from that user toward the purchase of more Property.
+	  C. Issue Product Futures against the Property bought with that Profit and vest those Product Futures to the original payer.

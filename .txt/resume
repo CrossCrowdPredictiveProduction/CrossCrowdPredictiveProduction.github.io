@@ -1,0 +1,76 @@
+                Patrick T. Anderson -- Senior Software Engineer
+                  (801) 815-3819  Patrick.T.Anderson@Gmail.com
+
+
+General Skills:
+  Cross-Platform C/C++ using Visual Studio on Windows and gcc/gdb on Linux.
+  Repurpose legacy code through aggressive distillation and modularization.
+  Develop techniques and tools for diagnosing, troubleshooting and debugging.
+
+
+Work History:
+  Oct/13-Present: Economic Systems Engineering - Cross Crowd Predictive Production
+    CrossCrowdPredictiveProduction.github.io
+
+  Oct/11-Oct/13: File System Development at StorageCraft - Draper, UT
+    Develop caching vhd and vhdx plugins for imaging suite.
+    Integrate VMware VDDK libraries for vmdk and ESXi targets.
+    Debug and extend in-house cross-platform library.
+
+
+  Oct/08-Oct/11: Configuration Management at StorageCraft - Draper, UT
+    Automate build system to compile, sign, package, verify and report.
+    Develop installer framework to overcome traditional installer limitations.
+    Make installers using InstallShield, WiX, NSIS.  Build WinPE images.
+
+
+  Aug/05-Oct/08: Independent Contractor - American Fork, UT
+    Design EcoComics ecology simulation to compare economic model efficiency.
+    Develop plain-text Wiki with autolink and WYSIWYG "pass through" markup.
+    Design JIT package manager to download, install and execute advertised features.
+    Write the Intra-Owner Trade Agreement (IOTA) as the basis of a new currency.
+    Begin basic Linux application development.
+
+
+  Aug/00-Aug/05: Altiris - Lindon, UT
+    Write thin C++ library to simplify Win32 development and automate resource management.
+    Design "pass through" interfaces to increase performance and decrease maintenance.
+    Prefer zero-copy data transfer for speed and safety across object and thread contexts.
+    Extend, debug and repair Windows device drivers used to read/write HP hardware settings.
+    Write W32 Service to remotely control and report computer settings.
+    Write simple HTTP and IMAP clients to send commands, and parse results.
+    Write self-extracting installer conforming to "Add/Remove Programs" guidelines.
+    Write dynamic virtual file system for incremental backup to removable media.
+
+
+  Aug/99-Aug/00: NovaRad - Orem, UT
+    Integrate DICOM transport and JPEG2k compression into medical imaging client.
+    Design predictive caching SCSI robotic tape archiver.
+
+
+  Jul/97-Aug/99: NetSchools - Provo, UT
+    Develop UDP/IP packet generator and simple sniffer for IR network.
+    Develop Win9x network logon provider using SSPI and Blowfish encryption.
+    Help develop write protection for Win9x file system and Registry.
+    Maintain and extend Win9x compressing RAM paging driver and keyboard filter VxD.
+
+
+  Jun/96-Jun/97: BioVision Motion Capture - Orem, UT
+    Develop Flex/Bison regexps, BNFs and glue code to import motion capture data.
+    Develop other tools to simplify and automate motion data transforms.
+    Use matrix mathematics and spline approximations to smooth sparse data.
+
+
+  Feb/96-Jul/96: IBM Eduquest - Provo, UT
+    Track and fix application bugs in educational software.
+    Help write Win9x printer driver to translate between Postscript, PCL, PDDP.
+
+
+  Jan/95-Dec/98: Brigham Young University - Provo, UT
+    Independent C/C++ tutor.
+    Teacher's Aid for "Discrete Structures and Combinatorial Mathematics" I and II.
+
+
+Education:
+  Brigham Young University - Provo, UT
+    B.S. in Computer Science, 1998.
