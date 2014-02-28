@@ -406,7 +406,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 			   (concat
 				"<p class='header'>\n"
 				" <a href=\"home.htm\">Home</a> |"
-				" <a href=\"faq.htm\">FAQ</a> |"
+				;; " <a href=\"faq.htm\">FAQ</a> |"
 				" <a href=\"diary.htm\">Diary</a> |"
 				" <a href=\"projects.htm\">Projects</a> |"
 				" <a href=\"todo.htm\">Todo</a> |"
