@@ -124,6 +124,10 @@ All terms less than this match only at the beginning of words (using `\\b')")
 
 (defconst lens-explicit-URL
   "\\([a-zA-Z0-9]\\)+://[^ \t\n]*"
+  "This is to include chars banned from implicit-HTTP.")
+
+(defconst lens-email-link
+  "\\([a-zA-Z0-9\.]\\)+@[^ \t\n]*"
   "Specify protocol to include chars banned from implicit-HTTP.")
 
 (defconst lens-implicit-HTTP
@@ -250,6 +254,12 @@ All terms less than this match only at the beginning of words (using `\\b')")
 		 ;;see `lens-explicit-URL'
 		 ("\\([a-zA-Z0-9]\\)+://[^ \t\n]*"
 		  "<a class=\"ext\" href=\"\\&\">\\&</a>")
+
+		 ;;TODO: encode & to &amp;
+		 ;;see `lens-email-link'
+		 ("\\([a-zA-Z0-9]\\)+@[^ \t\n]*"
+		  "<a class=\"eml\" href=\"mailto:\\&\">\\&</a>")
+
 
 		 ;;see `lens-implicit-HTTP'
 		 ("\\(\\([a-zA-Z0-9_-]\\)+\\.\\)+\\(aero\\|at\\|au\\|be\\|biz\\|ca\\|cat\\|cc\\|ch\\|com\\|coop\\|cx\\|cz\\|da\\|de\\|dk\\|edu\\|es\\|eu\\|fi\\|fr\\|gov\\|hu\\|ie\\|il\\|im\\|in\\|it\\|info\\|int\\|io\\|jp\\|jobs\\|lt\\|me\\|mil\\|mobi\\|museum\\|name\\|net\\|nl\\|nu\\|nz\\|org\\|pl\\|pro\\|pt\\|ro\\|ru\\|se\\|si\\|sk\\|tel\\|to\\|travel\\|tv\\|uk\\|us\\|ws\\|za\\)[^])}>:,; \t\n]*"
@@ -478,6 +488,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 				lens-quoted-UNC-path "\\|"
 				lens-UNC-path "\\|"
 				lens-explicit-URL "\\|"
+				lens-email-link "\\|"
 				lens-implicit-HTTP "\\|"
 				lens-font-lock "zzzzzzzz\\)")))
 ;; what a mess.
@@ -517,11 +528,14 @@ All terms less than this match only at the beginning of words (using `\\b')")
 
 (define-key lens-C-c-map [(control c)]
   (lambda () (interactive) "Compile this file."
+	(save-buffer)
     (lens-make-page buffer-file-name)))
 
 (define-key lens-C-c-map [(control p)]
   (lambda () (interactive)
 	"Browse generated HTML."
+	(save-buffer)
+    (lens-make-page buffer-file-name)
     (browse-url-of-file
 	 ;;(message
      (file-truename

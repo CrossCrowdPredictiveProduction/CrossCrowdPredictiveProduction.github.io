@@ -2,7 +2,8 @@ body
 {
 	font-family:monospace;
 	font-size:120%;
- }
+	background:#EEEEEE;
+}
 
 .main {padding-left:4px;}
 .header {border-bottom:solid; font-family:arial, san-serif;}
@@ -36,7 +37,7 @@ input{font-size:65%;}
 img{float:right;}
 
 span.rel{background:#070; color:#fff;}
-span.date{background:#000; color:#fff;}
+span.date{background:#595959; color:#fff;}
 
 span.quot{background:#ffe;}
 span.quot2{background:#eff;}
@@ -46,5 +47,11 @@ span.shell{background:#ddd;}
 span.cmnt{background:#dfd;}
 span.type{background:#9bf;}
 
-a {color:#008; background:#f4f4ff;}
-a:hover, a:focus {background:#ff0;}
+a {color:#008; background:#e4e4ee;}
+a:hover, a:focus {background:#e4e4a0;}
+
+a.ext {color:#080; background:#e4eee4;}
+a.ext:hover, a.ext:focus {background:#e4a0e4;}
+
+a.eml {color:#800; background:#eee4e4;}
+a.eml:hover, a.eml:focus {background:#a0e4e4;}

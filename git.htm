@@ -14,10 +14,10 @@
  <a href="home.htm">Home</a> | <a href="diary.htm">Diary</a> | <a href="projects.htm">Projects</a> | <a href="todo.htm">Todo</a> | <a href="pages.htm">Pages</a> |</p>
 <p class='main'><span class="h2">==Init Machine</span><br/>
 <span class="shell">$ <a href="git.htm">git</a> config --global <a class="ext" href="http://user.name">user.name</a> "Your Name"</span><br/>
-<span class="shell">$ <a href="git.htm">git</a> config --global user.email your@<a class="ext" href="http://email.com">email.com</a></span><br/>
+<span class="shell">$ <a href="git.htm">git</a> config --global <a href="user.htm">user</a>.email <a class="eml" href="mailto:your@email.com">your@email.com</a></span><br/>
 <span class="shell">$ <a href="git.htm">git</a> config --global --bool pull.rebase true</span><br/>
 <br/>
-<span class="shell">$ ssh-keygen -t rsa -C "your@<a class="ext" href="http://email.com"">email.com"</a></span><br/>
+<span class="shell">$ ssh-keygen -t rsa -C "<a class="eml" href="mailto:your@email.com"">your@email.com"</a></span><br/>
 <span class="shell">$ copy ~/.ssh/id_rsa.pub to the <a href="git.htm">git</a> host <small>(such as <a href="git.htm">git</a>hub)</small></span><br/>
 <br/>
 To make another machine trust you:<br/>
@@ -29,12 +29,12 @@ To make another machine trust you:<br/>
 <span class="shell">$ <a href="git.htm">git</a> init</span><br/>
 <span class="shell">$ <a href="git.htm">git</a> add README.txt</span><br/>
 <span class="shell">$ <a href="git.htm">git</a> commit -a -m 'init'</span><br/>
-<span class="shell">$ <a href="git.htm">git</a> remote add origin <a href="git.htm">git</a>@<a class="ext" href="http://github.com">github.com</a>:$<small>(USER)</small>/$<small>(PROJECT)</small>.<a href="git.htm">git</a></span><br/>
+<span class="shell">$ <a href="git.htm">git</a> remote add origin <a class="eml" href="mailto:git@github.com:$(USER)/$(PROJECT).git">git@github.com:$(USER)/$(PROJECT).git</a></span><br/>
 <span class="shell">$ <a href="git.htm">git</a> push -u origin master</span><br/>
 <br/>
 <br/>
 <span class="h4">====Clone project with write access</span><br/>
-<span class="shell">$ <a href="git.htm">git</a> clone <a href="git.htm">git</a>@<a class="ext" href="http://github.com">github.com</a>:<a href="agnu.htm">AGNU</a>cius/<a href="gnunix.htm">GNUnix</a>.<a href="git.htm">git</a></span><br/>
+<span class="shell">$ <a href="git.htm">git</a> clone <a class="eml" href="mailto:git@github.com:AGNUcius/GNUnix.git">git@github.com:AGNUcius/GNUnix.git</a></span><br/>
 <br/>
 <br/>
 to publish:<br/>

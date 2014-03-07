@@ -12,91 +12,91 @@
 <body>
 <p class='header'>
  <a href="home.htm">Home</a> | <a href="diary.htm">Diary</a> | <a href="projects.htm">Projects</a> | <a href="todo.htm">Todo</a> | <a href="pages.htm">Pages</a> |</p>
-<p class='main'><span class="rel">Related:</span> burn, CD, disk, driver, file, fstab, ISO, link, ntfs, sb<a href="mount.htm">mount</a>, USB<br/>
-<br/>
-<a class="ext" href="http://WinFlux.GoogleCode.com">WinFlux.GoogleCode.com</a> <span class="quot2">>>WinFlux: Filesystems in Windows Userspace!</span><br/>
-<br/>
-<a class="ext" href="http://Glandium.org/projects/vmfs-tools">Glandium.org/projects/vmfs-tools</a> <span class="quot2">>>Originally loosely based on the vmfs code from fluidOps, this set of tools has since evolved to handle more features from VMFS, such as extents, and allows to access VMFS through the standard Linux VFS with the help of the FUSE framework.</span><br/>
-<br/>
-<a class="ext" href="http://Ltr-Data.se/opencode.html">Ltr-Data.se/opencode.html</a> ImDisk is a virtual disk driver for Windows NT/2000/XP/2003/Vista/2008. It can use one or more disk image files to create virtual hard disk, floppy or CD/DVD drives .The install package installs a console-mode control program called imdisk.exe and a Control Panel applet. After install is finished, type imdisk without parameters for syntax help or double click the ImDisk icon in the Control Panel. It also adds a menu item in Windows Explorer so that you can right-click on a file to <a href="mount.htm">mount</a> it as a virtual disk drive. Users of mdconfig in <a href="free.htm">Free</a>BSD will probably be familiar with the command line syntax of imdisk.exe. The driver, service and control program can be uninstalled using the Add/Remove programs applet in the Control Panel. No reboot is required for installing or uninstalling.<br/>
-<br/>
-<a class="ext" href="http://ChitChat.at.InfoSeek.co.jp/vmware/vdk.html">ChitChat.at.InfoSeek.co.jp/vmware/vdk.html</a> <span class="quot2">>>With VDK you can <a href="mount.htm">mount</a> a VMware virtual disk to your Windows hosts and use them as another disk drive attached to your system.</span><br/>
-<br/>
-<span class="h2">==<a href="mount.htm">Mount</a> Windows Share <small>(SMB/CIFS)</small></span><br/>
-Use the backslash '\' to escape any of: <small>(, )</small>, &amp;, *, \<br/>
-<br/>
-<span class="shell">$ sudo mkdir /mnt/WindowsMachineOrIP/ShareName</span><br/>
-<span class="shell">$ sudo <a href="mount.htm">mount</a> -t cifs //WindowsMachineOrIP/ShareName /mnt/WindowsMachineOrIP/ShareName -o domain=YourDomain,user=YourUserName,pass=YourPassWord</span><br/>
-<br/>
-or<br/>
-<br/>
-<span class="shell">$ <a href="mount.htm">mount</a> -t cifs //WindowsMachineOrIP/ShareName /mnt/WindowsMachineOrIP/ShareName -o credentials=~/WindowsCredentialsFile.txt</span><br/>
-<br/>
-__file: ~/WindowsCredentialsFile.txt<br/>
-domain=SomeDomain<br/>
-user=YourUserName<br/>
-pass=YourPassWord<br/>
-__<br/>
-<br/>
-<br/>
-<span class="h2">==ISO</span><br/>
-<a class="ext" href="http://WinCDemu.sf.net">WinCDemu.sf.net</a> <span class="quot2">>>WinCDEmu is an open-source software that allows <a href="mount.htm">mount</a>ing CD/DVD images by clicking at the image files in Windows Explorer. It supports both Windows XP and Vista, is open-source and completely <a href="free.htm">free</a>ware.&nbsp;&nbsp;Version 2.0 supports ISO, CUE, BIN/RAW/IMG file formats as well as SMB network shares and includes a workaround for Windows cache bug.</span><br/>
-<br/>
-<span class="shell">$ sudo mkdir /mnt/somedir</span><br/>
-<span class="shell">$ sudo <a href="mount.htm">mount</a> -o loop Some_Image.iso /mnt/somedir # may require&nbsp;&nbsp;-t iso9660&nbsp;&nbsp;option</span><br/>
-<br/>
-<a class="ext" href="http://VaporCD.sf.net">VaporCD.sf.net</a> <span class="quot2">>>VaporCD can create a copy of a CD on your hard disk and <a href="mount.htm">mount</a> it as if it were the real CD. VaporCD works with Windows NT 4.0 or Windows 2000. This is very handy when you have extra hard drive space and get tired of changing out CD's. Also, yet another benefit VaporCD is faster than a normal CD-ROM.</span><br/>
-<br/>
-<br/>
-<span class="h2">==NTFS</span><br/>
-<span class="shell">$ ntfs-3g /dev/sda1 /mnt/windows -o force</span><br/>
-<br/>
-<span class="shell">$ fsutil.exe #<a class="ext" href="http://Technet.Microsoft.com/en-us/library/cc753059.aspx">Technet.Microsoft.com/en-us/library/cc753059.aspx</a>, <a class="ext" href="http://SS64.com/nt/fsutil.html">SS64.com/nt/fsutil.html</a>, <a class="ext" href="http://CommandWindows.com/fsutil.htm">CommandWindows.com/fsutil.htm</a></span><br/>
-<br/>
-<a class="ext" href="http://Support.Microsoft.com/kb/205524">Support.Microsoft.com/kb/205524</a> <span class="quot2">>>How to create and manipulate NTFS junction points</span><br/>
-<span class="shell">$ <a href="mount.htm">Mount</a>Vol.exe #Creates, deletes, or lists a volume <a href="mount.htm">mount</a> point.</span><br/>
-<span class="shell">$ linkd.exe #from the Microsoft Windows 2000 Resource Kit</span><br/>
-<span class="shell">$ DelRP.exe #from the Microsoft Windows 2000 Resource Kit</span><br/>
-<br/>
-<br/>
-<span class="h4">====.vmdk</span><br/>
-<a class="ext" href="http://ChitChat.at.infoseek.co.jp/vmware/vdk.html">ChitChat.at.infoseek.co.jp/vmware/vdk.html</a> <span class="quot2">>>With VDK you can <a href="mount.htm">mount</a> a VMware virtual disk to your Windows hosts and use them as another disk drive attached to your system.</span><br/>
-<br/>
-<br/>
-<span class="h4">====.spf</span><br/>
-<span class="shell">$ sb<a href="mount.htm">mount</a></span><br/>
-<br/>
-<span class="h4">====.vhd</span><br/>
-<span class="shell">$ imagex.exe #<a href="mount.htm">mount</a> .wim files</span><br/>
-<span class="shell">$ VHD<a href="mount.htm">Mount</a>.exe</span><br/>
-<br/>
-<br/>
-<span class="h4">====Unix NFS drive:</span><br/>
-<span class="shell">$ export #do this on the 'server'</span><br/>
-<br/>
-<span class="shell">$ mkdir /mnt/192.168.1.101 #do this on the 'client'</span><br/>
-<span class="shell">$ <a href="mount.htm">mount</a> 192.168.1.101:/ /mnt/192.168.1.101 #do this on the 'client'</span><br/>
-<br/>
-<span class="shell">$ sudo fdisk -l</span><br/>
-<br/>
-<br/>
-<span class="h2">==EXT</span><br/>
-<a class="ext" href="http://Ext2Fsd.sf.net">Ext2Fsd.sf.net</a> <span class="quot2">>>Ext2Fsd is an open source linux ext2/ext3 file system driver for Windows systems <small>(NT/2K/XP/VISTA, X86/AMD64)</small>.</span><br/>
-<br/>
-<a class="ext" href="http://FS-Driver.org">FS-Driver.org</a> <small>[<small>[!NON-<a href="free.htm">FREE</a>!&nbsp;&nbsp;Source is locked closed.&nbsp;&nbsp;Do not use.&nbsp;&nbsp;For historical reference only.]</small>]</small> <span class="quot2">>>It provides Windows NT4.0/2000/XP/2003/Vista/2008 with full access to Linux Ext2 volumes <small>(read access and write access)</small>. This may be useful if you have installed both Windows and Linux as a dual boot environment on your computer.</span><br/>
-<br/>
-<span class="h2">==Reiser</span><br/>
-<a class="ext" href="http://RFSD.sf.net">RFSD.sf.net</a> <span class="quot2">>>ReiserDriver is an Installable File System Driver <small>(IFSD)</small>, used to easily <small>(and natively!)</small> read ReiserFS disk partitions under Microsoft Windows <small>(2K/XP)</small> by allowing ReiserFS partitions to appear as additional disks to the Windows operating system.</span><br/>
-<br/>
-<br/>
-<span class="h2">==VirtualBox</span><br/>
-In the VBox GUI Choose "Devices|Shared Folders..." and add a "Machine Folder".&nbsp;&nbsp;Share the c$ drive and name that share 'c'.<br/>
-<br/>
-Create a directory in <a href="gnunix.htm">GNUnix</a> that will represent the Shared Folder.<br/>
-<span class="shell">$ sudo mkdir /mnt/c</span><br/>
-<br/>
-<a href="mount.htm">Mount</a> the Shared Folder 'c' to <a href="mount.htm">mount</a>point /mnt/c as type "vboxsf"<br/>
-<span class="shell">$ sudo <a href="mount.htm">mount</a> -t vboxsf c /mnt/c</span><br/>
+<p class='main'><span class="rel">Related:</span> burn, CD, disk, driver, file, fstab, ISO, link, ntfs, sb<a href="mount.htm">mount</a>, USB<br/>
+<br/>
+<a class="ext" href="http://WinFlux.GoogleCode.com">WinFlux.GoogleCode.com</a> <span class="quot2">>>WinFlux: Filesystems in Windows <a href="user.htm">User</a>space!</span><br/>
+<br/>
+<a class="ext" href="http://Glandium.org/projects/vmfs-tools">Glandium.org/projects/vmfs-tools</a> <span class="quot2">>>Originally loosely based on the vmfs code from fluidOps, this set of tools has since evolved to handle more features from VMFS, such as extents, and allows to access VMFS through the standard Linux VFS with the help of the FUSE framework.</span><br/>
+<br/>
+<a class="ext" href="http://Ltr-Data.se/opencode.html">Ltr-Data.se/opencode.html</a> ImDisk is a virtual disk driver for Windows NT/2000/XP/2003/Vista/2008. It can use one or more disk image files to create virtual hard disk, floppy or CD/DVD drives .The install package installs a console-mode control program called imdisk.exe and a Control Panel applet. After install is finished, type imdisk without parameters for syntax help or double click the ImDisk icon in the Control Panel. It also adds a menu item in Windows Explorer so that you can right-click on a file to <a href="mount.htm">mount</a> it as a virtual disk drive. <a href="user.htm">User</a>s of mdconfig in <a href="free.htm">Free</a>BSD will probably be familiar with the command line syntax of imdisk.exe. The driver, <a href="service.htm">service</a> and control program can be uninstalled using the Add/Remove programs applet in the Control Panel. No reboot is required for installing or uninstalling.<br/>
+<br/>
+<a class="ext" href="http://ChitChat.at.InfoSeek.co.jp/vmware/vdk.html">ChitChat.at.InfoSeek.co.jp/vmware/vdk.html</a> <span class="quot2">>>With VDK you can <a href="mount.htm">mount</a> a VMware virtual disk to your Windows hosts and use them as another disk drive attached to your system.</span><br/>
+<br/>
+<span class="h2">==<a href="mount.htm">Mount</a> Windows Share <small>(SMB/CIFS)</small></span><br/>
+Use the backslash '\' to escape any of: <small>(, )</small>, &amp;, *, \<br/>
+<br/>
+<span class="shell">$ sudo mkdir /mnt/WindowsMachineOrIP/ShareName</span><br/>
+<span class="shell">$ sudo <a href="mount.htm">mount</a> -t cifs //WindowsMachineOrIP/ShareName /mnt/WindowsMachineOrIP/ShareName -o domain=YourDomain,<a href="user.htm">user</a>=Your<a href="user.htm">User</a>Name,pass=YourPassWord</span><br/>
+<br/>
+or<br/>
+<br/>
+<span class="shell">$ <a href="mount.htm">mount</a> -t cifs //WindowsMachineOrIP/ShareName /mnt/WindowsMachineOrIP/ShareName -o credentials=~/WindowsCredentialsFile.txt</span><br/>
+<br/>
+__file: ~/WindowsCredentialsFile.txt<br/>
+domain=SomeDomain<br/>
+<a href="user.htm">user</a>=Your<a href="user.htm">User</a>Name<br/>
+pass=YourPassWord<br/>
+__<br/>
+<br/>
+<br/>
+<span class="h2">==ISO</span><br/>
+<a class="ext" href="http://WinCDemu.sf.net">WinCDemu.sf.net</a> <span class="quot2">>>WinCDEmu is an open-source software that allows <a href="mount.htm">mount</a>ing CD/DVD images by clicking at the image files in Windows Explorer. It supports both Windows XP and Vista, is open-source and completely <a href="free.htm">free</a>ware.&nbsp;&nbsp;Version 2.0 supports ISO, CUE, BIN/RAW/IMG file formats as well as SMB network shares and includes a workaround for Windows cache bug.</span><br/>
+<br/>
+<span class="shell">$ sudo mkdir /mnt/somedir</span><br/>
+<span class="shell">$ sudo <a href="mount.htm">mount</a> -o loop Some_Image.iso /mnt/somedir # may require&nbsp;&nbsp;-t iso9660&nbsp;&nbsp;option</span><br/>
+<br/>
+<a class="ext" href="http://VaporCD.sf.net">VaporCD.sf.net</a> <span class="quot2">>>VaporCD can create a copy of a CD on your hard disk and <a href="mount.htm">mount</a> it as if it were the real CD. VaporCD works with Windows NT 4.0 or Windows 2000. This is very handy when you have extra hard drive space and get tired of changing out CD's. Also, yet another benefit VaporCD is faster than a normal CD-ROM.</span><br/>
+<br/>
+<br/>
+<span class="h2">==NTFS</span><br/>
+<span class="shell">$ ntfs-3g /dev/sda1 /mnt/windows -o force</span><br/>
+<br/>
+<span class="shell">$ fsutil.exe #<a class="ext" href="http://Technet.Microsoft.com/en-us/library/cc753059.aspx">Technet.Microsoft.com/en-us/library/cc753059.aspx</a>, <a class="ext" href="http://SS64.com/nt/fsutil.html">SS64.com/nt/fsutil.html</a>, <a class="ext" href="http://CommandWindows.com/fsutil.htm">CommandWindows.com/fsutil.htm</a></span><br/>
+<br/>
+<a class="ext" href="http://Support.Microsoft.com/kb/205524">Support.Microsoft.com/kb/205524</a> <span class="quot2">>>How to create and manipulate NTFS junction points</span><br/>
+<span class="shell">$ <a href="mount.htm">Mount</a>Vol.exe #Creates, deletes, or lists a volume <a href="mount.htm">mount</a> point.</span><br/>
+<span class="shell">$ linkd.exe #from the Microsoft Windows 2000 Resource Kit</span><br/>
+<span class="shell">$ DelRP.exe #from the Microsoft Windows 2000 Resource Kit</span><br/>
+<br/>
+<br/>
+<span class="h4">====.vmdk</span><br/>
+<a class="ext" href="http://ChitChat.at.infoseek.co.jp/vmware/vdk.html">ChitChat.at.infoseek.co.jp/vmware/vdk.html</a> <span class="quot2">>>With VDK you can <a href="mount.htm">mount</a> a VMware virtual disk to your Windows hosts and use them as another disk drive attached to your system.</span><br/>
+<br/>
+<br/>
+<span class="h4">====.spf</span><br/>
+<span class="shell">$ sb<a href="mount.htm">mount</a></span><br/>
+<br/>
+<span class="h4">====.vhd</span><br/>
+<span class="shell">$ imagex.exe #<a href="mount.htm">mount</a> .wim files</span><br/>
+<span class="shell">$ VHD<a href="mount.htm">Mount</a>.exe</span><br/>
+<br/>
+<br/>
+<span class="h4">====Unix NFS drive:</span><br/>
+<span class="shell">$ export #do this on the 'server'</span><br/>
+<br/>
+<span class="shell">$ mkdir /mnt/192.168.1.101 #do this on the 'client'</span><br/>
+<span class="shell">$ <a href="mount.htm">mount</a> 192.168.1.101:/ /mnt/192.168.1.101 #do this on the 'client'</span><br/>
+<br/>
+<span class="shell">$ sudo fdisk -l</span><br/>
+<br/>
+<br/>
+<span class="h2">==EXT</span><br/>
+<a class="ext" href="http://Ext2Fsd.sf.net">Ext2Fsd.sf.net</a> <span class="quot2">>>Ext2Fsd is an open source linux ext2/ext3 file system driver for Windows systems <small>(NT/2K/XP/VISTA, X86/AMD64)</small>.</span><br/>
+<br/>
+<a class="ext" href="http://FS-Driver.org">FS-Driver.org</a> <small>[<small>[!NON-<a href="free.htm">FREE</a>!&nbsp;&nbsp;Source is locked closed.&nbsp;&nbsp;Do not use.&nbsp;&nbsp;For historical reference only.]</small>]</small> <span class="quot2">>>It provides Windows NT4.0/2000/XP/2003/Vista/2008 with full access to Linux Ext2 volumes <small>(read access and write access)</small>. This may be useful if you have installed both Windows and Linux as a dual boot environment on your computer.</span><br/>
+<br/>
+<span class="h2">==Reiser</span><br/>
+<a class="ext" href="http://RFSD.sf.net">RFSD.sf.net</a> <span class="quot2">>>ReiserDriver is an Installable File System Driver <small>(IFSD)</small>, used to easily <small>(and natively!)</small> read ReiserFS disk partitions under Microsoft Windows <small>(2K/XP)</small> by allowing ReiserFS partitions to appear as additional disks to the Windows operating system.</span><br/>
+<br/>
+<br/>
+<span class="h2">==VirtualBox</span><br/>
+In the VBox GUI Choose "Devices|Shared Folders..." and add a "Machine Folder".&nbsp;&nbsp;Share the c$ drive and name that share 'c'.<br/>
+<br/>
+Create a directory in <a href="gnunix.htm">GNUnix</a> that will represent the Shared Folder.<br/>
+<span class="shell">$ sudo mkdir /mnt/c</span><br/>
+<br/>
+<a href="mount.htm">Mount</a> the Shared Folder 'c' to <a href="mount.htm">mount</a>point /mnt/c as type "vboxsf"<br/>
+<span class="shell">$ sudo <a href="mount.htm">mount</a> -t vboxsf c /mnt/c</span><br/>
 </p>
 <p class='footer'>
  Page generated from <a href=".txt/mount">mount</a> by <a href=".src/lens.el">lens.el</a>.</p>
