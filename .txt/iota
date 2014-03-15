@@ -1,27 +1,29 @@
-Related: CCPP, Product Future, Property, Promises, VIPM
+Related: CCPP, Product Future, Sources, Promises, Property, VIPM
 
-The IOTA (Intra-Owner Trade Agreement) is the legal binding social contract applied to Product Futures designed to autodistribute growth to those who pay for it by treating some % of profit as the payer's investment so all users gain co-ownership in the property used for the products they need.
+The IOTA (Intra Owner Trade Agreement) is the legal binding social contract applied to Product Futures designed to autodistribute growth to those who pay for it by treating some % of profit as the payer's investment so all users gain co-ownership in the sources used for the products they need.
 
 
-==Ruleset
-0. Investors gain real Property and usually also accept the Promises of others.  This means those who invest Property or Promises receive titles of real Property ownership in the VIPM and usually also receive Promises from others to operate and maintain that Property.  Some investments are money used to buy Property, while others investments are Promises of future work.
+==Rules
+1. Product is the investor's return:
+This means those who invest property or promises receive titles of real property ownership in the VIPM, under the terms of the IOTA, and receive the product itself as a side-effect of that ownership.  The product is not sold (except surplus) because it is already in the hands of those who need it.  Each investor spreads their investments across the various property needed to produce the quality and quantity of products they predict they will need.  This eliminates the collection of profit and also eliminates the payout of profit.
 
-1. Product is the investor's return.  This means the Product is not sold (except surplus) because it is already in the hands of those who need it.  Each investor spreads their investments across the various Property needed to produce the quality and quantity of products they predict they will need.  This eliminates the collection of profit and also eliminates the payout of profit.
+2. Promises are another investment:
+This means workers become owners in the VIPM when they commit to work in the future, but that property is contingent upon them completing those goals within the set timeframe.  This is probably the most complicated part of the system because it requires the VIPM be horizontally diverse enough to supply at least basic goods and services such as food, shelter, sanitation, health-care, transportation, etc.  This compensates workers without paying wages in the traditional sense.
 
-2. Promise-to-work is an investment.  This means some investors will commit to work in the future in return for co-ownership in the VIPM.  This eliminates the need for traditional wages.
+3. Profit is the payer's investment:
+This means we charge profit when selling surplus product, but treat some % of that profit as an investment in more sources that finally vests to the person who paid so everyone incrementally gains co-ownership in the property needed to produce the goods and services they use.
 
-3. Profit is the payer's investment.  This means we will charge profit against latecomers who buy surplus product but treat at least some % of that profit as an investment in more Property that will finally vest to the consumer who paid it so that every consumer incrementally gains co-ownership in the Property needed to produce the products they need.
-
-4. Secession is a protected right.  This means any subgroup may secede for any arbitrary reason while retaining their portion of ownership that Property.  This is an attempt to address the Tyranny of the Majority.
+4. Secession is an inalienable right:
+This means any subgroup may secede for any arbitrary reason while retaining their portion of property ownership.  This is an attempt to address the Tyranny of the Majority.
 
 
 ==Constraints
-As Consumer of some Product you MAY:
+As a product consumer you MAY:
   0. Use this instance for any purpose.
-  1. Modify this instance by renting or buying the Property needed for that modification.  (YOU ARE ALREADY A CO-OWNER IF YOU PAID PROFIT.)
-  2. Copy this instance by renting or buying the Property needed for that production.  (YOU ARE ALREADY A CO-OWNER IF YOU PAID PROFIT.)
+  1. Modify this instance by renting or buying the property needed for that modification.  (YOU ARE ALREADY A CO-OWNER IF YOU PAID PROFIT.)
+  2. Copy this instance by renting or buying the property needed for that production.  (YOU ARE ALREADY A CO-OWNER IF YOU PAID PROFIT.)
   3. Share this instance or a copy - whether modified or not.
 	If you share this object instance or a copy - whether modified or not, you MUST:
 	  A. Accompany each instance with a copy of this document.
-	  B. Treat all Profit gained through the sale of this object or through the rental of Property as an investment from that user toward the purchase of more Property.
-	  C. Issue Product Futures against the Property bought with that Profit and vest those Product Futures to the original payer.
+	  B. Treat all profit gained through the sale of this object or through the rental of property as an investment from that user toward the purchase of more property.
+	  C. Issue Product Futures against the property bought with that profit and vest those Product Futures to the original payer.
