@@ -16,17 +16,20 @@ This insures any Product for as much as the Property and Promises can be secured
 1. Property: Co-ownership in bus and tools etc. to operate and maintain the bus fleet.
 2. Promises: Contractural agreements from all the people required to operate and maintain the bus fleet.
 
+
 ==Sharing Property
-Goods are preallocated when the Users commit Property toward future production.
+Goods are preallocated when the users commit property toward future production.
+
 For example, owning .13% of an orchard means you automatically own .13% of the fruit.
 
 ==Swapping Promises
-Services are predictively scheduled when Workers commit Promises toward future production.
-For example, picking 1.3 tons more fruit than needed to harvest your % of the orchard means you have done work for those other orchard co-owners.
+Services are predictively scheduled when workers commit promises toward future production.
 
-When used together, these two optimizations allow us to 
+For example, picking more than your portion of the fruit in the orchard means you have done work for other orchard owners.
 
-We can specialize without passing tokens and without resorting to troubles of traditional barter by trading promises to work *before* production begins.
+Trading promises to work before production begins allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
+
+This nearly eliminates the need to use money at all, since the goods and services are already the property of those who need them.
 
 Mr. A may commit to work for Ms. B in return for Ms. B committing to work for Mr. A.
 
@@ -36,17 +39,16 @@ As a worker, you may choose to sign such contracts for anyone willing to accept 
 
 Other investments are commitments of Land or Capital, or whenever you pay Profit within the VIPM.
 
-As an Investor, you recieve full or partial Property Futures as a combination of:
+Property Futures are a combination of:
 
-1. Some % of co-ownership in the property for which you need the outputs.  For example, someone who drinks milk would want ownership in cattle while someone who uses honey would want ownership in bees.
+1. Property ownership in the sources for which you need products.  For example, someone who drinks milk would want ownership in cattle while someone who uses honey would want ownership in bees.
 
-2. Commitments from other Workers within the VIPM to supply the labor needed to operate that property on your behalf.  While you are fixing cars or painting buildings, those with which you have Swapped Skills will be milking cows and gathering honey.
-
-This gives us time to solve the "Simultaneous Coincidence of Wants" problem that faces typical barter, and nearly eliminates the need to use money at all, since the goods and services we need are already the property of those who need them.
+2. Promises from other workers within the VIPM to supply the labor needed to operate and maintain that property on your behalf.  While you are fixing cars or painting buildings, those with whom you swapped skills will be milking cows and gathering honey.
 
 Co-owners should advertise minimum allowable standards to avoid attracting workers unwilling to meet those constraints.
 
-Each Property Future represents all *potential* production of those Physical assets, and so is much more powerful/valuable than a typical currency.
+Property Futures are an imperfect insurance for any goods or service you may wish to guarantee, and backed by the physical sources required for that production.
+
 
 It might be useful to also issue 'tickets' against future payout instances to more closely resemble typical currency.
 
@@ -62,7 +64,7 @@ Property Futures are issued in response to any investment type, including when u
 
 Profit is accepted during the sale of surplus and then offered back to that payer as unvested Property Futures.
 
-The payers of profit gain property ownership in exactly the amount they pay above cost.  This distributes control to those willing to pay for that growth so Products become Free (as in Freedom) for every user.
+The payers of profit gain property ownership in exactly the amount they pay above cost.  This distributes control to those willing to pay for that growth so products become Free (as in Freedom) for every user.
 
 
 To insure production continues, a Property Future owner must either:
