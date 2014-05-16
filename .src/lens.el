@@ -128,7 +128,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 
 (defconst lens-email-link
   "\\([a-zA-Z0-9\.]\\)+@[^ \t\n]*"
-  "Specify protocol to include chars banned from implicit-HTTP.")
+  "email addrs")
 
 (defconst lens-implicit-HTTP
   "\\(\\([a-zA-Z0-9_-]\\)+\\.\\)+\\(aero\\|am\\|at\\|au\\|be\\|biz\\|ca\\|cat\\|cc\\|ch\\|com\\|coop\\|cx\\|cz\\|da\\|de\\|dk\\|edu\\|es\\|eu\\|fi\\|fr\\|gov\\|hu\\|ie\\|il\\|im\\|in\\|it\\|info\\|int\\|io\\|jp\\|jobs\\|lt\\|me\\|mil\\|mobi\\|museum\\|name\\|net\\|nl\\|no\\|nu\\|nz\\|org\\|pl\\|pro\\|pt\\|ro\\|ru\\|se\\|si\\|sk\\|tel\\|to\\|travel\\|tv\\|uk\\|us\\|ws\\|za\\)[^])}>:,; \t\n]*"
@@ -207,7 +207,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 		 ;;("^[ \t]*\\([0-9]\\|[A-Z]\\|[a-z]\\)+\\(\\.\\|:\\)$" "<span class=\"bullet\">\\&</span>")
 
  		 ("^[ \t]*\\(:\\|\\*\\|\\+\\|\\.\\)" "<span class=\"bullet\">\\&</span>")
-		 ;; 		 ("^[ \t]*:" "<span class=\"indent\">\\&</span>")
+		 ;;("^[ \t]*:" "<span class=\"indent\">\\&</span>")
 
  		 ("^::" "<span class=\"cmnt\">\\&" "</span>") ;;Batch-file comments
 		 ;;  		 ("^REM" "<span class=\"cmnt\">\\&" "</span>") ;;Batch-file comments
@@ -238,7 +238,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 		 ("\"\\([a-zA-Z]:\\\\.+?\\)\""
 		  "<a class=\"ext\" href=\"file:///\\1\">\\&</a>")
 
-		 ;; 		 ;;see `lens-local-M$-path'
+		 ;;see `lens-local-M$-path'
 		 ("[a-zA-Z]:\\\\[^]):,;? \t\n]+"
 		  "<a class=\"ext\" href=\"file:///\\&\">\\&</a>")
 
@@ -257,9 +257,8 @@ All terms less than this match only at the beginning of words (using `\\b')")
 
 		 ;;TODO: encode & to &amp;
 		 ;;see `lens-email-link'
-		 ("\\([a-zA-Z0-9]\\)+@[^ \t\n]*"
+		 ("\\([a-zA-Z0-9\.]\\)+@[^ \t\n]*"
 		  "<a class=\"eml\" href=\"mailto:\\&\">\\&</a>")
-
 
 		 ;;see `lens-implicit-HTTP'
 		 ("\\(\\([a-zA-Z0-9_-]\\)+\\.\\)+\\(aero\\|at\\|au\\|be\\|biz\\|ca\\|cat\\|cc\\|ch\\|com\\|coop\\|cx\\|cz\\|da\\|de\\|dk\\|edu\\|es\\|eu\\|fi\\|fr\\|gov\\|hu\\|ie\\|il\\|im\\|in\\|it\\|info\\|int\\|io\\|jp\\|jobs\\|lt\\|me\\|mil\\|mobi\\|museum\\|name\\|net\\|nl\\|nu\\|nz\\|org\\|pl\\|pro\\|pt\\|ro\\|ru\\|se\\|si\\|sk\\|tel\\|to\\|travel\\|tv\\|uk\\|us\\|ws\\|za\\)[^])}>:,; \t\n]*"
@@ -287,7 +286,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
   (interactive)
   (let ((lens-started (current-time)))
     (lens-gen-missing-image-files)
-    (shell-command "ls -1 > pages") ;;BUGBUG
+    (shell-command "ls -1 > -pages") ;;BUGBUG
     (lens-build-mapping)
 
     (if (not (file-exists-p lens-output-dir))
@@ -415,12 +414,13 @@ All terms less than this match only at the beginning of words (using `\\b')")
               (insert
 			   (concat
 				"<p class='header'>\n"
-				" <a href=\"home.htm\">Home</a> |"
-				;; " <a href=\"faq.htm\">FAQ</a> |"
-				" <a href=\"diary.htm\">Diary</a> |"
-				" <a href=\"projects.htm\">Projects</a> |"
-				" <a href=\"todo.htm\">Todo</a> |"
-				" <a href=\"pages.htm\">Pages</a> |"
+				" <a href=\"-home.htm\">Home</a> |"
+				;; " <a href=\"-faq.htm\">FAQ</a> |"
+				" <a href=\"-diary.htm\">Diary</a> |"
+				" <a href=\"-projects.htm\">Projects</a> |"
+				" <a href=\"-todo.htm\">Todo</a> |"
+				" <a href=\"-pages.htm\">Pages</a> |"
+				" <a href=\"-about.htm\">About</a> |"
 				"</p>\n"
 				))
 

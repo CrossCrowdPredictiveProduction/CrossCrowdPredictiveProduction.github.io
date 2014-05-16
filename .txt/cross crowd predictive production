@@ -2,11 +2,11 @@ Related: IOTA, Property Future, VIPM
 
 Cross Crowd Predictive Production is a new business model that helps people share property and swap promises for production under their full control and at the real cost of that production.
 
-This approach requires a VIPM operating under the constraints of the IOTA.
+A full implementation requires a VIPM operating under the constraints of the IOTA.
 
-Investors commit property, promises or profit to receive Property Futures which are a combination of real property ownership and work promises.  They eventually receive products as the natural return from that property.
+Investors commit sources, promises or profit to receive Property Futures which are a combination of real property ownership and work promises.  They eventually receive products as the natural return from that property.
 
-Unlike a traditional consumer-cooperative, these consumer/investors become *real* co-owners in the VIPM and receive the product as a natural side-effect of that ownership.
+Unlike a traditional consumer-cooperative, investors become *real* co-owners in the VIPM and receive the product as a natural side-effect of that ownership.
 
 The VIPM does not 'pay' the investors with product; the owners of the sources own their portion of the products already, even before they is produced.
 
@@ -42,35 +42,10 @@ Each of these Property Futures is sold to others within the VIPM that predict th
 
 Some of these Property Futures are sold for money to buy property such as land and tools and cattle, etc., while the rest are 'sold' to workers in return for work promises.
 
-Surplus milk is sold to non-owners for a profit, but the profit is treated as the payer's investment, causing those late-coming consumers to receive Product Futures in the growth of the dairy.
+Surplus milk is sold to non-owners for a profit, but the profit is treated as the payer's investment, causing those late-coming consumers to receive Product Futures in the growth of that dairy or toward the construction of another dairy.
 
 
-==Rules of the IOTA
-1. We use property ownership in the sources of production to pre-allocate the product to those who predict they will want it.
-
-And so there is no need to buy or sell products within the VIPM when those products are already in the hands of those who will consume them.  Incidentally, this also causes production to be strictly for use-value, and eliminates profit naturally, except when selling surplus, since the price they pay as consumers is exactly the costs they pay as owners.
-
-
-2. We use promises of work to schedule commitments of labor so that we do not need to pay wages in the traditional sense.
-
-For example, A commits to work for B in return for B committing to work for A.  But a real working system would have at least dozens and probably hundreds of different products and so exchanges will be chained as A->B->C->D->E->A such that a worker can milk cattle and still have dental assurance even if the dentist is allergic to milk.
-
-Together, these minimize the need for token-passing within that VIPM and creates real security for those participants.
-
-The only need for external money is further vertical integration as we incrementally purchase the entire tree of production for each product we want.
-
-
-3. After some time, owners will likely have surplus (especially after a few years of growth and natural regeneration of species).
-
-Each owner can choose to do whatever they like with their own surplus, but if it is sold, the IOTA requires profit be treated as the payer's investment.
-
-Treating profit as the payer's investment auto-distributes control to those who pay for that growth.
-
-
-4. Any subgroup is allowed to split from the rest of the group for any reason while retaining their portion of ownership.  This keeps control local as the form scales in total size and resolve devisive disputes.
-
-
-==Example
+==Another Example
 Say you have ownership in the Olive orchard and find yourself with 100 extra pounds of Olives. You can turn these into oil and try to burn them in a diesel engine, or you can offer them as a sacrifice to your God, or whatever you want, but if you sell them, you must treat any amount collected above costs as though the buyer had made an investment in the VIPM.
 
 If you do all of the work of selling the Olives, then you can claim that everything the buyer paid beyond any other costs you may have incurred are your wages for doing that work or you can arbitrarily mark some of that as profit since you are not using the market to determine your wages.
@@ -80,7 +55,7 @@ But if you hire someone to sell the Olives, or (and this next case will likely b
 This means you will want to own just barely enough of each part of the VIPM as you need of each product; though actually you will likely want to own just a little bit more as a sort of 'insurance' against the possibility lean years of production caused by drought or pestilence, etc.
 
 
-==
+==Commentary
 Imagine a crowd-funded corporation where the only shareholders are the very consumers of that product and their ROI is the product itself.
 
 Instead of collecting profit from others, they avoid paying profit themselves.
@@ -105,30 +80,28 @@ Workers who invest and co-own more of the Avocado orchard than they are able to 
 
 When those workers have sufficient ownership in the sources for which they need the products, they will not be buying products from anyone, but will own them already, as a side-effect of their owning the sources needed for that production.
 
+==CCPP is not a Cooperative
 You may be tempted to dismiss this as simply a Consumer Cooperative, but this is absolutely NOT a Consumer Cooperative.
 
 1.) Consumer Cooperatives *sell* the product back to the co-owners and collect a profit during that transaction that a committee then doles out in a Tyranny of the Majority fashion.
 
-1a.) CCPP only sells product to non-owners, and only when there is surplus, and treats that profit as an investment from that payer - causing ownership and control to be automatically distributed at the point of sale back to the actor who was willing to pay for it. This system minimizes and nearly eliminates the trading of goods since the Property owner of does not buy the Objective, but owns it already as a result of his Property ownership.  The trading of goods will tend toward zero but does not reach stasis because of newcomers into the system (even just babies being born), and because people's interests change across time.
+1a.) CCPP only sells product to non-owners, and only when there is surplus, and treats that profit as an investment from that payer - causing ownership and control to be automatically distributed at the point of sale back to the actor who was willing to pay for it. This system minimizes and nearly eliminates the trading of goods since the Property owner of does not buy the Objective, but owns it already as a result of his Property ownership.  The trading of goods will tend toward zero but will reach stasis only for short periods because of newcomers entering the system (even just babies being born), and because people's interests change across time.
 
 
 2.) Consumer Cooperatives are "Democratically Controlled" with one-member/one-vote.
 
-2a.) CCPP is far more autarchic - where any member can 'fork' his portion of the Property and secede from the union or sell those shares if a split is attempted that is finer than reasonable divisibility (you can't both feed a single milk-cow grain and NOT feed that cow grain, but can divide a herd).
+2a.) CCPP is far more autarchic - where each member can own as little or as much sources as they predict they will want of the product.  Subgroups can secede or 'fork' their portion from the rest without punishment or sell those shares if the attempted split is finer than reasonable divisibility (you can't both feed a single milk-cow grain and NOT feed that cow grain, but can divide a herd).
 
 2b.) Each member has exactly as much vote power as he has ownership. If you own 11% of a roto-tiller and your neighbor owns 22%, then you have only half as much vote power in decisions such as "how often should we change the oil".
 
 
 3.) Every Consumer Cooperative I know of is only concerned with buying products that were made by Capitalists.
 
-3a.) CCPP is primarily about ownership and control of the entire tree of production - recursively, and works toward a Vertically Integrated Commons where we, the people, own the farms and factories and land and water rights and all the other Property and supporting Property required to reproduce those things.
+3a.) CCPP is primarily about ownership and control of the entire tree of production - recursively, and works toward a Vertically Integrated Permaculture Mosaic (VIPM) where we, the people, own the farms and factories and land and water rights and wells and refineries and mines and forges and all the other property required to produce the products we need.
 
+We, the consumer *already* pay all the costs of production; we foot the entire bill and we also pay profit because we choose to pay late.
 
-Customers *already* pay all the Costs of production. We, the consumers, foot the entire bill. And we *also* pay Profit because we choose to pay late.
-
-But if we could organize to pay early - to collectively purchase the Property needed to produce the products we need - then, we would still need to pay all costs.
-
-But since we would own the products as a side-effect of our owning the sources, we would not be 'buying' from ourselves, and so COULD NOT pay Profit, for that final transaction would not even occur!
+But if we organize and pay early - to collectively purchase the property needed to produce the products we need - then we will still need to pay all costs, but since we will own the products as a side-effect of our owning the sources, we will not be 'buying' from ourselves, and so cannot pay profit, for that final transaction will not even occur!
 
 Profit is *undefined* when the consumers own the sources and accept the product as ROI.
 

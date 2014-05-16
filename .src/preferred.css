@@ -25,31 +25,32 @@ span.bold{font-weight:bold;}
 
 span.h1, span.h2, span.h3, span.h4 {font-family:arial, san-serif; background:#ddd;}
 
-span.h1{font-size:200;}
-span.h2{font-size:175%;}
-span.h3{font-size:150%;}
-span.h4{font-size:125%;}
+span.h1 {font-size:200;}
+span.h2 {font-size:175%;}
+span.h3 {font-size:150%;}
+span.h4 {font-size:125%;}
 
-a{text-decoration:none;}
-a:visited{text-decoration:none;}
-a:hover,a:focus{text-decoration:none;}
+a {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover,a:focus {text-decoration:none;}
 
-input{font-size:65%;}
-img{float:right;}
+input {font-size:65%;}
+img {float:right;}
 
-span.rel{background:#070; color:#fff;}
-span.date{background:#595959; color:#fff;}
+span.rel {background:#070; color:#fff;}
+span.date {background:#595959; color:#fff;}
 
-span.quot{background:#ffe;}
-span.quot2{background:#eff;}
-span.quot3{background:#fef;}
+span.quot {background:#ffffee;}
+span.quot2 {background:#ffeeff;}
+span.quot3 {background:#eeffff;}
 
-span.shell{background:#ddd;}
-span.cmnt{background:#dfd;}
-span.type{background:#9bf;}
+span.shell {background:#ddd;}
+span.cmnt {background:#dfd;}
+span.type {background:#9bf;}
 
 a {color:#008; background:#e4e4ee;}
-a:hover, a:focus {background:#e4e4a0;}
+a:visited {color:#006; background:#eeeeee;}
+a:hover, a:focus {color:#008; background:#e4e4a0;}
 
 a.ext {color:#080; background:#e4eee4;}
 a.ext:hover, a.ext:focus {background:#e4a0e4;}

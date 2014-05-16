@@ -1,35 +1,35 @@
-These are all FOSS unless otherwise indicated.
+Let's build an arcade in the VIPM with simple computers displaying onto LCD TVs, running GNUnix and hosting these free games.
 
-Let's build an arcade with regular computers displaying on LCD TVs.
-The computers will run GNUnix and host free games such as:
-
-
-====Favorites
+==Favorites
 NJam.sf.net multi-player pacman variant
 Tumiki.sf.net Tumiki Fighters >>Salvage parts from enemies to enhance your firepower.
 WordWarVI.sf.net Great battle between emacs and vi editors.
 MARSShooter.org Top-down shoot-em-up.  Uses SFML
 Linux.TLK.fr/games/Powermanga Top-down shoot-em-up
-SMW.72DPIARMY.com "'Super Mario War'" Funny, multi-player super mario variant
-Abuse.zoy.org >>Abuse is a dark 2D side-scrolling platform game developed by Crack dot Com in 1995. It features beautiful lighting, realistic animation and nasty alien-like creatures to destroy. It is now maintained by Sam Hocevar in an attempt to prevent it from vanishing from the Internet.
+SuperMarioWar.GoogleCode.com >>The original Super Mario deathmatch fan game.
+Abuse.zoy.org >>dark 2D side-scrolling platform game
 home.no.net/munsuun/Tuxpuck >>air hockey with a twist
 Smokin-Guns.org >>WITH CORDITE IN THE AIR, SPLINTERED STEEL, SHELL CASINGS AND POWDER BURNS, THERE'S ONLY ONE EXPLANATION...
 
-====Hangouts
+==News and collections
+FaceBook.com/fossgames >>Free* and Open Source Games (*free as in freedom)
+OSGameClones.com >>
+reddit.com/r/opensourcegames
+LGDB.org >>Linux Game DataBase
+GamingOnLinux.com >>
+LinuxGameAwards.org
+YouTube.com/user/FOSSGamers
 FreeGamer.BlogSpot.com
 UbuntuGames.org
 PlayDeb.net
-
-==News and Collections
-FreeGamer.BlogSpot.com and FreeGameDev.net
+FreeGamer.BlogSpot.com
+FreeGameDev.net
 Gaming.GWOS.org >>Ubuntu Gamers Arena is a website that is dedicated to gaming and game related subjects on Ubuntu. You'll find a huge, detailed, but easy-to-browse game list, a lot of gaming guides, game related events, and reviews.
 linuX-gamers.net >>ENJOY Linux Games
 LibreGameWiki.org >>the free gaming encyclopedia
 SourceFiles.org/Games has a big list of especially older code.
 Jeuxlibres.net >>Bienvenue sur Jeux libres, un catalogue de jeux videos libres principalement sous Linux. Ce site est aussi bien destine a des utilisateurs neophytes dans le domaine, qu'a des personnes connaissant bien Linux.
 OSGamer.org >>Open Source Gaming Portal - FREE GAMES, REVIEWS and DOWNLOADS
-OMNetwork.net >>RoyaltyFree&Free design resources
-OpenContentGames.org
 Games.linux.sk lots of older stuff
 Hippo.nipax.cz >>We are group of independet programmers. Our main hobby is creating computer games. Our games are mainly released under GPL. There are some exceptions. You know - sometimes you write 'rm -rf /' and you may lose some source codes.
 Comisat-Games.sf.net >>Comisat Games Collection is an all-in-one free collection of games written in gambas for unix-like system, available in italian and in english.
@@ -58,17 +58,26 @@ SpeedHack.Allegro.cc/entrants
 LudumDare.com >>Ludum Dare is a regular accelerated solo game development competition.  Entrants develop games from scratch in 48 hours, based on a theme suggested by community.
 Djl-Linux.org >>Djl is an open-source (GPL licensed) game manager written in Python 2.5 for the GNU/Linux Operating Systems. It is inspired by Valve's Steam software for Windows.
 Blender-Games.webs.com >>Welcome To Blender-Games! Here at blender-gameswe are posting most, if not all, completed blender games, so that you don't have to search through google and BlenderArtist!
-
+OSGameClones.com >>This site tries to gather open-source reimplementations of great old games in one place.
 
 ==Unsorted (fresh finds at top)
+Shattered Time >>the Medieval past, Steampunk present, and Cyberpunk future are torn apart by a Rift in time.
+Zero-K.info >>free, multiplatform, open-source RTS where massive robot armies fight an endless conflict.
+X-Speed-Race.sf.net >>Drive the super fast cars
+Hexel >>A voxel based exploration game
+SteamPac.sf.net >>
+Wiki.Flightgear.org/Bombable >>Bombable turns Flightgear into a combat flight simulator
+BattleCity.org >>
+Mandarancio.github.io/OpenGOO >>A free and open clone of World Of Goo.
+icculus.org/gtkradiant >>The open source, cross platform level editor for id Tech games.
+Ya3dag.de >>Yet another 3d adventure game
+DDayDev.com >>Completely free to play World War II game
 TheDarkMod.com >>THE DARK MOD 2.0 is a free, first-person stealth game inspired by the Thief series by Looking Glass Studios. It recreates the essence of the original Thief games on a more modern engine. Both a game and a mission-creation platform, The Dark Mod allows players and mappers alike to enjoy missions in a gothic steampunk universe.
-
 Gigalomania.sf.net >>Gigalomania is an open source 2D Real Time Strategy god game, available for all popular desktop and mobile platforms, on PCs, tablets and phones. The gameplay consists of researching and developing new technology with which to conquer your enemies, from rocks and sticks to nuclear weapons and spaceships. You can advance through ten different ages, from the stone age to the future. There are 28 different maps to play through.
-
 AdventureGameStudio.co.uk >>Adventure Game Studio (AGS for short) allows you to create your own point-and-click adventure games, similar to the early 90's Sierra and Lucasarts adventures. It consists of an easy-to-use development environment, and run-time engine.
 >Q. But the GPL will protect you... go on, can I have the source?
 >>A. No it won't. In theory it does, but what happens when someone goes and breaches it? I don't have the time or energy to waste chasing up lamers who have blatantly ignored the license agreement.  Sorry.
->>> Now under the Artistic license!: http://www.bigbluecup.com/yabb/index.php?topic=43383.0 or https://svn.bigbluecup.com:7743/svn/ags/trunk (user: guest, pass: <BLANK>)
+>>> Now under the Artistic license!
 
 ZeroBallistics.sf.net Tanks
 
@@ -106,13 +115,11 @@ NonGNU.org/aviation >>Aviation is a free flight simulator meant to be somewhere 
 
 VioletLand.GoogleCode.com >>In this game the player should help a girl by name of Violet to struggle with hordes of monsters. For this purpose the various weapon, and also the special abilities of the heroine which are opening with experience can be used. In game there are elements of RPG in the form of strength-agility-vitality and derivatives. Also there is an unique feature: dynamic change of day and night.
 
-Racer.sf.net >>Racer aims to be an interesting open source racing game, inspired by (but not a clone of) the F-Zero series.
-
 Pseudoform.org >>Formerly known as the Portalized project, Pseudoform is a community-driven collaboration project that aims to create an involving and brain-melting first-person puzzle-solving game. It doesn't have a finite goal nor a clearly defined target audience. While some players might enjoy solving puzzles, other might prefer creating these puzzles or other game assets. Of course, the puzzle aspect could be ignored altogether by those who simply enjoy toying with physics. The fun possibitilies are certainly endless!
 
 Critterding.sf.net >>Critterding is a "Petri dish" universe in 3D that demonstrates evolving artificial life. Critters start out with completely random brains and bodies, but will automatically start evolving into something with much better survival skills.
 
-Home.GNA.org/afterburn >>AfterBurn © is a Platform-Independent Space Shooter .It is Open Source and Skinnable .
+Home.GNA.org/afterburn >>AfterBurn is a Platform-Independent Space Shooter .It is Open Source and Skinnable .
 
 WWW710.Univ-Lyon1.fr/ftp/xbl/xbl.html >>X Window block dropping game in 3 Dimension
 
@@ -121,8 +128,6 @@ Pessimization.com/software/jools >>Jools is a graphical puzzle game in the tradi
 MicroWar.sf.net >>MicroWar is 'Space Invaders' style arcade game, in the cruel world of micro-compter industry. You're a Macintosh faced to invading Wintel hordes year after year, kill more PC. Developped with python and pygame library.
 
 JawsOnAShip.sf.net (java)>>It is a simple war game.  You have to destroy spacecrafts that come to invade the earth.  Seven levels with five different types of hostile spacecrafts.  If you have destroyed 10 spacecrafts you get into the next level.
-
-SpinPong.sf.net >>SpinPong is a Pong game written with Python and Pygame library.  You versus PC.
 
 OstrichRiders.sf.net >>Ostrich Riders is a free clone of the arcade game "Joust".  It's a sort of fighting arcade game for one or two players, where the players, riding flying ostriches, have to collide the opponents while being vertically higher.
 
@@ -146,8 +151,6 @@ OgreScript.sf.net "'
 
 Jason.unit1.pl/?strona=10 >>Too Many Troopers
 
-SmashBattle.sf.net >>Smash Battle is a cross platform, 8-bit style game where two, three or four player face off against each other. The game was inspired by the mario battle minigame from mario 3 when we started developing, but changed a lot over time.
-
 Unknown-Horizons.org >>Unknown Horizons is a 2D realtime strategy simulation with an emphasis on economy and city building. Expand your small settlement to a strong and wealthy colony, collect taxes and supply your inhabitants with valuable goods. Increase your power with a well balanced economy and with strategic trade and diplomacy.
 
 ALICE.Loria.fr >>ALICE is an INRIA project-team that aims at studying some fundamental aspects of Computer Graphics. More specifically, we study the interaction of light with the geometry of the objects. The lighting problem consists in designing accurate and efficient numerical simulation methods for the light transport equation. The geometrical problem consists in developing new solutions to transform and optimize geometric representations. Our original approach to both issues is to restate the problems in terms of numerical optimization. We try to develop solutions that are provably correct, scalable and numerically stable.
@@ -162,7 +165,6 @@ CorporateDrones.WordPress.com >>Angstron 2: droid hunter
 
 BatteryPoweredGames.BlogSpot.com >>Host of mobile smart games , geared to deliver desktop-like fun to mobile devices. Multiple plataforms supported (Linux Mobile, NetBooks, Java Cellphones and very soon, PocketPC)
 
-Q3Rally.com >>Q3Rally is a mod for OpenArena that turns it into a fully fledged racing game, with racing modes, deathmatch modes, capture the flag, demolition derby and more.
 
 Q3Min.org >>This is a community project managed by dedicated Quake III Arena enthusiasts. Its purpose is to provide a freely distributable minimal version of Q3A that is fully compatible with the original game created by id Software. We wish to make a package that can use different mods as well as custom maps made for the original game Q3A. The package should have a reasonably small size for easy downloading.
 
@@ -391,8 +393,6 @@ GeoCities.com/xifrac >>This is a simple 3D packing game implemented originally i
 Hoelzro.net/eot >>Epic of Thalia is an RPG of the non-MMO variety that the three of us started in our high school days.  First it was just snowballing ideas, but now that we're proficient in the skills needed to make the idea a reality, we have started to actively develop it into a game.  It's still very much in the alpha stage, so check back often for updates!
 
 http://www.earlham.edu/~peters/nomic.htm >>Nomic  A Game of Self-Amendment Peter Suber, Philosophy Department, Earlham College    Nomic is a game I invented in 1982.  It's a game in which changing the rules is a move.  The Initial Set of rules does little more than regulate the rule-changing process.  While most of its initial rules are procedural in this sense, it does have one substantive rule (on how to earn points toward winning); but this rule is deliberately boring so that players will quickly amend it to please themselves.  The Initial Set of rules, some commentary by me, and some reflections by Douglas Hofstadter, were published in Hofstadter's "Metamagical Themas" column in Scientific American in June of 1982.  It was quickly translated into many European and Asian languages.  Games were regularly played, and kicked off, the ARPANET, the Defense Department network which sired the Internet.  Nomic has been used to stimulate artistic creativity, simulate the circulation of money, structure group therapy sessions, train managers, and to teach public speaking, legal reasoning, and legislative drafting.  Nomic games have sent ambassadors to other Nomic games, formed federations, and played Meta-Nomic.  Nomic games have experienced revolution, oppressive coups, and the restoration of popular sovereignty.  Above all, Nomic has been fun for thousands of players around the world.  For me, it was intended to illustrate and embody the thesis of my book, The Paradox of Self-Amendment, that a legal "rule of change" such as a constitutional amendment clause may apply to itself and authorize its own amendment.  (Nomic is the third appendix of the book.)
-
-http://savannah.nongnu.org/projects/daredevils >>Daredevils is a 3D racing game where vehicles race at great speeds on dangerous tracks.
 
 SeriousGames.com SeriousGames.ning.com
 
@@ -1195,6 +1195,10 @@ Cultivation.sf.net >>Cultivation is a game about a community of gardeners growin
 
 
 ==Auto racing, car driving
+Savannah.NONGNU.org/projects/daredevils >>Daredevils is a 3D racing game where vehicles race at great speeds on dangerous tracks.
+Q3Rally.com >>Q3Rally is a mod for OpenArena that turns it into a fully fledged racing game, with racing modes, deathmatch modes, capture the flag, demolition derby and more.
+Racer.sf.net >>Racer aims to be an interesting open source racing game, inspired by (but not a clone of) the F-Zero series.
+BloBoats.dy.fi >>Bloboats is an arcade-like boat racing game contributing to the Assembly '06 game development competition in the hybrid spirit of SMB-like platform jumpers and elasto mania / xmoto like motocross-I'm-faster-than-you games.
 RigsOfRods.com, RigsOfRods.sf.net, RigsOfRods.BlogSpot.com >>Rigs of Rods (also known as RoR), is a truck, car, airplane and boat simulator. You can drive, fly or sail in total freedom in an open environment. What makes RoR different to most simulators is its unique soft-body physics: vehicles chassis and wheels are simulated in real-time as flexible objects, giving the simulation an extremely accurate behavior, while allowing the vehicles to be simply specified by their structural composition, as a network of interconnected nodes (forming the chassis and the wheels). Crashing into walls or terrain can permanently deform a vehicle in a realistic manner. In addition to its unique soft-body physics, RoR also features an advanced flight model based on blade element theory, allowing the accurate simulation of any airplane, base on their physical dimensions and wing airfoils. It also features an accurate buoyancy model based on elemental pressure gradients, enabling boats with complex hulls to move realistically in the swell.
 TORCS.sf.net >>The Open Racing Car Simulator
 Racer.nl >>free cross-platform car simulation project
@@ -1228,7 +1232,7 @@ ri-li.org railroad(train)  >>You drive a toy wood engine on many levels
 ToyCars.sf.net
 TuxRacer.sf.net penguin sliding on ice and snow
 Critical-Care.sf.net ambulance driving
-ManiaDrive.raydium.org
+ManiaDrive.raydium.org and ManiaDrive.sf.net
 CityScape.sf.net >>flying a car-like vehicle through a small city and surrounding terrain
 Ri-Li.org >>You drive a toy wood engine in many levels
 StuntCarRacer.sf.net car physics stuntcarracer.sf.net/shot03.jpg
@@ -1436,6 +1440,9 @@ Open-Football.sf.net >>OF3D Coming Soon
 
 
 ==Pong
+qpong.hypexr.org >>
+QPong.sf.net >>Another clone of the known game pong.
+SpinPong.sf.net >>SpinPong is a Pong game written with Python and Pygame library.  You versus PC.
 CHARGE-GAME.webs.com >>CHARGE is a fast-paced arcade game for Linux and Windows.  As you bash your opponent, each level accellerates the tempo, and you must collect power-ups to stay ahead of the game.  CHARGE is based on "Pong", the original arcade game, with an added dimension (and other goodies).  The concept is not new, but CHARGE aims to provide greater playability by giving visual keys to the ball's position, e.g. through the use of per-pixel lighting.
 SSTPong.sf.net >>SSTPong is a breakout style pong game used to test both a player's skill and web services. Currently there are two flavors of SSTPong, sstpong-classic and sstpong-plus. The classic edition is just a normal java breakout game. The plus edition provides the same great gameplay that exists in the classic edition, but with a twist. When the bricks are hit, computer generated test data is sent to a web service.
 www.NonGNU.org/tong >>Sometimes, the total is greater than the sum of the parts. Tetris and Pong are classics, addictive and unshakable from their places in gaming history. TONG is the result of mixing the two, capitalizing on the essential qualities of each classic and adding new twists of its own to make an explosive chemical reaction out of it all.
@@ -1463,7 +1470,8 @@ GTKPool.seul.org 2D pool (billiards)
 HostNotFound.it/kbilliards.php >>a funny billiards simulator game, under KDE, Linux
 
 
-==Side
+==Side Scrolling
+SmashBattle.sf.net >>Smash Battle is a cross platform, 8-bit style game where two, three or four player face off against each other. The game was inspired by the mario battle minigame from mario 3 when we started developing, but changed a lot over time.
 Shooter.sf.net >>Shoot(r) is a shoot'em up which use OpenGL
 SauerMod.sf.net >>Gameplay Extensions for the Sauerbraten Engine, including Bots and Enhancements to the First Person Shooter, as well as a new Side Scrolling Platformer, and an upcoming Kart Racing Simulator.
 HeliMech.sf.net >>This is a side scrolling game using C++ and sdl 2d graphics.  It is about a helicopter that transforms into a robot with a sword and shield.  Gameplay will be like a fighting game in robot mode and a shooting game in helicopter mode.
@@ -1492,8 +1500,7 @@ SuperTux.lethargik.org >>SuperTux is a classic 2D jump'n run sidescroller game i
 BlinkenSisters.sf.net >>Hunt for the Lost Pixels mario
 Super-Tux.sf.net Mario Bros
 SecretMaryo.org >>designed similar to the classic Super Mario Nintendo games
-MMario.sf.net >>Mega Mario
-BloBoats.dy.fi >>Bloboats is an arcade-like boat racing game contributing to the Assembly '06 game development competition in the hybrid spirit of SMB-like platform jumpers and elasto mania / xmoto like motocross-I'm-faster-than-you games.
+MMario.sf.net >>Mega Mario is a Super Mario Bros. 1 clone.
 FunnyBoat.sf.net >>Trip on the Funny Boat
 OpenMortal.sf.net funny Mortal Combat clone
 JunoPlay.com/pengupop >>Finally a networked multiplayer game in the vein of the puzzle classic Bust a Move/Puzzle Bobble!
@@ -1884,6 +1891,7 @@ www-2.cs.cmu.edu/~quake >>Our goal is to develop the capability for predicting, 
 
 
 ==Dev
+GoDotEngine.org 
 TuxCap.sf.net >>The TuxCap Games Framework is a GNU/Linux and Mac OSX port of the PopCap Games Framework used for 2D game development. It comes with PyCap Python bindings, a fast 2D physics engine, a particle engine, widgets and many documented examples.
 Gluon.TuxFamily.org >>Gluon is a high-level game development library for the KDE desktop enviornment. It is the combination of the KGL, KAL and KCL libraries for a single, complete games devlopment solution, supporting physics, graphics, audio and controllers.
 QCake.org >>QCake (GPL) is a programming environment as well as a scene editor for 3D games based on PLIB (TM). QCake will support almost all PLIB functions.
