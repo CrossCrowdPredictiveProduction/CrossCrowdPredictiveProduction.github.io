@@ -12,8 +12,8 @@ home.no.net/munsuun/Tuxpuck >>air hockey with a twist
 Smokin-Guns.org >>WITH CORDITE IN THE AIR, SPLINTERED STEEL, SHELL CASINGS AND POWDER BURNS, THERE'S ONLY ONE EXPLANATION...
 
 ==News and collections
+OSGameClones.com >>This site tries to gather open-source reimplementations of great old games in one place.
 FaceBook.com/fossgames >>Free* and Open Source Games (*free as in freedom)
-OSGameClones.com >>
 reddit.com/r/opensourcegames
 LGDB.org >>Linux Game DataBase
 GamingOnLinux.com >>
@@ -24,6 +24,7 @@ UbuntuGames.org
 PlayDeb.net
 FreeGamer.BlogSpot.com
 FreeGameDev.net
+LudumDare.com >>Ludum Dare is a regular accelerated solo game development competition.  Entrants develop games from scratch in 48 hours, based on a theme suggested by community.
 Gaming.GWOS.org >>Ubuntu Gamers Arena is a website that is dedicated to gaming and game related subjects on Ubuntu. You'll find a huge, detailed, but easy-to-browse game list, a lot of gaming guides, game related events, and reviews.
 linuX-gamers.net >>ENJOY Linux Games
 LibreGameWiki.org >>the free gaming encyclopedia
@@ -55,12 +56,11 @@ DebianLinux.net/games.html
 K64.sf.net >>The K64 project wants to provide a collection of improved clones of old videogames from various platforms like Commodore 64
 Live.Linux-Gamers.net >>live.linuX-gamers.net is a Linux live-dvd distribution: "boot 'n play"
 SpeedHack.Allegro.cc/entrants
-LudumDare.com >>Ludum Dare is a regular accelerated solo game development competition.  Entrants develop games from scratch in 48 hours, based on a theme suggested by community.
 Djl-Linux.org >>Djl is an open-source (GPL licensed) game manager written in Python 2.5 for the GNU/Linux Operating Systems. It is inspired by Valve's Steam software for Windows.
 Blender-Games.webs.com >>Welcome To Blender-Games! Here at blender-gameswe are posting most, if not all, completed blender games, so that you don't have to search through google and BlenderArtist!
-OSGameClones.com >>This site tries to gather open-source reimplementations of great old games in one place.
 
 ==Unsorted (fresh finds at top)
+github.com/chukong/EarthWarrior3D >>This is an experimental project from Cocos2d-x, featuring 3D models in a 2d game.
 Shattered Time >>the Medieval past, Steampunk present, and Cyberpunk future are torn apart by a Rift in time.
 Zero-K.info >>free, multiplatform, open-source RTS where massive robot armies fight an endless conflict.
 X-Speed-Race.sf.net >>Drive the super fast cars
@@ -1891,6 +1891,10 @@ www-2.cs.cmu.edu/~quake >>Our goal is to develop the capability for predicting, 
 
 
 ==Dev
+Urho3D.github.io >>Urho3D is a lightweight, cross-platform rendering and game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
+Cocos2d-x.org >>Written in C++ and OpenGL ES 1.1/2.0, runs on iOS, Android, BlackBerry, Bada, Marmalade, Windows, Windows Phone, Linux and more.
+Ares.GoogleCode.com >>AresEd is a high-level and fully featured 3D game creation suite. It is Free and Open Source. When it is finished you will be able to make full 3D games without writing any code (although a fallback to the python scripting language will be provided). AresEd is based on the Crystal Space 3D engine and on Crystal Entity Layer for game logic. It is also based on WX for the user interface and Bullet for physics. The editor is fully physics based and shows a realtime preview of the game world.
+G3D.sf.net >>The G3D Innovation Engine is a commercial-grade C++ 3D engine available as Open Source (BSD License). It is used in commercial games, research papers, military simulators, and university courses. G3D supports hardware accelerated real-time rendering, off-line rendering like ray tracing, and general purpose computation on GPUs.
 GoDotEngine.org 
 TuxCap.sf.net >>The TuxCap Games Framework is a GNU/Linux and Mac OSX port of the PopCap Games Framework used for 2D game development. It comes with PyCap Python bindings, a fast 2D physics engine, a particle engine, widgets and many documented examples.
 Gluon.TuxFamily.org >>Gluon is a high-level game development library for the KDE desktop enviornment. It is the combination of the KGL, KAL and KCL libraries for a single, complete games devlopment solution, supporting physics, graphics, audio and controllers.
