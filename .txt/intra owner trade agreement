@@ -1,23 +1,23 @@
-Related: CCPP, Product Future, Sources, Promises, Property, VIPM
+Related: CCPP, Product Future, VIPM
 
-The IOTA (Intra Owner Trade Agreement) is a legally binding social contract that owners and workers can choose to apply to their property and promises.
+The IOTA (Intra Owner Trade Agreement) is a legally binding social contract you may apply to your property and promises.
 
 
 ==Terms of Ownership
 1. Product is the owner's natural return:
-You own the same percentage of product as you own of sources.  For example, if you own 1% of a dairy, you automatically own 1% of the milk.  You do not buy your portion from anyone; it is already your property.
+This means the owner of inputs is the owner of outputs automatically.  You own the same percentage of product as you own of sources.  For example, if you own 1% of a dairy, you automatically own 1% of the milk.  You do not buy your portion from anyone; it is already your property.
 
-2. Sources are the consumer's investment:
-You receive Product Futures when you commit sources (or money to buy sources) toward future production for yourself and cross-commit toward future production for others.
+2. Property is the consumer's investment:
+This means you may invest physical assets such as land, water-rights, tools, etc.  You receive Product Futures when you commit property (or money to buy property) toward future production.  You must commit enough for the products you want plus enough to compensate those who will do the work.
 
 3. Promises are the worker's investment:
-You receive Product Futures when you cross-commit promises toward future production for others.  You must complete any work at the agreed quantity, quality and time.
+This means you may invest future labor if those accepting these promises consider you qualified.  You receive Product Futures when you cross-commit promises toward future production for others.  You must commit enough for the products you want plus enough to compensate those who supply the property.
 
 4. Profit is a product buyer's investment:
-You may sell or rent surplus for a profit, but must treat some % of that profit as an unwitting investment from that payer toward more sources that eventually vest to that same payer - so all users incrementally gain ownership in the sources of the products they use.  This stablizes the system as it scales in size by automatically distributing control to those willing to pay for that growth.
+This means we will charge profit against those who buy surplus product but then treat that profit as the payer's investment.  You may sell or rent surplus for a profit, but must treat some % of that profit as an unwitting investment from that payer toward more sources that eventually vest to that same payer - so all users incrementally gain ownership in the sources of the products they use.  This stablizes the system as it scales in size by automatically distributing control to those willing to pay for that growth.
 
 5. Property division is the owner's right:
-Subgroups may secede for any reason while retaining their ownership so control remains localized even as system scales.
+This means subgroups may split from the group at any time and for any reason without punishment.  Subgroups may secede for any reason while retaining their ownership so control remains localized even as system scales.
 
 
 ==Terms of Use
@@ -27,5 +27,5 @@ Subgroups may secede for any reason while retaining their ownership so control r
  3. You may share this instance or any copy - whether modified or not.
   If you share this instance or a copy - whether modified or not, you must:
    A. Accompany each instance with a copy of this document.
-   B. Treat some profit gained through the sale or rental of this instance as an investment from that user toward the purchase of more sources.
+   B. Treat profit gained through the sale or rental of this instance as an investment from the payer toward the purchase of more sources.
    C. Issue Product Futures against those sources and vest those Product Futures to the original payer.
