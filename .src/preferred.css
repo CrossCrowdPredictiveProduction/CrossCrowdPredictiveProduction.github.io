@@ -25,7 +25,7 @@ span.bold{font-weight:bold;}
 
 span.h1, span.h2, span.h3, span.h4 {font-family:arial, san-serif; background:#ddd;}
 
-span.h1 {font-size:200;}
+span.h1 {font-size:200%;}
 span.h2 {font-size:175%;}
 span.h3 {font-size:150%;}
 span.h4 {font-size:125%;}
