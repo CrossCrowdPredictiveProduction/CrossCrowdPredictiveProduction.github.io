@@ -122,12 +122,19 @@ All terms less than this match only at the beginning of words (using `\\b')")
   "\\\\\\\\[^]):,;? \t\n]+"
   "UNC path on MS network")
 
+(defconst lens-*nix-path
+  "\\(\\.\\./\\|\\./\\)[^|> \t\n\r]*"
+  "../ or ./ followed by anything but |, >, or whitespace")
+
+(defconst lens-*nix-path-full
+  (concat "<a class=\"ext\" href=\"file:///" default-directory "\\&\">\\&</a>"))
+
 (defconst lens-explicit-URL
   "\\([a-zA-Z0-9]\\)+://[^ \t\n]*"
   "This is to include chars banned from implicit-HTTP.")
 
 (defconst lens-email-link
-  "\\([a-zA-Z0-9\.]\\)+@[^ \t\n]*"
+  "\\([a-zA-Z0-9\.]\\)+@[^])}>:,; \t\n]*"
   "email addrs")
 
 (defconst lens-implicit-HTTP
@@ -191,8 +198,6 @@ All terms less than this match only at the beginning of words (using `\\b')")
 
 		 ;;  		 ("^.*?:" "<span class=\"h4\">\\&" "</span>");anything followed by a : is a title?
 
- 		 ;;see `lens-*nix-path'
-
  		 ("^Related:" "<span class=\"rel\">\\&</span>")
 		 ("^[0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}:" "<hr/><span class=\"date\">\\&</span>")
  		 ("^>" "<span class=\"quot\">\\&" "</span>")
@@ -201,6 +206,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
  		 ("^==" "<span class=\"h2\">\\&" "</span>")
  		 ("^===" "<span class=\"h3\">\\&" "</span>")
  		 ("^====" "<span class=\"h4\">\\&" "</span>")
+ 		 ("^----" "<hr/>\\&")
 
  		 ("^\\$ " "<span class=\"shell\">\\&" "</span>")
 
@@ -250,6 +256,13 @@ All terms less than this match only at the beginning of words (using `\\b')")
 		 ("\\\\\\\\[^]):,;? \t\n]+"
 		  "<a class=\"ext\" href=\"file:///\\&\">\\&</a>")
 
+		 ;;see 'lens-*nix-path'
+		 ("\\(\\.\\./\\|\\./\\)[^|> \t\n\r]*"
+		  "<a class=\"ext\" href=\"\\&\">\\&</a>")
+		  ;'lens-*nix-path-full)
+		  ;(concat "<a class=\"ext\" href=\"file:///" default-directory "\\&\">\\&</a>"))
+		  ;"<a class=\"ext\" href=\"file:///root/work/doc/.src/\\&\">\\&</a>")
+
 		 ;;TODO: encode & to &amp;
 		 ;;see `lens-explicit-URL'
 		 ("\\([a-zA-Z0-9]\\)+://[^ \t\n]*"
@@ -257,7 +270,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 
 		 ;;TODO: encode & to &amp;
 		 ;;see `lens-email-link'
-		 ("\\([a-zA-Z0-9\.]\\)+@[^ \t\n]*"
+		 ("\\([a-zA-Z0-9\.]\\)+@[^])}>:,; \t\n]*"
 		  "<a class=\"eml\" href=\"mailto:\\&\">\\&</a>")
 
 		 ;;see `lens-implicit-HTTP'
@@ -297,6 +310,8 @@ All terms less than this match only at the beginning of words (using `\\b')")
 
 	(copy-file "../.src/index.src" (concat lens-output-dir "/index.htm") t)
 
+	(if (file-exists-p "../.src/post.el")
+		(load-file "../.src/post.el"))
     (message
      (concat "lens started at "
              (format-time-string
@@ -487,6 +502,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 				lens-local-M$-path "\\|"
 				lens-quoted-UNC-path "\\|"
 				lens-UNC-path "\\|"
+				lens-*nix-path "\\|"
 				lens-explicit-URL "\\|"
 				lens-email-link "\\|"
 				lens-implicit-HTTP "\\|"
