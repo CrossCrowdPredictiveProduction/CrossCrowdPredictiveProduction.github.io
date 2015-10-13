@@ -2,25 +2,25 @@
                   (801) 815-3819  Patrick.T.Anderson@gmail.com
 
 Skills:
-  Cross Platform c/c++ using Visual Studio, gcc+gdb, Emacs.
-  Extensive knowledge of filesystems and virtual disks.
-  Distill, modularize and short-circuit existing code.
-  Automate resource management through object lifetimes.
+  Love to distill, modularize and short-circuit existing code.
+  Strive to manage resources automatically via object lifetimes.
+  Write cross platform c/c++ using Emacs/gcc+gdb, Visual Studio.
+  Extensive knowledge of filesystems and virtual platforms.
 
-Work History:
-  Oct/13-Present: Cloud automation at RackWare
-    Add features, fix bugs and simplify c++ code.
-    Automate build using Jenkins and BASH.
-    Automate test using virsh and Softlayer APIs.
+Employment:
+  Dec/13-Present: Cloud Automation at RackWare
+    Simplify, fix and extend c++ file-based imaging software.
+    Script the build, packaging and reporting of the product.
+    Script cli testing across entire product lifecycle.
 
   Oct/11-Oct/13: File System Development at StorageCraft
-    Write caching vhd and vhdx plugins for imaging suite.
+    Write caching vhd and vhdx plugins in c for imaging suite.
     Integrate VMware VDDK libraries for vmdk and ESXi targets.
     Debug and extend in-house cross-platform library.
 
   Oct/08-Oct/11: Configuration Management at StorageCraft
     Automate build system to compile, sign, package, verify and report.
-    Develop installer framework to overcome traditional installer limitations.
+    Develop framework to overcome traditional installer limitations.
     Make installers using InstallShield, WiX, NSIS.  Build WinPE images.
 
   Aug/05-Oct/08: Independent Contractor
