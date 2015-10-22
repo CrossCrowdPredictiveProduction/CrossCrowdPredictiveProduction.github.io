@@ -1,12 +1,13 @@
-Related: price
+cost = price - profit
 
+Procurement: Initial purchase
 Installation: tools, materials, labor
 Access: External taxes or uncontrollable alien fees or rent.
-Insurance: Same as Replacement cost.
+Insurance: Same as Replacement cost?
 Maintenance: tools, materials, labor
-Replacement:
+Replacement: Same as Procurement + Installation?
 Pollution: noise, smell, poison
 Risk: Any attempt at production may fail
-Security: Locks, cameras, patrolling, etc. decreases as abundance increases.
+Security: The need for locks, cameras, patrolling, etc. is inversely related to abundance of the product being protected.
 Storage: Shelter, temperature, shade, ventilation, bedding
 Exclusion: Space, time, mass and energy are exclusive.  You can plant a finite number of trees in a finite space.  A finite number of people can fit in a car.  etc.
