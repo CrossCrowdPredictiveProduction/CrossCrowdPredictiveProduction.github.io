@@ -44,7 +44,7 @@ Services are predictively scheduled when workers commit promises toward future p
 
 For example, picking more than your portion of the fruit in the orchard means you have done work for other orchard owners.
 
-Trading promises to work before production begins allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
+Trading work promises before production begins allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
 
 This nearly eliminates the need to use money at all, since the goods and services are already committed to those who need them.
 
