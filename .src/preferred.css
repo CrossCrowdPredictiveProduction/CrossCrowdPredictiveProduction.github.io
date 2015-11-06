@@ -15,7 +15,7 @@ span.indent{margin-left:1%;}
 
 span.quot,span.quot2,span.quot3{
 	font-weight:normal;
-	font-style:italic;
+	/* font-style:italic; */
 	/* font-family:serif; */
 	font-size:100%;
 }
