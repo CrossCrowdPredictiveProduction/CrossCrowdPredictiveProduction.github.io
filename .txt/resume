@@ -1,69 +1,77 @@
-                Patrick T. Anderson -- Senior Software Engineer
-                  (801) 815-3819  Patrick.T.Anderson@gmail.com
+Related: ./resume.docx
 
-Skills:
-  Love to distill, modularize and short-circuit existing code.
-  Strive to manage resources automatically via object lifetimes.
-  Write cross platform C/C++ using Emacs/gcc+gdb, Visual Studio.
-  Extensive knowledge of OS internals, filesystems, hypervisors.
 
-Employment:
-  Dec/13-Present: Cloud Automation at RackWare
-    Simplify, fix and extend C++ file-based imaging software.
-    Automate product build, package, provision VMs, install,
-      test entire product lifecycle, generate reports.
+Patrick Anderson
+AGNUcius@gmail.com - 801 815-3819 - 12321 River Vista Drive  Riverton, UT 84065
 
-  Oct/11-Oct/13: File System Development at StorageCraft
-    Write caching VHD and VHDX plugins in C for imaging library.
-    Integrate VMware VDDK libraries for VMDK and ESXi targets.
-    Repair and extend in-house cross-platform imaging library.
-    Write skeleton snapshot driver for HFS+ on Mac OS X.
+Cross-Platform Senior Software Engineer
 
-  Oct/08-Oct/11: Configuration Management at StorageCraft
-    Automate build system to compile, sign, package, verify and report.
-    Develop framework to overcome traditional installer limitations.
-    Make installers using InstallShield, WiX, NSIS.  Build WinPE images.
+Expert with C/C++, Visual Studio, Emacs, gcc, gdb, resource management strategies (such as RAII and zero-copy), filesystems, Win32 API, Windows internals.
+Strong with BASH, Batch, POSIX, networking, hypervisors, Linux internals.
+Worked with Python, JavaScript, Java, .NET, C#, REST, HTML, XML, SQL Server, OS X internals, Windows drivers.
 
-  Aug/05-Oct/08: Independent Contractor
-    Design EcoComics ecology simulation to compare economic model efficiency.
-    Develop plain-text Wiki with autolink and WYSIWYG "pass through" markup.
-    Design JIT package manager to download, install and execute advertised features.
-    Write the Intra-Owner Trade Agreement (IOTA) as the basis of a new currency.
-    Begin basic Linux application development.
+Experience
+Dec/2013 - Nov/2015: RackWare
+Solidify, extend and simplify file-based imaging software.
+Automate product build, package, verify, install, test, reports.
+Automate VM lifecycle management on vSphere, KVM, XEN and SoftLayer.
+Used: C, C++, BASH, WMI, vbscript, Batch, Jenkins, Java, AIK/ADK, WinPE, Visual Studio, gcc, gdb, virsh
 
-  Aug/00-Aug/05: Altiris
-    Write thin C++ library to simplify Win32 development and automate resource management.
-    Design "pass through" interfaces to increase performance and decrease maintenance.
-    Prefer zero-copy data transfer for speed and safety across object and thread contexts.
-    Extend, debug and repair Windows device drivers used to read/write HP hardware settings.
-    Write W32 Service to remotely control and report computer settings.
-    Write simple HTTP and IMAP clients to send commands, and parse results.
-    Write self-extracting installer conforming to "Add/Remove Programs" guidelines.
-    Write dynamic virtual file system for incremental backup to removable media.
+Oct/2008 - Oct/2013: StorageCraft
+Write caching VHD and VHDX plugins in C for Windows, Linux and OS X.
+Extend and repair in-house cross-platform, block-based imaging library.
+Integrate VMware VDDK libraries for VMDK and ESXi targets.
+Write skeleton snapshot driver for HFS+ on Mac OS X.
+Automate build system to compile, sign, package, verify and report.
+Develop framework to overcome traditional installer limitations.
+Used: C, C++, WMI, vbscript, Batch, Python, REST, InstallShield, WiX, NSIS, AIK, WinPE, Visual Studio, .NET, C#, gcc, gdb
 
-  Aug/99-Aug/00: NovaRad
-    Integrate DICOM transport and JPEG2k compression into medical imaging client.
-    Design predictive caching SCSI robotic tape archiver.
+Aug/2005 - Oct/2008: Social Sufficiency Coalition
+Begin basic Linux application development.
+Design ecology simulation to compare economic model efficiencies.
+Develop wiki with autolink and WYSIWYG "pass through" markup.
+Design JIT package manager to install and execute advertised features.
+Write Intra Owner Trade Agreement as a GNU GPL for physical realm.
+Used: C, C++, HTML, CSS, JavaScript, BASH, Emacs Lisp, gcc, gdb
 
-  Jul/97-Aug/99: NetSchools
-    Develop UDP/IP packet generator and simple sniffer for IR network.
-    Develop Win9x network logon provider using SSPI and Blowfish encryption.
-    Help develop write protection for Win9x file system and Registry.
-    Maintain and extend Win9x compressing RAM paging driver and keyboard filter VxD.
+Aug/2000-Aug/2005: Altiris
+Write thin library to automate resource management and simplify Win32 API.
+Design "pass through" interfaces to increase performance and decrease maintenance.
+Extend, debug and repair Windows device drivers used to read/write hardware settings.
+Write W32 Service to remotely control and report computer settings.
+Write simple HTTP and IMAP clients to send commands, and parse results.
+Write self-extracting installer conforming to "Add/Remove Programs" guidelines.
+Write dynamic virtual file system for incremental backup to removable media.
+Used: C, C++, HTML, DDK, Visual Studio
 
-  Jun/96-Jun/97: BioVision Motion Capture
-    Develop Flex/Bison regexps, BNFs and glue code to import motion capture data.
-    Develop other tools to simplify and automate motion data transforms.
-    Use matrix mathematics and spline approximations to smooth sparse data.
+Aug/1999-Aug/2000: NovaRad
+Integrate DICOM transport and JPEG2k compression into medical imaging client.
+Design predictive caching SCSI robotic tape archiver.
+Used: C, C++, TCP/IP, Visual Studio
 
-  Feb/96-Jul/96: IBM Eduquest
-    Track and fix application bugs in educational software.
-    Help write Win9x printer driver to translate between Postscript, PCL, PDDP.
+Jul/1997-Aug/1999: NetSchools
+Develop UDP/IP packet generator and simple sniffer for IR network.
+Develop network logon provider using SSPI and Blowfish encryption.
+Help develop write-protection for Windows 9x filesystem and registry.
+Extend compressing RAM paging driver and keyboard filter VxD.
+Used: C, C++, TCP/IP, DDK, Visual Studio
 
-  Jan/95-Dec/98: Brigham Young University
-    Independent C/C++ tutor.
-    Teacher's Aid for "Discrete Structures and Combinatorial Mathematics" I and II.
+Jun/1996-Jun/1997: BioVision Motion Capture
+Develop Flex/Bison regexps, BNFs and glue code to import motion capture data.
+Develop other tools to simplify and automate motion data transforms.
+Use matrix mathematics and spline approximations to smooth sparse data.
+Used: C, C++, Visual Studio
 
-Education:
-  Brigham Young University
-    B.S. in Computer Science, 1998.
+Feb/1996-Jul/1996: IBM Eduquest
+Track and fix application bugs in educational software.
+Help write printer driver to translate between Postscript, PCL, PDDP.
+Used: C, C++, TCP/IP, Visual Studio
+
+Jan/1995-Dec/1998: Brigham Young University
+Independent C/C++ tutor.
+Teacher's Aid for "Discrete Structures and Combinatorial Mathematics" I and II.
+
+
+Education
+Jan/1994-Dec/1998: Brigham Young University
+B.S. in Computer Science
