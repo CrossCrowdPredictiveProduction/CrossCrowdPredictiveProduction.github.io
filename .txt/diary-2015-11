@@ -1,19 +1,6 @@
-2015-11-18: 
-https://www.youtube.com/watch?v=OSGv2VnC0go
+2015-11-19: 
 
-2015-11-18: 
-
-alist = list [1,2]
-atuple = tuple (1,2)
-adictionary = dictionary {1 : 2}
-
-.get
-del
-len
-min
-
-for x in range(0, 10):
-
+2015-11-18: YouTube.com/watch?v=OSGv2VnC0go
 
 2015-11-18: ugh, must prove I can code...
 indeed.com
@@ -82,7 +69,7 @@ This shows the origin of profit is the consumer's lack of ownership in the means
 
 And so we can create business that safely operates at zero profit without harming investors iff (if and only if) the consumers are the investors and owners.
 
-Crowd funding is a baby step in this direction, but we need property ownership (tempered by a Terms of Operation enforcing a set of constraints in the material world similar in purpose to the GNU GPL in the virtual realm.
+Crowd funding is a baby step in this direction, but we need property ownership (tempered by a Terms of Operation enforcing a set of constraints in the material world similar in purpose to the GNU GPL in the virtual realm.)
 
 But we must also care for latecomers (the dynamic case).
 
