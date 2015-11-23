@@ -1,3 +1,42 @@
+2015-11-20:
+
+3 people in Breadlandia:
+
+farmer: grain + dirt = grain
+miller: grain + mill = flour
+baker : flour + oven = bread
+
+Assume each person fills 1 role, doing work for the other 2.
+
+The farmer will work for the miller and the baker if he trusts they will work for him in the future.
+
+One way to solve this is to create tokens and distribute an equal amount to each person.
+
+The baker and miller would give some tokens to the farmer in return for him growing grain for them.
+
+The farmer and baker would pay the miller to mill grain to flour for them.
+
+Finally, the farmer and miller pay the baker to bake their bread.
+
+
+1. You can pay money to buy land or tools
+Money commitments are treated as investments into the sources of the goods and services that person needs.  That property may vest immediately.
+
+2. Work commitments are treated as conditional* investments into the sources of the goods and services that person needs.  The property must vest incrementally.
+(*) Based on the quantity and quality of completed commitments.
+
+3. Profit commitments are treated as accidental* investments into the sources of the goods and services that person needs.  The property must vest incrementally.
+
+4. Subgroups may arbitrarily split/fork/secede from the majority - allowing arbitrary-sized cells to form and weild their own localized governance.
+
+This short-circuits and eliminates some transactions; and so eliminates profits, wages and taxes on those missing transactions.
+
+When the consumers are the owners, in exactly the right amount, they do not buy or rent the prodect because it is already the property of the person who will use it.  This imputes rent and sales.
+
+When workers swap skills before production, they align themselves with the natural desire to reduce work and even eliminate the job.  This imputes wages.
+
+
+
 2015-11-19: 
 
 2015-11-18: YouTube.com/watch?v=OSGv2VnC0go

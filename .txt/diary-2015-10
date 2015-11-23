@@ -7,15 +7,14 @@ But to keep such an operation stable, we will need a negative-feedback-loop to k
 
 We can choose early to disallow some of our otherwise self-destructive behavior - similar to how the GNU GPL uses Copyright to enforce Copyleft constraints, we can use Property Rights to enforce PropertyLeft constraints.
 
-
-
 These 'rules' are approximately:
 1. Product is the Owner's natural ROI.
 2. Profit is the Payer's Investment.
 3. Promises are a Worker's Investment.
 
 
-2015-10-29:
+2015-10-29: Posted to https://www.facebook.com/groups/1593184107563955
+
 Copyright can be a problem for sharing in the Virtual realm but the GNU GPL creates Copyleft which *utilizes* copyright to guarantee the sharing of bits.
 
 Property rights can be a problem for sharing in the Physical realm but we will write a "Terms of Operation" to create PropertyLeft that utilizes Property Rights to guarantee the sharing of atoms.
