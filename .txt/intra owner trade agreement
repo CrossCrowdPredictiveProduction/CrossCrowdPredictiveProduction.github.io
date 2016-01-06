@@ -1,9 +1,13 @@
-Related: CCPP, Product Future, VIPM
+Related: CCPP, Crowd Control, Product Future, VIPM
 
 The IOTA (Intra Owner Trade Agreement) is a legally binding social contract you may apply to your property and promises.
 
+Similar to how the GNU GPL uses Copyright to enforce Copyleft,  The IOTA uses Property Rights to enforce PropertyLeft.
 
-==Terms of Ownership
+It is similar in purpose to a "Tenancy in Common Agreement" for shared property.  A set of internal rules for a GNU kind of Wikipedia.org/wiki/Concurrent_estate
+
+
+==Terms of Operation==
 1. Product is the owner's natural return:
 As owner of a Product Future, you own that same percentage of the product automatically.  For example, if you own 1% of a dairy, you automatically own 1% of the milk.  This requires you also supply the consumable sources and labor needed for that production, or supply compensation for others supplying those inputs.
 
@@ -20,12 +24,59 @@ You receive Product Futures if you pay more than cost when buying products under
 Subgroups may fork from the group at any time and for any reason without punishment while retaining their ownership so control remains localized even as the system scales.
 
 
-==Terms of Use
- 0. You may use this instance for any purpose.
- 1. You may modify this instance for any purpose.
- 2. You may copy this instance for any purpose.
- 3. You may share this instance or any copy - whether modified or not.
-  If you share this instance or a copy - whether modified or not, you must:
-   A. Accompany each instance with a copy of this document.
-   B. Treat profit gained through the sale or rental of this instance as an investment from the payer toward the purchase of more sources.
-   C. Issue Product Futures against those sources and vest those Product Futures to the original payer.
+==Commentary==
+
+===1. Property:  Sharing ownership of the land and tools needed for production.
+Consumers own the Means of Production and accept the Product as ROI.
+
+Saint IGNUcius preaches about protecting *Users*, not *Developers*.
+
+"'With free software, the users are in control.  Most of the time, users want interoperability, and when the software is free, they get what they want.  With non-free software, the developer controls the users.  The developer permits interoperability when that suits the developer; what the users want is beside the point.'" -- "Three Minutes with Richard Stallman" http://www.pcworld.com/article/id,137098-c,freeware/article.html
+
+So in this model, the Consumers own the Sources (Land, Tools, etc.) needed for the Objectives (Goods and Services) they need.
+
+We will also co-own the ISPs, the cell-phone towers, the farms, the factories, the well, the mines, the refineries...  We pay for it all anyway (and more than costs when we pay profit), so it is easy to see we can afford to be the owners.
+
+When the Users own the Physical Sources and accept the product itself as the return on investment, work is no longer considered a goal in itself, but returns to it's natural position as a hurdle to be minimized.
+
+Crowd-Funding will become Crowd-Owning when groups of consumers buy and *own* the Physical Sources needed to house, bathe, feed, clothe and care for their bodies.
+
+
+===2. Promises:  Swapping commitments to achieve the labor needed for production.
+Worker promises are also treated as an investment, also giving them property ownership in the Sources of the Goods and Services they need (most importantly when they are not the Sources they operate).
+
+To protect the group, we cannot immediately and fully 'vest' all property aquired through promises, since we are not sure if the worker will do his job.
+
+To protect the worker, the property must vest continuously, according to the work achieved.
+
+I some cases we can allow the worker immediate and full access to that property, but retain a legally-binding way to remove them if they refuse to keep those promises.
+
+Every Worker is also a Consumer.  We must protect the Worker *as* a Consumer.
+
+Trading work promises before production begins allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
+
+Crowd-Owning will become Crowd-Control when groups of consumers buy and own the Physical Sources *and* swap skills needed to house, bathe, feed, clothe and care for their bodies.
+
+
+===3. Profit: Growth is auto-distributed to those who pay for that growth.
+
+We allow the market to set the price (or use an auction), but then 'reflect' any price above costs back to the payer by investing further, and vesting that property to the payer.
+
+This causes those users to incrementally receive access to the sources of the objects they use by gaining real property ownership in such assets.
+
+The GNU GPL requires any User that receives 'Object Code' must receive access to the Sources.
+
+So when a Consumer receives a Good or Service, they should also receive the Means of Production for that Good or Service.
+
+For example, when someone buys a beer, they will receive ownership in the *Sources* of that beer, such as a brewery, bottling plant, trucks and so forth.
+
+That profit is used to buy even more land and water-rights and tools etc. needed to make future beer.
+
+As we become more and more vertically-integrated, we will own the barley fields, hops fields, equipment to store and propogate yeast, etc.
+
+If the consumer pays more than cost (in other words, if he pays profit), we must use some of that to grow the size of the production, and that new ownership must accrue to the Consumer that received the Object (Good or Service) so they eventually gain access to the Sources of all the Objects they use.
+
+Treating profit as an investment from the payer causes the property ownership of the organization to be automatically distributed to those who paid for that growth and need the results.
+
+===4. Division: This is meant to keep control localized.
+Other possible names: fork, partition, split, secession

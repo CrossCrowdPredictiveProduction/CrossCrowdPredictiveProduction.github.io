@@ -1,4 +1,10 @@
 -about
+-diary
+-faq
+-home
+-pages
+-projects
+-todo
 abund
 act
 agnu
@@ -33,7 +39,6 @@ cross crowd predictive production
 crowd
 crowd control
 dev
--diary
 diary-2013-09
 diary-2013-10
 diary-2014-01
@@ -45,6 +50,8 @@ diary-2014-06
 diary-2014-07
 diary-2015-10
 diary-2015-11
+diary-2015-12
+diary-2016-01
 drink
 drug
 early
@@ -52,7 +59,6 @@ eat
 employ
 exch
 factor
--faq
 farm
 fish
 food
@@ -61,6 +67,7 @@ free
 future
 game
 gath
+gnu
 gnunix
 good
 gpl
@@ -69,7 +76,6 @@ gplv3
 group
 hack
 heal
--home
 info
 input
 insta
@@ -97,7 +103,6 @@ orga
 output
 own
 pack
--pages
 paid
 patrick anderson
 pay
@@ -114,7 +119,6 @@ produc
 product future
 product futures foundation
 profit
--projects
 promis
 proper
 propertyleft
@@ -144,7 +148,6 @@ surplus
 team
 teem
 time
--todo
 trad
 trans
 use
@@ -158,4 +161,6 @@ virt
 wage
 wash
 water
+win
+window
 work

@@ -12,18 +12,23 @@ Co-owners should advertise minimum allowable standards to avoid attracting worke
 
 It might be useful to also issue 'tickets' against future payout instances to more closely resemble typical currency.
 
-Each ticket would have a window of validity - where it could only be used after a starting time and before an ending time.
+Each ticket has a window-of-validity in time (can only be used between a start and end time) enforced by reality itself.
 
-Product Futures and tickets would ideally be electronic, but this is not required.
+For example, you can't pickup the bread until it is done baking, and you cannot eat it after it has gone bad.
 
 Proper accounting is important to defend ourselves against someone who might try to take more than they own.
 
-Product Futures are issued in response to any investment type - whether property, promises or profit.
+Product Futures are issued in response to an investment, where investments are one of:
+A. Property - When someone commits land or tools or even just plain-old-money.
+B. Promises - When someone commits to achieve some future goal.
+C. Profit   - When treating price-above-cost as the payer's investment.
 
 Profit is accepted during the sale of surplus and then offered back to that payer as unvested Product Futures.  This distributes control to those willing to pay for that growth so products become Free (as in Freedom) for every user.
 
 Product Futures return goods and services at the real cost of production and under the control of that owning group.
 
+
+Product Futures and tickets would ideally be electronic, allowing instantaneous conversion and so fully liquid currency, but this is not required.
 
 ==Example 1
 0. Product:  One dozen grade A, medium chicken eggs every week.

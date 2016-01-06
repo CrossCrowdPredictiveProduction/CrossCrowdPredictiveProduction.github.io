@@ -1,38 +1,38 @@
 Related: ./resume.docx
 
+Cross-Platform Software Expert
 
-Patrick Anderson
-AGNUcius@gmail.com - 801 815-3819 - 12321 River Vista Drive  Riverton, UT 84065
+Patrick.T.Anderson@gmail.com     (801) 815-3819    12321 River Vista Drive  Riverton, UT 84065
 
-Cross-Platform Senior Software Engineer
+Objectives
 
-Expert with C/C++, Visual Studio, Emacs, gcc, gdb, resource management strategies (such as RAII and zero-copy), filesystems, Win32 API, Windows internals.
-Strong with BASH, Batch, POSIX, networking, hypervisors, Linux internals.
-Worked with Python, JavaScript, Java, .NET, C#, REST, HTML, XML, SQL Server, OS X internals, Windows drivers.
+Recognize global symmetry and implicit patterns within the big picture.
+Design reusable components to minimize redundance and maintenance.
+Utilize language features to enforce precise resource contracts.
+Reduce complexity through intuitive, flexible and modular solutions.
 
-Experience
-Dec/2013 - Nov/2015: RackWare
-Solidify, extend and simplify file-based imaging software.
-Automate product build, package, verify, install, test, reports.
-Automate VM lifecycle management on vSphere, KVM, XEN and SoftLayer.
-Used: C, C++, BASH, WMI, vbscript, Batch, Jenkins, Java, AIK/ADK, WinPE, Visual Studio, gcc, gdb, virsh
+Experience Timeline
+
+Dec/2013 - Nov/2015: RackWare Inc.
+Extend, solidify and simplify file-based imaging suite using C, C++, BASH, Batch, vbscript.
+Write scripts to build, package, verify, install, test and report using git, BASH and Jenkins.
+Automate VM lifecycle management on vSphere, KVM, XEN using BASH and virsh.
 
 Oct/2008 - Oct/2013: StorageCraft
-Write caching VHD and VHDX plugins in C for Windows, Linux and OS X.
-Extend and repair in-house cross-platform, block-based imaging library.
-Integrate VMware VDDK libraries for VMDK and ESXi targets.
-Write skeleton snapshot driver for HFS+ on Mac OS X.
-Automate build system to compile, sign, package, verify and report.
-Develop framework to overcome traditional installer limitations.
-Used: C, C++, WMI, vbscript, Batch, Python, REST, InstallShield, WiX, NSIS, AIK, WinPE, Visual Studio, .NET, C#, gcc, gdb
+Write caching VHD and VHDX plugins using object-oriented C for Windows, Linux, OS X.
+Extend cross-platform, block-based imaging suite using Emacs, Visual Studio, C, C++.
+Integrate VMware VDDK libraries for VMDK and ESXi targets using C++.
+Write skeleton snapshot driver for HFS+ on Mac OS X using C and Xcode.
+Automate build system to compile, sign, package, verify and report using Visual Studio and Batch, vbscript, InstallShield, .NET/C#, WMI.
+Develop framework to overcome traditional installer limitations using C from Visual Studio.
 
 Aug/2005 - Oct/2008: Social Sufficiency Coalition
-Begin basic Linux application development.
+Begin basic Linux application development with Emacs, gcc, gdb.
 Design ecology simulation to compare economic model efficiencies.
-Develop wiki with autolink and WYSIWYG "pass through" markup.
-Design JIT package manager to install and execute advertised features.
+Develop autolink wiki with WYSIWYG "pass through" markup.
+Design JIT package manager for 'GNUnix' to install and execute advertised features.
 Write Intra Owner Trade Agreement as a GNU GPL for physical realm.
-Used: C, C++, HTML, CSS, JavaScript, BASH, Emacs Lisp, gcc, gdb
+Used C, C++, XHTML, CSS, JavaScript, BASH, Emacs Lisp, gcc, gdb
 
 Aug/2000-Aug/2005: Altiris
 Write thin library to automate resource management and simplify Win32 API.
@@ -42,36 +42,36 @@ Write W32 Service to remotely control and report computer settings.
 Write simple HTTP and IMAP clients to send commands, and parse results.
 Write self-extracting installer conforming to "Add/Remove Programs" guidelines.
 Write dynamic virtual file system for incremental backup to removable media.
-Used: C, C++, HTML, DDK, Visual Studio
+Used C, C++, XHTML, DDK, Visual Studio
 
 Aug/1999-Aug/2000: NovaRad
 Integrate DICOM transport and JPEG2k compression into medical imaging client.
 Design predictive caching SCSI robotic tape archiver.
-Used: C, C++, TCP/IP, Visual Studio
+Used C, C++, TCP/IP, Visual Studio
 
 Jul/1997-Aug/1999: NetSchools
 Develop UDP/IP packet generator and simple sniffer for IR network.
 Develop network logon provider using SSPI and Blowfish encryption.
 Help develop write-protection for Windows 9x filesystem and registry.
 Extend compressing RAM paging driver and keyboard filter VxD.
-Used: C, C++, TCP/IP, DDK, Visual Studio
+Used C, C++, TCP/IP, DDK, Visual Studio
 
 Jun/1996-Jun/1997: BioVision Motion Capture
 Develop Flex/Bison regexps, BNFs and glue code to import motion capture data.
 Develop other tools to simplify and automate motion data transforms.
 Use matrix mathematics and spline approximations to smooth sparse data.
-Used: C, C++, Visual Studio
+Used C, C++, Visual Studio
 
 Feb/1996-Jul/1996: IBM Eduquest
 Track and fix application bugs in educational software.
 Help write printer driver to translate between Postscript, PCL, PDDP.
-Used: C, C++, TCP/IP, Visual Studio
+Used C, C++, TCP/IP, Visual Studio
 
 Jan/1995-Dec/1998: Brigham Young University
 Independent C/C++ tutor.
 Teacher's Aid for "Discrete Structures and Combinatorial Mathematics" I and II.
 
-
 Education
+
 Jan/1994-Dec/1998: Brigham Young University
 B.S. in Computer Science

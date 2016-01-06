@@ -176,7 +176,7 @@ OS.WildFireGames.com >>0 A.D. is a free, cross-platform, under-development, 3D, 
 
 CcXvII.net/gargoyle and GarGlk.GoogleCode.com >>Gargoyle is an IF player that supports all the major interactive fiction formats.
 
-Kapitalist.sf.net >>Kapitalist is a Monopoly®-like board game for 2-8 players. Walk around the board, buy properties, receive rent from your competitors, try to get monopolies to build houses and hotels on them and finally be the richest on the board.
+Kapitalist.sf.net >>Kapitalist is a Monopoly-like board game for 2-8 players. Walk around the board, buy properties, receive rent from your competitors, try to get monopolies to build houses and hotels on them and finally be the richest on the board.
 
 VoxelStein3D.sf.net >>Voxelstein 3D is an FPS game inspired by Wolfenstein 3D.  The game uses Ken Silverman's VOXLAP engine to render voxels in software.  The levels in the game are fully destructible - and by fully we mean fully.  The game world is built from tiny cubes called voxels.  There are over 37 million in the first level.  Rendering a world like this is slow (especially without hardware acceleration), but there is an advantage: voxels can be added, removed or otherwise altered very very quickly.  This enables all kinds of cool stuff, including fully destructible worlds!
 
@@ -1168,8 +1168,9 @@ VRSpace.org >>VRSpace is free cross-platform modular 3D community software. Feat
 Common-Lisp.net/project/hansa2 >>Hansa2 is an implementation of the trade game Hansa, invented by the economist David D. Friedman. The game is generally similar to games like Empire and Risk: the goal is to dominate the world.
 FCCA.sf.net >> Free Conquest & Colonization of America
 
+
 GTKAtlantic.gradator.net monopd monopoly client
-Monopolie.sf.net Monopoly
+Monopolie.sf.net >>Monopoly in Visual Basic
 JRisk.sf.net >>a java version of the strategy game thats a little like the turn based Risk, but each player sets up there move first, and they all play out at the same time
 Triplea.sf.net axis and allies clone
 Triereis.sf.net Greek Naval Warfare c.400BC (planned)
@@ -1891,6 +1892,11 @@ www-2.cs.cmu.edu/~quake >>Our goal is to develop the capability for predicting, 
 
 
 ==Dev
+GritEngine.com >>The Grit Game Engine is a community project to build a free game engine (and pipeline tool-chain) for implementing open world 3D games, such as the those in the GTA series, Saints Row, Crysis, Fallout 3, Just Cause 2, Mafia 2, Burnout, etc.
+
+orx
+kivy.org
+
 Urho3D.github.io >>Urho3D is a lightweight, cross-platform rendering and game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
 Cocos2d-x.org >>Written in C++ and OpenGL ES 1.1/2.0, runs on iOS, Android, BlackBerry, Bada, Marmalade, Windows, Windows Phone, Linux and more.
 Ares.GoogleCode.com >>AresEd is a high-level and fully featured 3D game creation suite. It is Free and Open Source. When it is finished you will be able to make full 3D games without writing any code (although a fallback to the python scripting language will be provided). AresEd is based on the Crystal Space 3D engine and on Crystal Entity Layer for game logic. It is also based on WX for the user interface and Bullet for physics. The editor is fully physics based and shows a realtime preview of the game world.
