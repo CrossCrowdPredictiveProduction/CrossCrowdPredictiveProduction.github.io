@@ -2,3 +2,5 @@ Every worker must consume.
 
 Future input work commitments are promises.
 Finished output work commitments are services.
+
+Workers receive unvested Crowd Cache when they commit to work in the future.

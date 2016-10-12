@@ -1,29 +1,18 @@
-body
-{
-	font-family:monospace;
-	font-size:120%;
-	background:#EEEEEE;
-	/* background:#D4D0C8; */
-}
+body {font-family:  Menlo, Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace; background:#EEEEEE;}
 
 .main {padding-left:4px;}
-.header {border-bottom:solid; font-family:arial, san-serif;}
-.footer {border-top:solid; font-family:arial, san-serif; font-size:50%; text-align:right;}
+.header {border-bottom:solid;}
+.footer {border-top:solid; font-size:50%; text-align:right;}
 
 span.bullet{margin-left:1%;font-size:150%;}
 span.indent{margin-left:1%;}
 
-span.quot,span.quot2,span.quot3{
-	font-weight:normal;
-	/* font-style:italic; */
-	/* font-family:serif; */
-	font-size:100%;
-}
+span.quot,span.quot2,span.quot3 {font-weight:normal; font-size:100%;}
 
-span.italic{font-style:italic;}
-span.bold{font-weight:bold;}
+span.italic {font-style:italic;}
+span.bold {font-weight:bold;}
 
-span.h1, span.h2, span.h3, span.h4 {font-family:arial, san-serif; background:#ddd;}
+span.h1, span.h2, span.h3, span.h4 {background:#ddd;}
 
 span.h1 {font-size:200%;}
 span.h2 {font-size:175%;}

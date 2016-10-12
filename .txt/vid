@@ -1,71 +1,26 @@
 Related: art, audio, change, film, media, movie, flash, TV, view
 
-popcorntime.io
-vlc
-
-LabTube.tv
-DNAtube.com
-IEEE.tv
-PubFilm.com
-
 OpenCast.org >>The Opencast community is a collaboration of higher education institutions working together to explore, define, and document podcasting best practices and technologies. Through the Community mailing list and Resource exchange, the community offers guidance and information to help others choose the best approach for delivering rich media online.
 
 Kaltura.org >>Home of Kaltura's open source video platform, the fastest growing platform on the web - used by over 35,000 sites worldwide.
 
-viddler.com >>UPLOAD, ENHANCE AND SHARE YOUR VIDEOS
-
-SuTree.com educational videos
-
-enix.berlios.de >>free video processing
-
-MetaCafe.com >>serving the world's best videos
-
-fuvoo.com >>The Video Billboard
-
 InsightShare.org >>The Participatory Video Revolution!
-
-VidVoting.com >>Watch It, Vote It, Share It
-
-UserScripts.org/scripts/show/13333 >>Removes ads and unwanted sections (configurable), allows downloading and resizing videos, displays all comments on video page, expands the description, can prevent autoplay and autodownload, adds a HD (High Definition) select, etc...
-
-IronSky.net >>In 1945 the Nazis fled to the moon. In 2018 they are coming back. 
 
 OpenFlix.com >>OpenFlix provides a directory of movies commonly thought to be in the public domain and works their owners are willing to let be distributed.
 
 FreeFrame.sf.net >>FreeFrame is the open-source cross-platform real-time video effects plugin system designed for use in VJing applications
 
-Transmission.cc >>Transmission is a network of citizen journalists, video makers, artists, researchers, programmers and web producers who are developing online video distribution tools for social justice and media democracy. Our objective is to make independent online video distribution possible (using FLOSS) by building the necessary tools, standards, documentation and social networks.
-
-TheoraSea.org Video and audio sharing, mostly using Theora and Vorbis in the OGG container
-
-Metavid.UCSC.edu >>Metavid is a project which seeks to capture, stream, archive and facilitate real-time collective [re]mediation of legislative proceedings.
-
 ClearerChannel.org >>ClearerChannel is an online video project which encourages viewers to download and transmit video for social change. Check out Videos listed by group or topics. Then - get involved. Use our training manuals to create video and retransmit it via email, your website, blogs, myspace, youtube whatever. We don't care - go for it!
 
-FilmForge.net >>FilmForge is a distribution (or profile) of the Free/Libre Open Source Softare content management system Drupal, tailored to the needs of videomaking communities. FilmForge makes it simple to install and run your own video sharing site.
-
-
 ==Play
-Kantaris.org (.NET)>>Kantaris is a new media player based on code from Videolan client (VLC) and Bass audio library. Kantaris has a graphical user interface similar to that of Windows Media Player.
-
-
 Flowplayer.org >>Flowplayer is a video player for Web sites. Use it to embed video streams into your HTML pages. No other software makes it easier.
 
-SMPlayer.sf.net >>SMPlayer intends to be a complete front-end for MPlayer, from basic features like playing videos, DVDs, and VCDs to more advanced features like support for MPlayer filters and more.  SMPlayer will play a .wmv file using the mss2 codec.
+VideoLAN.org >>VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
-Vimeo.com >>People connecting through video.
-
-VideoLAN.org also known as VLC
-
-MPlayerHQ.hu Sometimes has audio/video synch trouble
+MPlayerHQ.hu >>MPlayer is a movie player which runs on many systems (see the documentation). It plays most MPEG/VOB, AVI, Ogg/OGM, VIVO, ASF/WMA/WMV, QT/MOV/MP4, RealMedia, Matroska, NUT, NuppelVideo, FLI, YUV4MPEG, FILM, RoQ, PVA files, supported by many native, XAnim, and Win32 DLL codecs. You can watch VideoCD, SVCD, DVD, 3ivx, DivX 3/4/5, WMV and even H.264 movies.
 
 Save stream example:
 $ mplayer -noframedrop -dumpstream -dumpfile Gates_LOCKED_CLOSED_Medicine_Pirate.asf http://hqswvilib.who.int:85/streaming/wha58_bill_gates_speech.wmv?MSWMExt=.asf
-
-xineHQ.de Slower and less complete than vlc
-
-GetMiro.com >>The only video player you need.  Free and open-source, because open media matters.
-
 
 ==Edit
 Lumeria.org >>Lumiera is a Free/Open Source Non-Linear Video Editing (NLE) application project for GNU/Linux developed by the CinelerraCV community.  It was born as a rewrite of the Cinelerra codebase called Cinelerra3 but it is now an independent project with its own name.

@@ -1,12 +1,21 @@
-Related: water, sanitation, sewer
+Related: clean, water, sanitation, sewer
 
 A few ideas to make washing easier:
 
-Fit both laundry and dish washers with containers to automatically dispense a configurable amount of soap 
+Fit laundry and dish washers with containers that automatically dispense a configurable amount of soap.
 
-Multiple laundry chutes (3 may be enough) allows the user to pre-sort clothes.
-
-Each chute dumps onto a large tray that dumps into the washer when a sufficient weight is reached and if the washer is not already busy.
-
+==Dishes
+Multiple trays
 
 
+==Clothes
+Multiple laundry baskets (maybe around 5) let the user sort clothes early.
+
+When each basket reaches a weight limit, and if another load is not running, it is dumped in the washer.
+
+The washer dumps into the dryer when finished.
+
+The dryer dumps into a counterbalanced dumb-waiter, delivering the clothes back to the correct room.
+
+==House
+VacBot: industrial-strength cleaning unit to cleans floors and lower walls.  Optional wet-vac steam pass.  Smaller version cleans countertops.
