@@ -1,6 +1,8 @@
-Every worker must consume.
+Related: host, labor, slave, work-to-own
+
+Every worker is a consumer.
 
 Future input work commitments are promises.
 Finished output work commitments are services.
 
-Workers receive unvested Crowd Cache when they commit to work in the future.
+Workers receive unvested Crowd Cache on a work-to-own basis when they commit (promise) to work in the future.

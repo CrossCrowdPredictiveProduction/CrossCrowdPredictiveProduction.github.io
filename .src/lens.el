@@ -300,7 +300,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
   (interactive)
   (let ((lens-started (current-time)))
     (lens-gen-missing-image-files)
-    (shell-command "ls -1 > -pages") ;;BUGBUG
+    (shell-command "ls -1 > -index") ;;BUGBUG
     (lens-build-mapping)
 
     (if (not (file-exists-p lens-output-dir))
@@ -436,7 +436,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 					" <a href=\"-diary.htm\">Diary</a> |"
 					" <a href=\"-projects.htm\">Projects</a> |"
 					" <a href=\"-todo.htm\">Todo</a> |"
-					" <a href=\"-pages.htm\">Pages</a> |"
+					" <a href=\"-index.htm\">Index</a> |"
 					" <a href=\"-about.htm\">About</a> |"
 					"</p>\n"
 					)))

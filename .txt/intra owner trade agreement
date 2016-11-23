@@ -1,4 +1,4 @@
-Related: CCPP, Crowd Control, Product Future, VIPM
+Related: CCPP, Crowd Control, Crowd Cache, VIPM
 
 The IOTA (Intra Owner Trade Agreement) is a legally binding social contract you may apply to your Property and Promises to share ownership and swap skills.
 
@@ -6,16 +6,16 @@ Similar to how the GNU GPL uses Copyright to protect user freedom in the immater
 
 ==Terms of Operation==
 1. Product is the owner's natural return:
-As owner of a Product Future, you own that same percentage of the product automatically.  For example, if you own 1% of a dairy, you automatically own 1% of the milk.  This requires you also supply the consumable sources and labor needed for that production, or supply compensation for others supplying those inputs.
+As owner of Crowd Cache, you own that same percentage of the product automatically.  For example, if you own 1% of a dairy, you automatically own 1% of the milk.  This requires you also supply the consumable sources and labor needed for that production, or supply compensation for others supplying those inputs.
 
 2. Property is the consumer's investment:
-You receive Product Futures when you commit property (or money to buy property) toward future production.
+You receive Crowd Cache when you commit property (or money to buy property) toward future production.
 
 3. Promises are the worker's investment:
-You receive Product Futures when you cross-commit promises toward future production.
+You receive Crowd Cache when you cross-commit promises toward future production.
 
 4. Profit is the payer's investment:
-You receive Product Futures if you pay more than cost when buying products under this agreement.
+You receive Crowd Cache if you pay more than cost when buying products under this agreement.
 
 5. Division is the owner's right:
 Subgroups may fork from the group at any time and for any reason without punishment while retaining their ownership so control remains localized even as the system scales.
@@ -77,4 +77,4 @@ Treating profit as an investment from the payer causes the property ownership of
 
 ===4. Division: This is meant to keep control localized.
 Other possible names: fork, partition, split, secession
-This may not be necessary if we changing ownership free and easy.
+May not be needed if changing ownership is free and easy.

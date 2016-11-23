@@ -1,8 +1,12 @@
+Related: product, host, labor, slave, work
+
 Services are the human outputs of finished production.
 Services are the human outputs, skills are the human inputs.
 Services are the human outputs, goods are the property outputs.
 
-Related: host, labor, slave
+==== daemons
+
+C:\> services.msc
 
 $ rcconf
 
