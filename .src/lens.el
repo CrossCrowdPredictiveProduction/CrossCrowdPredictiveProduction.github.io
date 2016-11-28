@@ -207,7 +207,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
  		 ("^==" "<span class=\"h2\">\\&" "</span>")
  		 ("^===" "<span class=\"h3\">\\&" "</span>")
  		 ("^====" "<span class=\"h4\">\\&" "</span>")
- 		 ("^----" "<hr/>\\&")
+ 		 ;; ("^----" "<hr/>\\&")
 
  		 ("^\\$ " "<span class=\"shell\">\\&" "</span>")
 
