@@ -1,48 +1,15 @@
-body {font-family:  Menlo, Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace; background:#EEEEEE;}
+@import url("layout.css");
+@import url("standard.css");
+/* @import url("emacs.css"); */
+/* @import url("cave.css"); */
+/* @import url("blur.css"); */
+/* @import url("STC.css"); */
+/* @import url("sky.css"); */
+/* @import url("sun.css"); */
+/* @import url("mint.css"); */
+/* @import url("rose.css"); */
 
-.main {padding-left:4px;}
-.header {border-bottom:solid;}
-.footer {border-top:solid; font-size:50%; text-align:right;}
-
-span.bullet{margin-left:1%;font-size:150%;}
-span.indent{margin-left:1%;}
-
-span.quot,span.quot2,span.quot3 {font-weight:normal; font-size:100%;}
-
-span.italic {font-style:italic;}
-span.bold {font-weight:bold;}
-
-span.h1, span.h2, span.h3, span.h4 {background:#ddd;}
-
-span.h1 {font-size:200%;}
-span.h2 {font-size:175%;}
-span.h3 {font-size:150%;}
-span.h4 {font-size:125%;}
-
-a {text-decoration:none;}
-a:visited {text-decoration:none;}
-a:hover,a:focus {text-decoration:none;}
-
-input {font-size:65%;}
-img {float:right;}
-
-span.rel {background:#070; color:#fff;}
-span.date {background:#595959; color:#fff;}
-
-span.quot {background:#ffffee;}
-span.quot2 {background:#ffeeff;}
-span.quot3 {background:#eeffff;}
-
-span.shell {background:#ddd;}
-span.cmnt {background:#dfd;}
-span.type {background:#9bf;}
-
-a {color:#008; background:#e4e4ee;}
-a:visited {color:#006; background:#eeeeee;}
-a:hover, a:focus {color:#008; background:#e4e4a0;}
-
-a.ext {color:#080; background:#e4eee4;}
-a.ext:hover, a.ext:focus {background:#e4a0e4;}
-
-a.eml {color:#800; background:#eee4e4;}
-a.eml:hover, a.eml:focus {background:#a0e4e4;}
+/* http://javascript.about.com/library/blswitch.htm */
+/* http://www.echoecho.com/csslinks.htm */
+/* http://www.blooberry.com/indexdot/css/index10.htm */
+/* http://www.w3.org/TR/REC-CSS2/text.html */
