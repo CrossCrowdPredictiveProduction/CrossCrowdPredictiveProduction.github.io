@@ -1,4 +1,11 @@
 -about
+-diary
+-faq
+-home
+-index
+-pages
+-projects
+-todo
 abund
 act
 agnu
@@ -49,7 +56,6 @@ cur
 cust
 debt
 dev
--diary
 diary-2013-09
 diary-2013-10
 diary-2014-01
@@ -82,7 +88,6 @@ emacs
 employ
 exch
 factor
--faq
 farm
 fish
 food
@@ -105,8 +110,6 @@ grow
 hack
 heal
 hold
--home
--index
 info
 input
 inst
@@ -166,7 +169,6 @@ price
 print
 produc
 profit
--projects
 promis
 proper
 propertyleft
@@ -208,7 +210,6 @@ teem
 term
 text
 time
--todo
 trad
 trans
 type
