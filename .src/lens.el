@@ -458,11 +458,10 @@ All terms less than this match only at the beginning of words (using `\\b')")
 				  (insert
 				   "</p>\n"
 				   "<p class='footer'>\n"
-				   " Page generated from <a href=\".txt/" file "\">" file "</a> by <a href=\".src/lens.el\">lens.el</a>."
-				   "</p>\n"))
+				   " Page generated from <a href=\".txt/" file "\">" file "</a> by <a href=\".src/lens.el\">lens.el</a>."))
 
 			  (insert
-			   "</p>"
+			   "</p>\n"
 			   "</body>\n"
 			   "</html>\n")
 
