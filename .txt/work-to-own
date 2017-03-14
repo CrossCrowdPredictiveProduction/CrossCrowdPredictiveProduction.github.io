@@ -1,4 +1,22 @@
-Related: work, own
+Related: work, own, promise
 
 Work-to-own is the 'Promise' half of a Crowd Cache contract.
+
+Services are predictively scheduled when workers commit promises toward future production.
+
+For example, picking more than your portion of the fruit in the orchard means you have done work for other orchard owners.
+
+Trading work promises before production begins allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
+
+This nearly eliminates the need to use money at all, since the goods and services are already committed to those who need them.
+
+Mr. A may commit to work for Ms. B in return for Ms. B committing to work for Mr. A.
+
+But more complex chains can also be arranged such as A works for B, B works for C, C works A, for example, but really to any depth.
+
+Some requirements for this part of the system:
+A way for investors to list the Products they want.
+A way to find the Property and Promises required for that production.
+A way to purchase the Property and secure the Promises.
+
 

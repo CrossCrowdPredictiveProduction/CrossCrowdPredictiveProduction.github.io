@@ -1,19 +1,37 @@
 Related: Crowd Control, IOTA
 
-== moved to NotaBug.org/AGNUcius/Crowd-Cache
+Crowd Cache is an imperfect store of future value representing the Property and Promises needed to create and maintain the many Products a group needs.
 
-Crowd Cache is a community currency backed by the Property and Promises needed to create and maintain the Products those people need, such as food, housing, sanitation, clothing, medicine, etc.
+Crowd Cache is "backed by" or "issued against" the Property and Promises needed to create and maintain the Products those people need, such as food, housing, sanitation, clothing, medicine, etc.
 
-This legal instrument is a combination of 3 concepts:
+Products are critical goods and services such as food, housing, water, sanitation, clothing, health care.  Products are an *estimated* return on investment, and are only as good as the Property and Promises required for that production.
 
-A projected quality & quantity of product at some rate across time.
-The Property needed for that production under the terms of the IOTA.
-The Promises needed for that production under the terms of the IOTA.
+Property is all the land and tools and other non-human inputs needed to make those Products.
 
-For example
-0. Product:  One dozen grade A, medium chicken eggs every week.
-1. Property: Title of co-ownership in the land and tools and other non-human inputs needed to tend the chickens and grow their feed.
-2. Promises: Commitments from all the people required to do the work.
+Promises are commitments from qualified workers to achieve the work needed to make those Products.
+
+==Rules
+The rules covering this production are:
+1. Property owners are Product owners that same amount.
+2. Workers gain Property on a work-to-own basis when the commit to work in the future.
+3. When selling surplus, Consumers gain Property when they pay profit, which must be treated as the payer's investment.
+4. Any subgroup may secede from the group when the Property is realistically divisible.
+
+
+Crowd Cache is issued in response to an investment, where investments are one of:
+A. Property - When someone commits land or tools or even just plain-old-money.
+B. Promises - When someone commits to achieve future goals, they receive immediate access to property which vests on a work-to-own basis.
+C. Profit   - When someone pays more than cost, that profit becomes the payer's investment.
+
+
+==Property Sharing
+To insure production continues, a Crowd Cache owner must either:
+1. Directly supply all the property and promises needed to cover their portion of the recurring costs of production as decided by the group.
+2. Indirectly supply property or promises through cross-commitments.
+3. Allow the group to trade a portion of their product for the sources that production requires.
+4. Secede from the group to retain their portion of the property under their own terms.
+
+
 
 
 The Product is an *estimated* return on investment, and is only as good as the Property and Promises required for that production.
