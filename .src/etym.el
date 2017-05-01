@@ -34,6 +34,8 @@
 ;; etym.el ignores any attempts of 'forced' linking, and instead
 ;; allows each Reader to interpret the text in their own way.
 
+;; The Reader control is not yet in place, still designing Fan Run.
+;; The intention is to create a 
 
 ;;; FEATURES
 ;; Markup is inherently WYSIWYG because rendered Output must equal text Input.
