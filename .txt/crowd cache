@@ -1,87 +1,69 @@
 Related: Crowd Control, IOTA, LandCoin
 
-Crowd Cache is an imperfect store of future value representing the Property and Promises needed to create and maintain the many Products a group needs.
+Crowd Cache is a community currency backed by the Property and Promises needed to create and maintain the many Products that community needs.
 
-Crowd Cache is "backed by" or "issued against" the Property and Promises needed to create and maintain the Products those people need, such as food, housing, sanitation, clothing, medicine, etc.
-
-Products are critical goods and services such as food, housing, water, sanitation, clothing, health care.  Products are an *estimated* return on investment, and are only as good as the Property and Promises required for that production.
-
-Property is all the land and tools and other non-human inputs needed to make those Products.
-
-Promises are commitments from qualified workers to achieve the work needed to make those Products.
-
-==Rules
-The rules covering this production are:
-1. Property owners are Product owners that same amount.
-2. Workers gain Property on a work-to-own basis when the commit to work in the future.
-3. When selling surplus, Consumers gain Property when they pay profit, which must be treated as the payer's investment.
-4. Any subgroup may secede from the group when the Property is realistically divisible.
+The rules covering this production are described in the IOTA.
 
 
-Crowd Cache is issued in response to an investment, where investments are one of:
-A. Property - When someone commits land or tools or even just plain-old-money.
-B. Promises - When someone commits to achieve future goals, they receive immediate access to property which vests on a work-to-own basis.
+==== DEFINITIONS
+PRODUCTS: Are a *projected* return on investment, and are only as good as the Property and Promises required for that production minus disasters and other trouble.
+
+PROPERTY: All the land and tools and other non-human inputs needed to make those Products.
+
+PROMISES: Commitments from qualified humans to achieve the work needed to make those Products.
+
+
+==== ISSUANCE
+Crowd Cache is "backed by" or "issued against" the Property and Promises needed to create and maintain food, housing, sanitation, clothing, health care, transport, etc.
+
+Issuance is a response to an investment, where investments are one of:
+
+A. Property - When someone commits land or tools or even just plain-old-money toward production.
+B. Promises - When someone commits to achieve future goals, they receive immediate access to property which then vests on a work-to-own basis.
 C. Profit   - When someone pays more than cost, that profit becomes the payer's investment.
 
 
-==Property Sharing
+==== PROPERTY
 To insure production continues, a Crowd Cache owner must either:
 1. Directly supply all the property and promises needed to cover their portion of the recurring costs of production as decided by the group.
 2. Indirectly supply property or promises through cross-commitments.
 3. Allow the group to trade a portion of their product for the sources that production requires.
 4. Secede from the group to retain their portion of the property under their own terms.
 
+Property owners are Product owners in that same amount when they pay their portion of the costs for that round of production.
 
 
+==== PROMISES
+Promises are commitments of future labor, traded for access to property on a work-to-own basis as described in Crowd Control.
 
-The Product is an *estimated* return on investment, and is only as good as the Property and Promises required for that production.
+For example, if you commit to pick more than your portion of the fruit in the orchard, you have 'paid' other orchard owners who may not want to do that work.
 
-Property owners are Product owners in that same amount if they have paid their portion of the costs.
-
-Promises are commitments of future labor that should cause workers to gain debt-free property on a work-to-own basis (Crowd Control).
-
-If Profit is collected when selling surplus, it must be treated as the payer's investment as outlined in the IOTA.
+Trading work early in time allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
 
 
-....
-Crowd Cache is issued in response to an investment, where investments are one of:
-A. Property - When someone commits land or tools or even just plain-old-money.
-B. Promises - When someone commits to achieve some future goal.
-C. Profit   - When treating price-above-cost as the payer's investment.
+==== NOTES
+Each product instance has a window-of-validity in time enforced by constraints on production and on the lifetime of the product.  For example, a sapling does not produce fruit immediately, and each harvest is must be used before it gets too old.
 
+Crowd Cache is really just a secure public ledger recording the INPUTS and OUTPUTS of production.
 
-....
+A bulletin-board [paper first, code later] to determine demand and aquire commitments:
 
-Each product instance has a window-of-validity in time (can only be used between a start and end time) enforced by reality itself.  For example, you cannot use an egg until they are out of the chicken :-D, and you must not eat them after they are too old :-0.
+--------------------------------------------------------------------------------
+|     OUTPUTS (demands)  |                  INPUTS (commitments)               |
++------------------------+-----------------------------------------------------+
+|    Future Product      |     Required Property    |    Required Promises     |
+|  Any good or service   |  Usually external money  |  Skills to be applied    |
+| Quality*Quantity*Rate    used to buy the property | or automation to solve   |
++------------------------+--------------------------+--------------------------+
+| 1 dozen AAA eggs/week  | land, chickens, tools    | raise, tend, gather eggs |
+| 1 gal AA Milk/week     | land, cattle, barn       | feed, tend, milk         |
+|                        |                          |                          |
+|                        |                          |                          |
+|                        |                          |                          |
+|                        |                          |                          |
+--------------------------------------------------------------------------------
 
-Proper accounting is important to defend ourselves against someone who might try to take more than they own.
+You 'buy' a Future Product by committing work or money toward one of the many Products being offered within that community.
 
-Crowd Cache will be electronic in the end, allowing instantaneous conversion and so fully liquid currency, but I find it easier to explain as paper notes.
+You become a real co-owner and eventually receive the Product as the natural reward of that ownership.
 
-....
-
-==Property Owner Requirements
-To insure production continues, a Crowd Cache owner must either:
-1. Directly supply all the property and promises needed to cover their portion of the recurring costs of production as decided by the group.
-2. Indirectly supply property or promises through cross-commitments.
-3. Allow the group to trade a portion of their product for the sources that production requires.
-4. Secede from the group to retain their portion of the sources under their own terms.
-
-
-==Promise Scheduling
-Services are predictively scheduled when workers commit promises toward future production.
-
-For example, picking more than your portion of the fruit in the orchard means you have done work for other orchard owners.
-
-Trading work promises before production begins allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
-
-This nearly eliminates the need to use money at all, since the goods and services are already committed to those who need them.
-
-Mr. A may commit to work for Ms. B in return for Ms. B committing to work for Mr. A.
-
-But more complex chains can also be arranged such as A works for B, B works for C, C works A, for example, but really to any depth.
-
-Some requirements for this part of the system:
-A way for investors to list the Products they want.
-A way to find the Property and Promises required for that production.
-A way to purchase the Property and secure the Promises.
