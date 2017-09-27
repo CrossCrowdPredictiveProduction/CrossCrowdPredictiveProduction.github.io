@@ -1,17 +1,1 @@
-Related: BreadLandia, Crowd Cache
-
-alternate names:
-square buck
-area coin
-
-
-
-This is an experiment in creating a digital money backed by the surface area of the earth.
-
-Each coin is issued against real estate purchased through micro-crowd-funding as in-app purchases within a simple grid-based video game.
-
-One acre has 43,560 sqare feet.  Average price for farmland in the US now is between $2k/acre to $6k/acre.
-
-So $4,356/acre would be about 10_cents/square_foot.  Considering all other costs such as water rights, fees, taxes, etc. a realistic sale price might be 99_cents/square_foot.
-
-The app/game should scan real-estate listings throughout the world, create grid-maps for each and then offer the closest parcel by default but allows the player to choose any.
+land coin
