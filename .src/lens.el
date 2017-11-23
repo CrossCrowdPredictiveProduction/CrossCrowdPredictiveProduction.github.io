@@ -108,7 +108,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 
 (defcustom lens-encoding "UTF-8" "XML encoding attribute") ;"ISO-8859-1"
 
-(defcustom lens-pure t "do not add header and footer")
+(defcustom lens-pure nil "do not add header and footer")
 
 ;;; CODE:
 (require 'time-date)
