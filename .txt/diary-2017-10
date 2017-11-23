@@ -1,3 +1,55 @@
+2017-10-29: The owner of Property is the owner of Product.
+
+2017-10-28: We will make new coins backed by property and promises.
+
+2017-10-27: This holds high hopes but has major problems: https://hackernoon.com/turning-good-into-gold-with-cryptocurrency-23d7f7025764
+
+2017-10-27: trying to compile micropolis and thinking again about Fund-On-Error
+xmp.h exists but is not seen by the Micropolis makefile
+
+[[[[
+~/down/micropolis-activity/src $ make
+tkpixmap.c:44:17: fatal error: xpm.h: No such file or directory
+...
+~/down/micropolis-activity/src $ pkg.files libxmp-devel
+/usr/include/xmp.h
+/usr/lib64/libxmp.so
+...
+]]]]
+
+
+2017-10-26: Switching the order of operations returns our incentive toward abundance.
+Part of the complexity here is that we must have both property and promises for production.
+Can we, and even *should* we create a money backed both work and land?
+Or should they be separated - I think more this way each day...
+LandCoin
+and
+WorkCoin
+
+
+2017-10-26: Elevator pitch: food and shelter at cost.
+
+An inverse of what Wimpy of Popeye would say - Instead of:
+I will pay you Tomorrow for a hamburger Today.
+I will pay you Today for a hamburger Tomorrow.
+
+2017-10-26: Soon we will see the value of use value.
+
+2017-10-26: Fund-On-Error is a continuation of the AutoExtend idea - where users drive development.
+
+2017-10-26: PropertyLeft lives!
+
+2017-10-25: MST3K The Undead
+
+2017-10-25:
+You have landed on a deserted island.
+A burlap bag bulges with surprise.
+Do you wish for gold or grain?
+
+2017-10-25: Robots are taking the jobs!  BuiltRobotics.com
+
+2017-10-22: Land Bank is a GNU way to use promises for property and property for product.
+
 2017-10-17: The land problem is almost the only problem.
 
 2017-10-14: This new approach to code is profound: BreckyUnits.com/the-flaw-in-lisp.html

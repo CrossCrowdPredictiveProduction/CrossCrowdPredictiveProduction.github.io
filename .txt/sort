@@ -1,4 +1,6 @@
-Related: clean, organize
+Related: bot, clean, organize, tool
 
-SortBot is a learning robot that travels your home attempting to identify and move belongings to where you want them stored.
+SortBot is a learning robot that travels your home, identifying items, and returning them to where you want them stored, or reporting them as unidentified.
+
+
 

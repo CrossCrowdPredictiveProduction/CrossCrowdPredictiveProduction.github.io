@@ -1,4 +1,4 @@
-Related: clean, water, sanitation, sewer, tray
+Related: clean, water, sanitation, sewer, sort, tray
 
 A few ideas to make washing easier:
 
@@ -9,14 +9,19 @@ Multiple trays
 
 
 ==Clothes
-Multiple laundry baskets (maybe around 5) let the user sort clothes early.
+Multiple laundry chutes (3 to 5) let the user sort clothes early.
 
-When each basket reaches a weight limit, and if another load is not running, it is dumped in the washer.
+Each chute dump into the washer when reaching a weight limit and if another load is not running.
 
-The washer dumps into the dryer when finished.
+Washers need to be redesigned so we can easily dump the clean load into the dryer.
 
-The dryer dumps into a counterbalanced dumb-waiter, delivering the clothes back to the correct room.
+For we may need to build a robot that peels the clothes from the inside of the washer.
 
-==House
-VacBot: industrial-strength cleaning unit to cleans floors and lower walls.  Optional wet-vac steam pass.  Smaller version cleans countertops.
+Dryer dumps into basket on counterbalanced dumb-waiter returns to owner.
 
+WashBot, RoboScrub
+Thinking of a little cleaning unit to steam-clean floors and bottom of walls.
+Smaller version cleans countertops.
+Could dress them as pets.
+WashBot
+Robo

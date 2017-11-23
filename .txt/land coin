@@ -1,4 +1,4 @@
-Related: BreadLandia, Crowd Cache
+Related: BreadLandia, Crowd Cache, Land Bank
 
 This is an experiment in creating a digital money backed by the surface area of the earth.
 
@@ -9,3 +9,10 @@ One acre has 43,560 sqare feet.  Average price for farmland in the US now is bet
 So $4,356/acre would be about 10_cents/square_foot.  Considering all other costs such as water rights, fees, taxes, etc. a realistic sale price might be 99_cents/square_foot.
 
 The app/game should scan real-estate listings throughout the world, create grid-maps for each and then offer the closest parcel by default but allow the player to choose any.
+
+====meta
+Is  LandCoin  better naming?
+
+But this spelling is already claimed by others, so we'll need something else.
+
+plotcash

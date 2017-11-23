@@ -4,8 +4,6 @@ PlatformIO.org >>PlatformIO is a cross-platform code builder and the missing lib
 
 MSYS2.sf.net >>A Cygwin-derived software distro for Windows using Arch Linux's Pacman
 
-cygwin.com
-
 packer.io >>Packer is a tool for creating machine and container images for multiple platforms from a single source configuration.
 
 labix.org/smart >>The Smart Package Manager project has the ambitious objective of creating smart and portable algorithms for solving adequately the problem of managing software upgrades and installation. This tool works in all major distributions and will bring notable advantages over native tools currently in use (APT, APT-RPM, YUM, URPMI, etc).

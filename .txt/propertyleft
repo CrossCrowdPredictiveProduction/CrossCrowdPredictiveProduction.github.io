@@ -1,8 +1,9 @@
-Related: IOTA, Property
+Related: Crowd Control, IOTA, Property
 
 The GNU GPL uses copyright to enforce copyleft.
 The IOTA uses property rights to enforce PropertyLeft.
 
+This is meant to show how we can hold property for our mutual benefit.
 
 
 Remix of GNU.org/copyleft
@@ -11,7 +12,7 @@ PropertyLeft is a general method for making physical property free, and requirin
 
 The simplest way to make property free is to put it in a public area, unprotected.  This allows people to share the property and their improvements, if they are so minded.  But it also allows uncooperative people to convert that property into proprietary property.  They can make changes, many or few, and distribute the result as proprietary property.   People who receive the property in that modified form do not have the freedom that the original author gave them; the middleman has stripped it away.
 
-In the CCPP project, our aim is to give all users the freedom to redistribute and change CCPP property.  If middlemen could strip off the freedom, we might have many users, but those users would not have freedom.  So instead of putting CCPP property in the public domain, we "propertyleft" it.  Propertyleft says that anyone who redistributes the property, with or without changes, must pass along the freedom to further copy and change it.  Propertyleft guarantees that every user has freedom.
+In the Crowd Control project, our aim is to give all users the freedom to redistribute and change CC property.  If middlemen could strip off the freedom, we might have many users, but those users would not have freedom.  So instead of putting CC property in the public domain, we "propertyleft" it.  Propertyleft says that anyone who redistributes the property, with or without changes, must pass along the freedom to further copy and change it.  Propertyleft guarantees that every user has freedom.
 
 Propertyleft also provides an incentive for other producers to add to free property.  Important free property such as any VIPM exists only because of this.
 
@@ -25,7 +26,7 @@ Proprietary property developers use property right to take away the users' freed
 
 Propertyleft is a way of using of the property right on the program.  It doesn't mean abandoning the property rights; in fact, doing so would make propertyleft impossible.  The "left" in "propertyleft" is not a reference to the verb "to leave" - only to the direction which is the inverse of "right".
 
-Propertyleft is a general concept, and you can't use a general concept directly; you can only use a specific implementation of the concept.  In the CCPP Project, the specific distribution terms that we use for most property are contained in the CCPP Intra Owner Trade Agreement.  The CCPP Intra Owner Trade Agreement is often called the CCPP IOTA for short.
+Propertyleft is a general concept, and you can't use a general concept directly; you can only use a specific implementation of the concept.  In the CC Project, the specific distribution terms that we use for most property are contained in the CC Intra Owner Trade Agreement.  The CC Intra Owner Trade Agreement is often called the CC IOTA for short.
 
 The IOTA is designed so that you can easily apply it to your own property, assuming you are the property owner.  You don't have to modify the IOTA to do this, just post a copy on the property in an easily visible location.  You might use a billboard for a large parcel of land; you might use a sticker for fruit; you might engrave the agreement on tools.
 
