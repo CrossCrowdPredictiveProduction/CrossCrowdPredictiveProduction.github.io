@@ -1,4 +1,9 @@
 -about
+-diary
+-home
+-index
+-projects
+-todo
 abund
 act
 agnu
@@ -54,7 +59,6 @@ cur
 cust
 debt
 dev
--diary
 diary-2013-09
 diary-2013-10
 diary-2014-01
@@ -105,8 +109,8 @@ farm
 fish
 food
 for good
-fork
 for product
+fork
 free
 fund
 fund-on-error
@@ -130,9 +134,7 @@ grow
 hack
 heal
 hold
--home
 ignu
--index
 info
 input
 inst
@@ -145,8 +147,8 @@ join
 labor
 land
 land bank
-landcoin
 land coin
+landcoin
 lang
 late
 law
@@ -205,7 +207,6 @@ print
 priv
 produc
 profit
--projects
 promis
 proper
 propertyleft
@@ -255,7 +256,6 @@ text
 the conquest of bread
 thing
 time
--todo
 token
 tool
 town
@@ -266,8 +266,8 @@ trust
 type
 us
 use
-user
 use value
+user
 usur
 valu
 vert
