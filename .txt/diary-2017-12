@@ -1,0 +1,329 @@
+2017-12-26: LCDKey: Idea for a new kind of keyboard where keys are in the familiar offset grid, but the size of each is extended to touch bordering keys so forming a seamless screen.  The surface of each key is a monotone LCD displaying the current key assignment or used as a daylight reading screen.  Each key be both physically pressable and also a touchscreen.
+
+2017-12-25:
+My entry for "'Solving Homelessness: A Community Workshop'" at Docs.Google.com/forms/d/e/1FAIpQLSfVoeX77ubyPSC9JW97AUzr5lDcWzJVF0zPK2AIRMkdvgLq5g/viewform
+
+>> What is your idea for solving homelessness?
+
+Create the pilot project for a series of permaculture-based ecovillages/makerspaces using the newly developed "For Product" business model.
+
+The For Product approach uses a set of constraints to change value flows in these ways:
+
+.
+
+
+All landscaping is done with plants and animals needed to make all the food, soaps, medicines, clothing, textiles, etc. for the residents and to repay crowdfunders and to expand operations.
+
+
+
+===Design
+See For Product
+
+===Implementation
+See City of Plenty
+
+===Phase1
+Create crowdfunding campaign to presell the many goods and services we will produce onsite.
+
+This gives us debt-free ownership of undeveloped land near an established city with middle-to-upper-class residents who can prepay.
+
+===Phase2
+Occupy Temporary housing such as tents, basic sanitation, first aid and bulk food staples.
+
+===Phase3
+
+===Phase4
+
+>> Who are the stakeholders and responsible parties that would deploy the solution?
+
+. Organizers who prepay with policy guidelines and structural design
+. Workers who prepay with promises earn property on a work-to-own basis.  This gives them immediate access to the property required for a Basic Outcome which vests as promises are fulfilled.
+. Crowdfunders who prepay with money for the typical payout of "one round of production".
+
+We need special knowledge to plan the permaculture layout and low cost shelter.
+
+After setup is complete, most of the day-to-day work is low complexity agriculture and food handling.  This requires a strict policies for safety, sanitation, quality
+
+
+>> How many people would be housed or no longer on the streets? Who would be impacted?
+
+
+
+>> How much would it cost to deploy? Where would the funding come from?
+
+I estimate about $10 Million - half for the land, the rest for tools and startup supplies.
+
+
+>> Does it have precedent in other cities or in the Bay Area? If yes, where?
+
+I have not been able to find any groups holding property For Product to avoid debt, wages, sales, profit*, and excessive growth.
+
+* [[Profit is a natural result when consumers lack property ownership.]]
+
+
+>> What are the roadblocks? Are there underlying social or political tensions that prevent the solution from being deployed?
+
+Creating what will become a privately owned city is massively disruptive and possibly dangerous operation.
+
+Safety and sanitation standards must be clear and easily enforced through water flow design.
+
+
+>> Anything else you’d like us to know about your idea?
+
+This approach blends remixed ideas from many fields of study in group dynamics.
+
+Crowd Funding:
+Property sharing:
+Time Banking:
+Profit Sharing:
+Property forking:
+
+
+2017-12-22: Resistance to change protects group cohesion from potentially danderous external influences, but absolute adherence to this rule stops some opportunities for progress.
+
+2017-12-20: Came here looking for new ways to build programs and found new ways to build physical objects.  "'Clasp: Common Lisp using LLVM and C++ for Molecular Metaprogramming'" -- YouTube.com/watch?v=8X69_42Mj-g
+
+2017-12-16: The home is a microcosm of the economy.
+
+        heal
+    wash    eat
+        rest
+
+When consumers own sources for good,
+the outputs are under their control.
+
+There is no purchase, so price is cost and profit is gone.
+
+Profit does not exist because the final transaction does not occur.
+
+The sale happens earlier in time when the consumer prepaid for the result.
+
+This is different from regular crowdfunding.  Instead of receiving just one round of production, the buyer receives real property ownership in the material Means of Production for that good or service.
+
+2017-12-16: We will conquer debt with property ownership for good.
+
+2017-12-16: A tree owner does not buy that fruit.
+
+2017-12-13: CityCash idea:
+Groups of groups create a set of instantly-interchangable digital coins, each representing a predicted quality and "rate across time" of a specific good or service.
+
+Each of these coins is "backed by" the property and promises required for that future production of that good or service at that quality and rate.
+
+Coins are issued against:
+
+1. Land and tools are secured without debt by pre-selling organic goods and services to the middle-to-upper class people in a nearby city.  Most people only expect one round of production from a crowdfunded campaign, so we don't necessarily need to sell any of the coins here, we might be able to just sell some of the finished products and retain most of the coins for the workers.
+
+2. Future labor is secured from qualified skilled workers by allowing immediate access to food and shelter without debt on work-to-own terms.
+
+Promises are secured by allowing workers immediate access to the property they need for a "Basic Outcome" of sanitation, health care, food, shelter, clothing, 
+
+At first, during 'bootup' stage, workers may need to live in temporary structures - maybe even tents in extreme cases - while some of these workers build the first multipurpose structure.
+
+2017-12-13: plotcash
+Area Buck, Square Money, Cell Note
+
+2017-12-12: sudden cube love:
+1   1   =1 × 1 × 1
+2   8   =2 × 2 × 2
+3   27  =3 × 3 × 3
+4   64  =4 × 4 × 4
+5   125 =5 × 5 × 5
+6   216 =6 × 6 × 6
+7   343 =7 × 7 × 7
+8   512 =8 × 8 × 8
+9   729 =9 × 9 × 9
+10  1000    =10 × 10 × 10
+11  1331    =11 × 11 × 11
+12  1728    =12 × 12 × 12
+13  2197    =13 × 13 × 13
+14  2744    =14 × 14 × 14
+15  3375    =15 × 15 × 15
+16  4096    =16 × 16 × 16
+17  4913    =17 × 17 × 17
+18  5832    =18 × 18 × 18
+19  6859    =19 × 19 × 19
+20  8000    =20 × 20 × 20
+21  9261    =21 × 21 × 21
+22  10648   =22 × 22 × 22
+23  12167   =23 × 23 × 23
+24  13824   =24 × 24 × 24
+25  15625   =25 × 25 × 25
+26  17576   =26 × 26 × 26
+27  19683   =27 × 27 × 27
+28  21952   =28 × 28 × 28
+29  24389   =29 × 29 × 29
+30  27000   =30 × 30 × 30
+31  29791   =31 × 31 × 31
+32  32768   =32 × 32 × 32
+33  35937   =33 × 33 × 33
+34  39304   =34 × 34 × 34
+35  42875   =35 × 35 × 35
+36  46656   =36 × 36 × 36
+37  50653   =37 × 37 × 37
+38  54872   =38 × 38 × 38
+39  59319   =39 × 39 × 39
+40  64000   =40 × 40 × 40
+41  68921   =41 × 41 × 41
+42  74088   =42 × 42 × 42
+43  79507   =43 × 43 × 43
+44  85184   =44 × 44 × 44
+45  91125   =45 × 45 × 45
+46  97336   =46 × 46 × 46
+47  103823  =47 × 47 × 47
+48  110592  =48 × 48 × 48
+49  117649  =49 × 49 × 49
+50  125000  =50 × 50 × 50
+51  132651  =51 × 51 × 51
+52  140608  =52 × 52 × 52
+53  148877  =53 × 53 × 53
+54  157464  =54 × 54 × 54
+55  166375  =55 × 55 × 55
+56  175616  =56 × 56 × 56
+57  185193  =57 × 57 × 57
+58  195112  =58 × 58 × 58
+59  205379  =59 × 59 × 59
+60  216000  =60 × 60 × 60
+61  226981  =61 × 61 × 61
+62  238328  =62 × 62 × 62
+63  250047  =63 × 63 × 63
+64  262144  =64 × 64 × 64
+65  274625  =65 × 65 × 65
+66  287496  =66 × 66 × 66
+67  300763  =67 × 67 × 67
+68  314432  =68 × 68 × 68
+69  328509  =69 × 69 × 69
+70  343000  =70 × 70 × 70
+71  357911  =71 × 71 × 71
+72  373248  =72 × 72 × 72
+73  389017  =73 × 73 × 73
+74  405224  =74 × 74 × 74
+75  421875  =75 × 75 × 75
+76  438976  =76 × 76 × 76
+77  456533  =77 × 77 × 77
+78  474552  =78 × 78 × 78
+79  493039  =79 × 79 × 79
+80  512000  =80 × 80 × 80
+81  531441  =81 × 81 × 81
+82  551368  =82 × 82 × 82
+83  571787  =83 × 83 × 83
+84  592704  =84 × 84 × 84
+85  614125  =85 × 85 × 85
+86  636056  =86 × 86 × 86
+87  658503  =87 × 87 × 87
+88  681472  =88 × 88 × 88
+89  704969  =89 × 89 × 89
+90  729000  =90 × 90 × 90
+91  753571  =91 × 91 × 91
+92  778688  =92 × 92 × 92
+93  804357  =93 × 93 × 93
+94  830584  =94 × 94 × 94
+95  857375  =95 × 95 × 95
+96  884736  =96 × 96 × 96
+97  912673  =97 × 97 × 97
+98  941192  =98 × 98 × 98
+99  970299  =99 × 99 × 99
+100 1000000 =100 × 100 × 100
+101 1030301 =101 × 101 × 101
+...
+999 997002999   =999 × 999 × 999
+1000 1000000000 =1000 × 1000 × 1000
+
+2017-12-12:
+Here is my plan for a better tomorrow:
+
+. Accept we must continuously service our carcass.
+
+. Organize humans and robots to achieve production.
+
+. Buy to own and control property for production.
+
+
+2017-12-10: facebook.com/LordAGNUcius/posts/10155381312796443
+
+We pay all the costs of production, and even more when paying profit.
+
+Owning the property to accomplish our goals under our full control.
+
+We accept the product as the natural return on investment.
+
+When we accept product as ROI, we do not buy; it is ours already.
+
+This eliminates the final sale in a natural way - similar to how you do not buy nuts from yourself when they are grown in your garden, even if you hired someone else to do the work.
+
+Eliminating the final sale of the product also changes the trajectory of such production toward use-value instead of exchange-value. These owners do not want their neighbor farms to fail to increase price - for price is no longer a goal.
+
+Just because you are an owner does not mean you must work there. Each industry will need the same people who already enjoy that work.
+
+We can pay a higher wage since we will not be paying profit, but the real goal will be to insure everyone receives the property required for the products they need.
+
+Every worker is a consumer, and must be protected in this way for every good and service they need. This realigns production with abundance and makes robots our friends.
+
+
+
+We, as groups of consumers, will crowdfund undeveloped land, tools and organisms For Product to finally regain direct control of production.
+
+Those willing to live in tents and begin work will move onsite immediately to build the first central shared structure and begin permaculture installation of the plants and animals we need.
+
+We can own property For Product to host all the housing and production of all the goods and services we need.
+
+We can and must own the land and tools required to supply ourselves (within each group and group of groups, etc.) with a Basic Outcome.
+
+The minimum size of any group is set both by the quality of life target and upon the depth of grouping achieved - but also upon many other forces.
+
+Today we pay the costs of production and usually profit when we buy products from other.
+
+We can each be tiny owners in For Product corporations, but it doesn't really occur to us to do so.
+
+It is easy to assume the worker must own.
+And it may seem consumers could never own.
+
+But usually more consumers than workers.
+
+When consumers bear the burden of ownership,
+any person who qualifies may work instantly.
+
+This is the same effect caused by the GNU GPL.
+
+We will crowdfund land and tools For Product.
+
+Work will be secured as future work promises.
+
+Property for promises vests on a work-to-own.
+
+Work becomes a commitment made early in time, before production begins.  This eliminates the flow of tokens for those services.
+
+When you own For Product, you accept the product itself as your ROI, therby avoiding the purchase of that product.  This eliminates token flow for those goods.
+
+In this way our future needs can be imperfectly assured through the goods and services required for that production.
+
+This uses property and promises to preallocate the goods and services we would usually buy from others.
+
+
+2017-12-03:
+Is debt the only solution?
+Or is it the only problem?
+
+Must we always pay rent or mortgage?
+Could we ever own housing sans debt?
+
+What about farms and factories?
+th rbts r cmng, th rbts r cmng.
+
+
+2017-12-02: The usual phases of production solves some foundational and seemingly inescapable troubles.
+
+Business as usual
+. Pitch to bankers or other creditors -> DEBT
+. Buy land and tools to begin production.
+. Advertise to consumers
+. Sell to consumers and collect profit
+. Use most of profit to pay <- DEBT
+
+
+2017-12-01: newco.co is interesting "'NewCo Shift illuminates the companies, leaders, and issues driving the transition to a sustainable, positive-impact business ecosystem.'"
+
+2017-12-01: Saw an interview with Carmen Yulin Cruz - the mayor of Puerto Rico ... her rough voice so sad and sincere...
+
+2017-12-01: Loving  The Prodigy - Phoenix Festival 1996  YouTube.com/watch?v=inu0xeteuxg
+
+The intense group spirit makes me sing and dance.

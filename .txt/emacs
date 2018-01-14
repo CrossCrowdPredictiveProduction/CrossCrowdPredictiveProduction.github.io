@@ -1,3 +1,65 @@
 Related: code, shell, term, text, word
 
 '"GNU Emacs  An extensible, customizable, free/libre text editor — and more. At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.'" -- GNU.org/software/emacs
+
+Hi all, I started using GNU Emacs around 1993.
+
+https://github.com/CrossCrowdPredictiveProduction/CrossCrowdPredictiveProduction.github.io.git
+
+Ideas:
+* ../.src/lens.el ;; autolink plain-text documents
+* ConcurrEmacs: Parts of buffers show [[waiting on io]], user control is never blocked.
+* MyopiMacs: Every file is an INFINITE stream.
+** Any Emacs frame can only show as much as the font size will allow.  But on that note, want other ways of displaying data, even to the point of interpreting everything, and so whatever the stream is, we just Play it.
+
+We can use the "Range-Request" idea supported some of the popular network protocols for moving files, such as http, ftp, rsync, scp(?) which gives clients the ability to request random offsets into possibly massive files.
+
+If the user is trying to jump
+In this way we load just enough of the file to trick the user into noticing no difference.
+
+Algorithms decide what to load next in a 'predictive' manner.
+
+
+: PlainTextWiki
+:: See: http://CommunityWiki.org/en/PlainLink and http://CommunityWiki.org/en/PlainTextWiki
+
+
+:: Retrieve only enough data to fill screen (or maybe 3 screens to pre-cache the preceeding and following screens for quicker navigation)
+::: Use ideas from HexviewMode for local files.
+::: Use 'Range' specifier with HTTP 'GET' verb.
+::: Use 'REST' verb for FTP.
+:: Network writes sent with something like xdiff, rsync if available.
+: MinEmacs: Minimal subset of license, doc, c, lisp, data files competitive with other small editors.
+:: Signed and unsigned plugins and EmacsLisp are installed on demand via TCP or removable media.
+:: See: [[DELPS]]
+: Integrate FireFox rendering.  Investigating http://RobRohan.com/projects/9ne and http://JoeGanley.com/code/jslisp.html for now.
+: JIT compiler with FFI and SWIG for high performace and trivial connectivity.
+: Download RTSP or mms streams.
+: MenuClock --- show the time as a menu item.
+: media-editor.el --- View and Edit audio and video with external tools (for now) with those windows set to always-on-top.
+:: Must be able to split/join lossy-compressed video and audio without recompressing.
+
+== Experiments ===
+: NoteMacs
+: [[dired-sort-map.el]] --- in Dired: press s then s, x, t or n to sort by Size, eXtension, Time or Name
+: SimpleIMAPClient --- Dumb proof of concept in 100 lines. requires InterpreterMinor.
+: InterpreterMinor --- Provide navigation, clickability, folding, interpretation.
+: EmacsWebBrowser --- Ridiculous browser in 300 lines; no dependencies.
+: FrameControl --- Control frame size and position.
+: WThirtyTwoDev --- Develop w32 apps using vss, msdev, cdb.
+: Explorer --- Act more like MicroSCOft's explorer.exe.
+: http://patware.FreeShell.org/.code/etym.el --- Poor attempt at a PlainTextWiki.  Requires InterpreterMinor.
+
+
+== MinEmacs and GNUnix ==
+MinEmacs wants to help the OneTrueEditor become a lighter yet even more instantly extendable environment by repackaging GNU Emacs as a careful minimum of bundled functionality that also makes available every EmacsLisp package ever written through available through AutoExtend.
+
+
+== Archive ==
+Personal homepage: http://patware.FreeShell.org/agnu.htm
+
+Blog: http://ImputedProduction.BlogSpot.com
+
+
+----
+CategoryHomepage

@@ -1,9 +1,4 @@
 -about
--diary
--home
--index
--projects
--todo
 abund
 act
 agnu
@@ -11,6 +6,7 @@ agpl
 agree
 agri
 animal
+area
 artificial scarcity
 asset
 assur
@@ -21,6 +17,7 @@ basic outcome
 bene
 bill
 bot
+box
 bread
 breadlandia
 buy
@@ -49,6 +46,7 @@ copi
 copy
 cost
 creat
+cred
 cross
 cross crowd predictive production
 crowd
@@ -59,6 +57,7 @@ cur
 cust
 debt
 dev
+-diary
 diary-2013-09
 diary-2013-10
 diary-2014-01
@@ -91,6 +90,8 @@ diary-2017-08
 diary-2017-09
 diary-2017-10
 diary-2017-11
+diary-2017-12
+diary-2018-01
 dough
 drink
 drug
@@ -102,6 +103,7 @@ econ
 ecovillage
 emacs
 employ
+enough
 exch
 factor
 fan run
@@ -109,9 +111,10 @@ farm
 fish
 food
 for good
-for product
 fork
+for product
 free
+fruit
 fund
 fund-on-error
 future
@@ -133,8 +136,11 @@ group
 grow
 hack
 heal
+hnu
 hold
+-home
 ignu
+-index
 info
 input
 inst
@@ -147,8 +153,8 @@ join
 labor
 land
 land bank
-land coin
 landcoin
+land coin
 lang
 late
 law
@@ -187,6 +193,7 @@ our
 output
 own
 pack
+pact
 paid
 part
 pass
@@ -201,21 +208,25 @@ play
 point
 port
 potent
+pow
 prepay
 price
 print
 priv
 produc
 profit
+-projects
 promis
 proper
 propertyleft
 protect
 purch
+pwn
 rent
 replant
 resume
 return
+rich
 rms
 robo
 roi
@@ -231,7 +242,6 @@ serv
 shar
 shelter
 sign
-sim
 skill
 soap
 sold
@@ -256,6 +266,7 @@ text
 the conquest of bread
 thing
 time
+-todo
 token
 tool
 town
@@ -266,8 +277,8 @@ trust
 type
 us
 use
-use value
 user
+use value
 usur
 valu
 vert
