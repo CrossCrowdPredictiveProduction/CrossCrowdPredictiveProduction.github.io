@@ -1,3 +1,5 @@
+(error "this is superceded by lens.el")
+
 ;;; etym.el --- Lingua translucent. -*- emacs-lisp -*-
 
 ;; Copyright (C) 2007->oo  Personal Sovereignty Foundation, Inc.

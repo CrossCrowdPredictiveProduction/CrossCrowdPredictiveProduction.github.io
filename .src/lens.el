@@ -205,12 +205,13 @@ All terms less than this match only at the beginning of words (using `\\b')")
 	  (term
 	   '(
 		 ;;The first entry here has LOWEST priority.
+
 		 ;;must appear at BOL
 		 ;;   		 ("^.[^ \n\t]+?:" "<span class=\"type\">\\&" "</span>")
 
 		 ;;  		 ("^.*?:" "<span class=\"h4\">\\&" "</span>");anything followed by a : is a title?
 
- 		 ("^Related:" "<span class=\"rel\">\\&</span>")
+ 		 ("\\(^Related: \\)\\(.*\\)" "<span class=\"rel tiny\">\\1</span><span class=\"tiny\">\\2</span>")
 		 ("^[0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}:" "<hr/><span class=\"date\">\\&</span>")
  		 ("^>" "<span class=\"quot\">\\&" "</span>")
 
@@ -300,13 +301,14 @@ All terms less than this match only at the beginning of words (using `\\b')")
  		 ("<b>" "&lt;b><span class=\"bold\">")
  		 ("</b>" "</span>&lt;/b>")
 
-		 ;;whitespace is now preserved in preferred.css/white-space:pre-wrap
+		 ;;whitespace
 		 ("\n" "<br/>\n")
 
 ;;;;;;;; ---- ADD TERMS ABOVE THIS LINE ---- ;;;;;;;;
 ;;;;;;;; Note: Entries at the BOTTOM of this list have HIGHEST priority
 		 ))
     (setq lens-mapping (cons term lens-mapping))))
+
 
 (defun lens ()
   (interactive)
