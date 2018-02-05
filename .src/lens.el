@@ -211,7 +211,8 @@ All terms less than this match only at the beginning of words (using `\\b')")
 
 		 ;;  		 ("^.*?:" "<span class=\"h4\">\\&" "</span>");anything followed by a : is a title?
 
- 		 ("\\(^Related: \\)\\(.*\\)" "<span class=\"rel tiny\">\\1</span><span class=\"tiny\">\\2</span>")
+         ("^Related:" "<span class=\"rel\">\\&</span>")
+ 		 ;;("\\(^Related:\\)\\(.*\\)" "<span class=\"rel tiny\">\\1</span><span class=\"tiny\">\\2</span>")
 		 ("^[0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}:" "<hr/><span class=\"date\">\\&</span>")
  		 ("^>" "<span class=\"quot\">\\&" "</span>")
 

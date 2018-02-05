@@ -1,7 +1,7 @@
 Related: physics, recursion, self [ GPL, {Use, Modify, Copy, Share} ]
-meta: media, word, text, magic, spell, time
+metameta: cast, media, magic, spell, text, time, word
 
-Metaphysics is partly the study of
+Metaphysics is partly a study of:
  class vs object
  type vs instance
  concept vs copy
