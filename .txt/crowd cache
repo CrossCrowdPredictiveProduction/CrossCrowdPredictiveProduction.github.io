@@ -1,6 +1,6 @@
 Related: Crowd Control, IOTA, LandCoin
 
-Crowd Cache is a community currency backed by the Property and Promises needed to create and maintain the many Products that community needs.
+Crowd Cache is a community currency (could be paper or electronic), backed by the Property and Promises needed to create and maintain the many Products a group of people needs.
 
 The rules covering this production are described in the IOTA.
 
@@ -49,18 +49,18 @@ Crowd Cache is really just a secure public ledger recording the INPUTS and OUTPU
 A bulletin-board [paper first, code later] to determine demand and aquire commitments:
 
 --------------------------------------------------------------------------------
-|     OUTPUTS (demands)  |                  INPUTS (commitments)               |
-+------------------------+-----------------------------------------------------+
-|    Future Product      |     Required Property    |    Required Promises     |
-|  Any good or service   |  Usually external money  |  Skills to be applied    |
-| Quality*Quantity*Rate    used to buy the property | or automation to solve   |
-+------------------------+--------------------------+--------------------------+
-| 1 dozen AAA eggs/week  | land, chickens, tools    | raise, tend, gather eggs |
-| 1 gal AA Milk/week     | land, cattle, barn       | feed, tend, milk         |
-|                        |                          |                          |
-|                        |                          |                          |
-|                        |                          |                          |
-|                        |                          |                          |
+|                  INPUTS/commitments                 |     OUTPUTS/demands    |
++-----------------------------------------------------+------------------------+
+|     Required Property    |    Required Promises     |    Future Product      |
+|  Usually external money  |  Skills to be applied    |  Any good or service   |
+| used to buy the property | or automation to solve   | Quality*Quantity*Rate  |
++--------------------------+--------------------------+------------------------+
+| land, water, chicks, ... | raise, tend, gather eggs | 1 dozen AAA eggs/week  |
+| ..., cattle, tools, barn | feed, tend, milk         | 1 gal AA Milk/week     |
+|                          |                          |                        |
+|                          |                          |                        |
+|                          |                          |                        |
+|                          |                          |                        |
 --------------------------------------------------------------------------------
 
 You 'buy' a Future Product by committing work or money toward one of the many Products being offered within that community.

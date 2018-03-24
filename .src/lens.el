@@ -66,10 +66,7 @@
 ;;  === Header3
 ;;  ==== Header4
 ;;  $ shell command
-;;  : bullet
-;;  * bullet
-;;  + bullet
-;;  . bullet
+;;  : * . bullet
 ;;  > quote
 
 ;;; Anywhere
@@ -225,7 +222,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 
 		 ;;("^[ \t]*\\([0-9]\\|[A-Z]\\|[a-z]\\)+\\(\\.\\|:\\)$" "<span class=\"bullet\">\\&</span>")
 
- 		 ("^[ \t]*\\(:\\|\\*\\|\\+\\|\\.\\)" "<span class=\"bullet\">\\&</span>")
+ 		 ("^[ \t]*\\(:\\|\\*\\|\\.\\)" "<span class=\"bullet\">\\&</span>")
 		 ;;("^[ \t]*:" "<span class=\"indent\">\\&</span>")
 
  		 ("^::" "<span class=\"cmnt\">\\&" "</span>") ;;Batch-file comments
