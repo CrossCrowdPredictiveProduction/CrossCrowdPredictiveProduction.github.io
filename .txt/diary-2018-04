@@ -1,0 +1,18 @@
+2018-04-05: Owning Property For Product
+
+There is a cyclic flow of materials.
+And usually a counter-cycle of money.
+
+
+      ENTITY       |       ACTION      |       MATERIAL
+-----------------------------------------------------------
+       oven        |        bake       |       bread
+                   |                   |
+ farm        cafe  |  grow        eat  | grain       meal
+                   |                   |
+       soil        |        emit       |       shit
+
+
+But when property is used to preallocate goods,
+and promises are used to schedule future services,
+the need of a money counter-cycle is eliminated.

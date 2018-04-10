@@ -1,5 +1,4 @@
 
-
                 Patrick T Anderson  Senior Software Engineer
                 Patrick.T.Anderson@gmail.com  (801) 815-3819
 
@@ -11,10 +10,10 @@ Use pass-through design to simplify automation and reduce maintenance.
 Create tools to let users easily make and alter the software they want.
 
 
-Experience
-May/2016 - Present  Sling TV
-Triage and repair crashes in their overly-complex C++/lua video player.
-Solve probelms with resource locking and use of the in-house scheduler.
+Timeline
+May/2016 - Mar/2018  Sling TV
+Redesign and rewrite parts of their overly complex C++/lua video player.
+Triage and repair problems with threading, resource locking, scheduling.
 
 
 Dec/2013 - Nov/2015  RackWare
@@ -83,6 +82,6 @@ Used C, C++, TCP/IP, Visual Studio.
 
 Education
 Jan/1995-Dec/1998  Brigham Young University
-Independent C/C++ tutor.
-Teacher's Aid for "Discrete Structures and Combinatorial Mathematics" I and II.
 B.S. in Computer Science
+Teacher's Aid for "Discrete Structures and Combinatorial Mathematics" I and II.
+Independent C/C++ tutor.

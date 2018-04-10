@@ -1,2 +1,4 @@
-transact: buy, exchange, sell, trade
+transact: buy, communicate, exchange, sell, trade
+transform: change, modify
+transmit: broadcast, communicate
 transport: carry, pack, port
