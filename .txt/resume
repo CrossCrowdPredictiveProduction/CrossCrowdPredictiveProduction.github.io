@@ -12,8 +12,9 @@ Create tools to let users easily make and alter the software they want.
 
 Timeline
 May/2016 - Mar/2018  Sling TV
-Redesign and rewrite parts of their overly complex C++/lua video player.
+Redesign, rewrite and repair the core of their in-house C++/lua video player.
 Triage and repair problems with threading, resource locking, scheduling.
+Create and manage Jenkins jobs to automate the build and run some tests.
 
 
 Dec/2013 - Nov/2015  RackWare
@@ -28,60 +29,52 @@ Extend cross-platform, block-based imaging suite using Emacs Lisp, OO-C and C++.
 Integrate VMware VDDK libraries for VMDK and ESXi targets using C++ and REST.
 Write skeleton snapshot driver for HFS+ on Mac OS X using C and Xcode.
 Automate build system to compile, sign, package, verify and report.
-Develop simple C framework to overcome Windows installer limitations.
+Develop simple C++ framework to overcome Windows installer limitations.
 
 
-Aug/2005 - Oct/2008  Social Sufficiency Coalition
-Begin basic Linux application development with Emacs, gcc, gdb.
-Begin basic Android application development with Emacs, Java.
-Design ecology simulation to compare economic model efficiencies.
-Develop autolink website with WYSIWYG "pass through" markup using XHTML and CSS.
-Design JIT package manager for 'GNUnix' to install and execute advertised features.
-Write Intra Owner Trade Agreement as a GNU GPL for the physical realm.
-Used C, C++, XHTML, CSS, JavaScript, BASH, Emacs Lisp, gcc, gdb, Java.
+Aug/2005 - Oct/2008  Social Sufficiency Coalition  [Sole Proprietor]
+Begin basic Linux and Android development.
+Write static website generator with autolink and "pass through" markup using XHTML and CSS.
+Use this tool to enforce strict term definitions for comparison of economic models.
+Develop a new Mode of Production implemented through Intra Owner Trade Agreement (IOTA).
 
 
 Aug/2000-Aug/2005  Altiris
-Write thin library to automate resource management and simplify Win32 API.
+Write thin C++ library to automate resource management and simplify Win32 API.
 Design "pass through" interfaces to increase performance and decrease maintenance.
 Extend, debug and repair Windows device drivers used to read/write hardware settings.
-Write W32 Service to remotely control and report computer settings.
+Write W32 Service remotely control and report computer settings.
 Write simple HTTP and IMAP clients to send commands, and parse results.
 Write self-extracting installer conforming to "Add/Remove Programs" guidelines.
 Write dynamic virtual file system for incremental backup to removable media.
 Write some simple stored procedures against MSSQL.
-Used C, C++, XHTML, DDK, Visual Studio, MSSQL.
 
 
 Aug/1999-Aug/2000  NovaRad
-Integrate DICOM transport and JPEG2k compression into medical imaging client.
-Design predictive caching SCSI robotic tape archiver.
-Used C, C++, TCP/IP, Visual Studio.
+Integrate DICOM transport and JPEG2k compression into C++ medical imaging client.
+Design predictive caching SCSI robotic tape archiver and begin C implementation.
 
 
 Jul/1997-Aug/1999  NetSchools
 Develop UDP/IP packet generator and simple sniffer for IR network.
-Develop network logon provider using SSPI and Blowfish encryption.
+Develop network logon provider in C using SSPI and Blowfish encryption.
 Help develop write-protection for Windows 9x filesystem and registry.
-Extend compressing RAM paging driver and keyboard filter VxD.
-Used C, C++, TCP/IP, DDK, Visual Studio.
+Extend compressing RAM paging driver and keyboard filter VxD using MS DDK.
 
 
 Jun/1996-Jun/1997  BioVision Motion Capture
-Develop Flex/Bison regexps, BNFs and glue code to import motion capture data.
+Develop parsers and C++ glue code to import motion capture data.
 Develop other tools to simplify and automate motion data transforms.
 Use matrix mathematics and spline approximations to smooth sparse data.
-Used C, C++, Visual Studio.
 
 
 Feb/1996-Jul/1996  IBM Eduquest
-Track and fix application bugs in educational software.
+Track and fix application bugs in C++ educational software.
 Help write printer driver to translate between Postscript, PCL, PDDP.
-Used C, C++, TCP/IP, Visual Studio.
 
 
 Education
 Jan/1995-Dec/1998  Brigham Young University
-B.S. in Computer Science
-Teacher's Aid for "Discrete Structures and Combinatorial Mathematics" I and II.
-Independent C/C++ tutor.
+B.S. in Computer Science 3.6 GPA
+Teacher's Aid for "Discrete Structures and Combinatorial Mathematics" I and II
+Independent C/C++ tutor
