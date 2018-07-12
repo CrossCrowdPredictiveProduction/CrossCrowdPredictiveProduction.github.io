@@ -12,7 +12,7 @@ Create tools to let users easily make and alter the software they want.
 
 Timeline
 May/2016 - Mar/2018  Sling TV
-Redesign, rewrite and repair the core of their in-house C++/lua video player.
+Redesign, rewrite and repair the core of in-house C++/lua video player.
 Triage and repair problems with threading, resource locking, scheduling.
 Create and manage Jenkins jobs to automate the build and run some tests.
 
@@ -34,15 +34,15 @@ Develop simple C++ framework to overcome Windows installer limitations.
 
 Aug/2005 - Oct/2008  Social Sufficiency Coalition  [Sole Proprietor]
 Begin basic Linux and Android development.
-Write static website generator with autolink and "pass through" markup using XHTML and CSS.
+Write autolink "pass through" static website generator 'lens.el' with XHTML and CSS.
 Use this tool to enforce strict term definitions for comparison of economic models.
-Develop a new Mode of Production implemented through Intra Owner Trade Agreement (IOTA).
+Define new Mode of Production implemented through Intra Owner Trade Agreement (IOTA).
 
 
 Aug/2000-Aug/2005  Altiris
 Write thin C++ library to automate resource management and simplify Win32 API.
-Design "pass through" interfaces to increase performance and decrease maintenance.
-Extend, debug and repair Windows device drivers used to read/write hardware settings.
+Increase performance and decrease maintenance using "pass through" interfaces.
+Extend, debug and repair Windows device drivers to read/write hardware settings.
 Write W32 Service remotely control and report computer settings.
 Write simple HTTP and IMAP clients to send commands, and parse results.
 Write self-extracting installer conforming to "Add/Remove Programs" guidelines.

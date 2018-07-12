@@ -615,7 +615,7 @@ OpenBOR.sf.net >>OpenBOR is an open source implementation of the game engine Bea
 
 CGMadness.sf.net >>CG Madness is based on the classic game Marble Madness. It is running on OpenGL and uses current CG techniques. In the extension CG Portals you will be able to throw Portals towards walls and/or floors, so you can reach unreachable places.
 
-Number-Guess.sf.net >>This is a suite includes a game called "Number Guess" and a solver of this game. 这是“猜数字”游戏和它的解算器的一个套装。
+Number-Guess.sf.net >>This is a suite includes a game called "Number Guess" and a solver of this game.
 
 Sensobots.sf.net >>Sensobots is a linux arcade shooter released under the GNU General Public License version 2. It is written entirely in C++, allthough the coding style might be pretty bad. Any comments on bad programming behaviour are welcome! Since this is a hobby project, don't expect too much, especially from the performance or stability of online games! I am trying to improve that, of course. Maybe you find some interesting parts in the source code. I am trying to document the program the best I can, check the documentation section for details.
 
@@ -844,13 +844,11 @@ AMinorGames.com/cosmic_assault >>The Russians were the bad guys.  Don Johnson wa
 
 FIFEngine.de >>home of the Flexible Isometric Fallout(-like) Engine
 
-Simulus-Engine.sf.net
-
 HerenaForge.org
 
 FreeSynd.sf.net >>GREETINGS, OPERATIVE. WELCOME TO THE FREESYND PROJECT.    FreeSynd is a cross-platform, GPLed reimplementation of the classic Bullfrog game, Syndicate.
 
-MarathonRubicon.com >>Rubicon X is a free, cross platform, first person shooter that continues the story of BungieÇs Marathon trilogy. First released as Marathon:Rubicon in 2001, Rubicon X is a complete overhaul of the original. It features all new high-resolution artwork, new and updated maps, and enough surprises to feel like a whole new game.
+MarathonRubicon.com >>Rubicon X is a free, cross platform, first person shooter that continues the story of Bungie's Marathon trilogy. First released as Marathon:Rubicon in 2001, Rubicon X is a complete overhaul of the original. It features all new high-resolution artwork, new and updated maps, and enough surprises to feel like a whole new game.
 
 Armageddon.org >>Armageddon is a highly modified DIKU MUD, a form of multiplayer online roleplaying game (MMORG), designed to provide a roleplaying experience in the harsh desert world of Zalanthas. Armageddon is as focused on serious roleplay as any MUSH; but it combines that roleplaying focus with the hard-coded realism of a DIKU MUD. Players are required to maintain a high level of roleplay at all times.
 
