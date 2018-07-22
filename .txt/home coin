@@ -1,30 +1,32 @@
-Related: Crowd Control, IOTA, LandCoin
+Related: BreadLandia, Crowd Control, IOTA, Land Bank
 
-Crowd Cache is a community currency (could be paper or electronic), backed by the Property and Promises needed to create and maintain the many Products a group of people needs.
+This new money is backed by the land and tools used to create the goods and services we need held in a "For Product" manner.
 
-The rules covering this production are described in the IOTA.
+Each coin is issued against real property to be purchased through microfunding as in-app purchases within a simple grid-based video game.
+
+One acre has 43,560 sqare feet.  Average price for farmland in the US now is between $2k/acre to $6k/acre.
+
+So $4,356/acre would be about 10_cents/square_foot.  Considering all other costs such as water rights, fees, taxes, etc. a realistic sale price might be 99_cents/square_foot.
 
 
 ==== DEFINITIONS
-PRODUCTS: Are a *projected* return on investment, and are only as good as the Property and Promises required for that production minus disasters and other trouble.
-
-PROPERTY: All the land and tools and other non-human inputs needed to make those Products.
-
-PROMISES: Commitments from qualified humans to achieve the work needed to make those Products.
+Products: A *projected* return on investment when applying Promises to Property across Time.
+Property: All the land and tools and other non-human inputs needed to make those Products.
+Promises: Commitments from qualified humans to achieve the work needed to make those Products.
+Profit:   The amount paid by the consumer which is beyond the real costs of production.
 
 
 ==== ISSUANCE
-Crowd Cache is "backed by" or "issued against" the Property and Promises needed to create and maintain food, housing, sanitation, clothing, health care, transport, etc.
+Home Coin is "backed by" or "issued against" the Property and Promises needed to create and maintain food, housing, sanitation, clothing, health care, transport, etc.
 
 Issuance is a response to an investment, where investments are one of:
-
 A. Property - When someone commits land or tools or even just plain-old-money toward production.
 B. Promises - When someone commits to achieve future goals, they receive immediate access to property which then vests on a work-to-own basis.
-C. Profit   - When someone pays more than cost, that profit becomes the payer's investment.
+C. Profit   - When someone pays more than cost, that profit (or some minimum %) becomes the payer's investment.
 
 
 ==== PROPERTY
-To insure production continues, a Crowd Cache owner must either:
+To insure production continues, a Home Coin owner must either:
 1. Directly supply all the property and promises needed to cover their portion of the recurring costs of production as decided by the group.
 2. Indirectly supply property or promises through cross-commitments.
 3. Allow the group to trade a portion of their product for the sources that production requires.
@@ -39,6 +41,7 @@ Promises are commitments of future labor, traded for access to property on a wor
 For example, if you commit to pick more than your portion of the fruit in the orchard, you have 'paid' other orchard owners who may not want to do that work.
 
 Trading work early in time allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
+
 
 
 ==== NOTES
@@ -66,4 +69,8 @@ A bulletin-board [paper first, code later] to determine demand and aquire commit
 You 'buy' a Future Product by committing work or money toward one of the many Products being offered within that community.
 
 You become a real co-owner and eventually receive the Product as the natural reward of that ownership.
+
+
+==== Game/App
+Build maps for real-estate listings throughout the world suitable for permaculture colonization.
 
