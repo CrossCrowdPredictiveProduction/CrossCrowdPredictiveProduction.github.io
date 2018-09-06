@@ -6,9 +6,11 @@
 span.rel{background:#070; color:#fff;}
 span.date{background:#000; color:#fff;}
 
-span.quot{background:#ffe;}
-span.quot2{background:#eff;}
-span.quot3{background:#fef;}
+/* 
+ * span.quot{background:#ffe;}
+ * span.quot2{background:#eff;}
+ * span.quot3{background:#fef;}
+ */
 
 span.shell{background:#ddd;}
 span.cmnt{background:#dfd;}

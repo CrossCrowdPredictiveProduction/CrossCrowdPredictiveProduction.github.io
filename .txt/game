@@ -1,33 +1,23 @@
 Free as in Freedom computer games, simulators, tools, libraries,
 
-==News and collections
+==News and Collections
+LibreGameWiki.org >>the free gaming encyclopedia
+LudumDare.com >>Ludum Dare is a regular accelerated solo game development competition.  Entrants develop games from scratch in 48 hours, based on a theme suggested by community.
+LGDB.org >>Linux Game DataBase
+YouTube.com/user/FOSSGamers
+FreeGamer.BlogSpot.com
+FreeGameDev.net
 OSGameClones.com >>This site tries to gather open-source reimplementations of great old games in one place.
 FaceBook.com/fossgames >>Free* and Open Source Games (*free as in freedom)
 reddit.com/r/opensourcegames
-LGDB.org >>Linux Game DataBase
-GamingOnLinux.com >>
-LinuxGameAwards.org
-YouTube.com/user/FOSSGamers
-FreeGamer.BlogSpot.com
-UbuntuGames.org
 PlayDeb.net
-FreeGamer.BlogSpot.com
-FreeGameDev.net
-LudumDare.com >>Ludum Dare is a regular accelerated solo game development competition.  Entrants develop games from scratch in 48 hours, based on a theme suggested by community.
 Gaming.GWOS.org >>Ubuntu Gamers Arena is a website that is dedicated to gaming and game related subjects on Ubuntu. You'll find a huge, detailed, but easy-to-browse game list, a lot of gaming guides, game related events, and reviews.
-linuX-gamers.net >>ENJOY Linux Games
-LibreGameWiki.org >>the free gaming encyclopedia
-SourceFiles.org/Games has a big list of especially older code.
 Jeuxlibres.net >>Bienvenue sur Jeux libres, un catalogue de jeux videos libres principalement sous Linux. Ce site est aussi bien destine a des utilisateurs neophytes dans le domaine, qu'a des personnes connaissant bien Linux.
-OSGamer.org >>Open Source Gaming Portal - FREE GAMES, REVIEWS and DOWNLOADS
 Games.linux.sk lots of older stuff
 Hippo.nipax.cz >>We are group of independet programmers. Our main hobby is creating computer games. Our games are mainly released under GPL. There are some exceptions. You know - sometimes you write 'rm -rf /' and you may lose some source codes.
 Comisat-Games.sf.net >>Comisat Games Collection is an all-in-one free collection of games written in gambas for unix-like system, available in italian and in english.
 FedoraProject.org/wiki/Extras/SIGs/Games
 en.OpenSuse.org/Wishlist_Games
-UbuntuGames.org/
-wiki.Debian.org/Games/Suggested
-Packages.Debian.org/stable/games/int-fiction-installer
 icculus.org
 Pawfal.org
 SocialImpactGames.com
@@ -44,12 +34,6 @@ ftp://ftp.ibiblio.org/pub/Linux/games/arcade some old stuff
 DebianLinux.net/games.html
 K64.sf.net >>The K64 project wants to provide a collection of improved clones of old videogames from various platforms like Commodore 64
 Live.Linux-Gamers.net >>live.linuX-gamers.net is a Linux live-dvd distribution: "boot 'n play"
-SpeedHack.Allegro.cc/entrants
-Djl-Linux.org >>Djl is an open-source (GPL licensed) game manager written in Python 2.5 for the GNU/Linux Operating Systems. It is inspired by Valve's Steam software for Windows.
-Blender-Games.webs.com >>Welcome To Blender-Games! Here at blender-gameswe are posting most, if not all, completed blender games, so that you don't have to search through google and BlenderArtist!
-
-==Newly discovered
-Refound OSSLugaru.gitlab.io
 
 ==Favorites
 NJam.sf.net multi-player pacman variant
@@ -63,26 +47,46 @@ Abuse.zoy.org >>dark 2D side-scrolling platform game
 home.no.net/munsuun/Tuxpuck >>air hockey with a twist
 Smokin-Guns.org >>WITH CORDITE IN THE AIR, SPLINTERED STEEL, SHELL CASINGS AND POWDER BURNS, THERE'S ONLY ONE EXPLANATION...
 
+==Newly discovered
+sf.net/projects/chaosesqueanthology >>A modification of Xonotic which included extended weapons, maps, vehicles, buildable buildings, mounted weapons, spell casting, monsters, player characters, textures, and game mode (such as colorwar (think liquidwar))
+sf.net/projects/chaoseesquesupplemental >>Here are Free/Opensource supplemental media for or that work with Xonotic: Chaos-Esque Anthology
+sf.net/projects/chaosesqueanthologyvolume2 >>This is disc 2 of the modification of Xonotic known as Chaos-Esque Anthology. It includes additional maps, music, and other media and will be expanded upon untill another disc is needed. New maps etc will arrive on this disc as we have run out of room on disc one.
 
-==Unsorted (fresh finds at top)
+SeedOfAndromeda.com >>The Earth is no longer sufficient for humanity, which has looked to the stars for new homes to expand to. You are amongst the first wave of colonists to leave Earth, your destination: the Trinity star system. On your arrival, you are greeted by a none too friendly, advanced race, who launch a vicious attack on your colonial fleet. In the carnage, you descend in an escape capsule to the surface of Aldrin, a moon of the gas giant Hyperion. With your limited supplies, you must make what you can of this new world. What you do is your choice… it is your story that is to unfold.
+
+ya2.it/pages/yorg.html >>Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux.
+
+OSSLugaru.gitlab.io
+
 github.com/chukong/EarthWarrior3D >>This is an experimental project from Cocos2d-x, featuring 3D models in a 2d game.
+
 Shattered Time >>the Medieval past, Steampunk present, and Cyberpunk future are torn apart by a Rift in time.
+
 Zero-K.info >>free, multiplatform, open-source RTS where massive robot armies fight an endless conflict.
+
 X-Speed-Race.sf.net >>Drive the super fast cars
+
 Hexel >>A voxel based exploration game
+
 SteamPac.sf.net >>
+
 Wiki.Flightgear.org/Bombable >>Bombable turns Flightgear into a combat flight simulator
+
 BattleCity.org >>
+
 Mandarancio.github.io/OpenGOO >>A free and open clone of World Of Goo.
+
 icculus.org/gtkradiant >>The open source, cross platform level editor for id Tech games.
+
 Ya3dag.de >>Yet another 3d adventure game
+
 DDayDev.com >>Completely free to play World War II game
+
 TheDarkMod.com >>THE DARK MOD 2.0 is a free, first-person stealth game inspired by the Thief series by Looking Glass Studios. It recreates the essence of the original Thief games on a more modern engine. Both a game and a mission-creation platform, The Dark Mod allows players and mappers alike to enjoy missions in a gothic steampunk universe.
+
 Gigalomania.sf.net >>Gigalomania is an open source 2D Real Time Strategy god game, available for all popular desktop and mobile platforms, on PCs, tablets and phones. The gameplay consists of researching and developing new technology with which to conquer your enemies, from rocks and sticks to nuclear weapons and spaceships. You can advance through ten different ages, from the stone age to the future. There are 28 different maps to play through.
-AdventureGameStudio.co.uk >>Adventure Game Studio (AGS for short) allows you to create your own point-and-click adventure games, similar to the early 90's Sierra and Lucasarts adventures. It consists of an easy-to-use development environment, and run-time engine.
->Q. But the GPL will protect you... go on, can I have the source?
->>A. No it won't. In theory it does, but what happens when someone goes and breaches it? I don't have the time or energy to waste chasing up lamers who have blatantly ignored the license agreement.  Sorry.
->>> Now under the Artistic license!
+
+AdventureGameStudio.co.uk >>Adventure Game Studio (AGS for short) allows you to create your own point-and-click adventure games, similar to the early 90's Sierra and Lucasarts adventures. It consists of an easy-to-use development environment, and run-time engine. >> Now under the Artistic license!
 
 ZeroBallistics.sf.net Tanks
 

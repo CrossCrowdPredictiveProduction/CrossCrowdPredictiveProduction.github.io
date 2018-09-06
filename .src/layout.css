@@ -6,7 +6,7 @@ body {font-family:Menlo, Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", mo
 
 span.bullet{margin-left:1%;font-size:150%;}
 span.indent{margin-left:1%;}
-span.quot,span.quot2,span.quot3{font-weight:normal; font-style:italic; font-size:100%;}
+span.quot,span.quot2,span.quot3{font-weight:normal; font-style:italic;}
 span.italic{font-style:italic;}
 span.bold{font-weight:bold;}
 

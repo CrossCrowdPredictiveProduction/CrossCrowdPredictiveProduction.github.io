@@ -1,0 +1,89 @@
+Related: Crowd Control, IOTA
+
+pkg.add golang
+go get -d -v github.com/holochain/holochain-proto
+
+go get -u github.com/whyrusleeping/gx
+go get -u github.com/whyrusleeping/gx-go
+
+cd ~/go/src/github.com/holochain/holochain-proto
+make
+
+gx-go get github.com/holochain/holochain-proto
+
+hcadmin -v #this fails...
+
+hcadmin init your.email@address.com # creates ~/.holochain/
+
+
+https://developer.holochain.org/Command_Line_Tools
+
+
+
+HomeCoin is a special kind of money backed by productive physical assets held by groups in a "For Product" manner.
+
+Each HomeCoin is issued as a Title of Ownership over the land and tools required to produce some good or service.
+
+Issuance occurs *before* the property is purchased, then sold through a modified crowdfunding.
+
+Issuance is a response to an investment, where investments are one of:
+A. Property = When someone commits money or land or tools, they receive immediate access to property which vests immediately.
+B. Promises = When someone commits to achieve future goals, they receive immediate access to property which vests on a work-to-own basis.
+C. Profit   = When someone pays more than cost, that profit (or some minimum %) is invested for that payer and vests ... according to whether that Profit is being paid with Property or Promises.
+
+
+==== PROPERTY
+To insure production continues, a HomeCoin owner must either:
+1. Directly supply property or promises toward the recurring costs of production for this group.
+2. Indirectly supply property or promises toward the recurring costs of production of some other product with forward trade ties with this group.
+3. Allow this group to trade a portion of their product for the sources that production requires.
+4. Secede from the group to retain their portion of the property under their own terms.
+
+Property owners are Product owners in that same amount when they pay their portion of the costs for that round of production.
+
+
+==== PROMISES
+Promises are commitments of future labor, traded for access to property on a work-to-own basis as described in Crowd Control.
+
+For example, if you commit to pick more than your portion of the fruit in the orchard, you have 'paid' other orchard owners who may not want to do that work.
+
+Trading work early in time allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
+
+
+
+==== NOTES
+Each Product instance has a window-of-validity in time enforced by constraints on production and on the lifetime of the product.  For example, a sapling does not produce fruit immediately, and each harvest is must be used before it gets too old.
+
+HomeCoin is really just a secure public ledger recording the INPUTS and OUTPUTS of production.
+
+A bulletin-board [paper first, code later] to determine demand and aquire commitments:
+
+--------------------------------------------------------------------------------
+|                  INPUTS/commitments                 |     OUTPUTS/demands    |
++-----------------------------------------------------+------------------------+
+|     Required Property    |    Required Promises     |    Future Product      |
+|  Usually external money  |  Skills to be applied    |  Any good or service   |
+| used to buy the property | or automation to solve   | Quality*Quantity*Rate  |
++--------------------------+--------------------------+------------------------+
+| land, water, chicks, ... | raise, tend, gather eggs | 1 dozen AAA eggs/week  |
+| ..., cattle, tools, barn | feed, tend, milk         | 1 gal AA Milk/week     |
+|                          |                          |                        |
+|                          |                          |                        |
+|                          |                          |                        |
+|                          |                          |                        |
+--------------------------------------------------------------------------------
+
+You 'buy' a future Product by committing work or money toward producing some other Product under these terms.
+
+You become a real co-owner and eventually receive the Product as the natural reward of that ownership.
+
+
+==== DEFINITIONS
+Property: All the land and tools and other non-human inputs needed to make a Product.
+Promise : A commitment from a skilled human to achieve goals toward making a Product.
+Product:  A *projected* quantity and quality of some good or service across time.
+Profit:   Any amount paid by a consumer beyond the real costs of production.
+
+
+==== Game/App
+Build maps for real-estate listings throughout the world suitable for permaculture colonization.

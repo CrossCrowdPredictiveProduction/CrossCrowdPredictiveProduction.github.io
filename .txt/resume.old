@@ -1,0 +1,84 @@
+
+                Patrick T Anderson  Senior Software Engineer
+                Patrick.T.Anderson@gmail.com  (801) 815-3819
+
+
+Objectives
+Use symmetry and implicit patterns to enforce clear resource contracts.
+Minimize code size and complexity. Eliminate redundance. Orthoganalize.
+Use pass-through design to simplify automation and reduce maintenance.
+Create tools to let users easily make and alter the software they want.
+
+
+Timeline
+Apr/2018 - Present  Product Futures Foundation
+Design For Product business model to impute shared asset value capture.
+
+
+May/2016 - Mar/2018  Sling TV
+Redesign, rewrite and repair the core of in-house C++/lua video player.
+Triage and repair problems with threading, resource locking, scheduling.
+Create and manage Jenkins jobs to automate the build and run some tests.
+
+
+Dec/2013 - Nov/2015  RackWare
+Extend, solidify and simplify file-based imaging suite using C++, Batch, Bash.
+Script the build, package, verify, install, test and report using git, Jenkins.
+Automate VM lifecycle management on vSphere, KVM, XEN through virsh and others.
+
+
+Oct/2008 - Oct/2013  StorageCraft
+Write caching VHD and VHDX plugins in Object-Oriented-C on Windows, Linux, OS X.
+Extend cross-platform, block-based imaging suite using Emacs Lisp, OO-C and C++.
+Integrate VMware VDDK libraries for VMDK and ESXi targets using C++ and REST.
+Write skeleton snapshot driver for HFS+ on Mac OS X using C and Xcode.
+Automate build system to compile, sign, package, verify and report.
+Develop simple C++ framework to overcome Windows installer limitations.
+
+
+Aug/2005 - Oct/2008  Social Sufficiency Coalition  [Sole Proprietor]
+Begin basic Linux and Android development.
+Write autolink "pass through" static website generator 'lens.el' with XHTML and CSS.
+Use this tool to enforce strict term definitions for comparison of economic models.
+Define new Mode of Production implemented through Intra Owner Trade Agreement (IOTA).
+
+
+Aug/2000-Aug/2005  Altiris
+Write thin C++ library to automate resource management and simplify Win32 API.
+Increase performance and decrease maintenance using "pass through" interfaces.
+Extend, debug and repair Windows device drivers to read/write hardware settings.
+Write W32 Service remotely control and report computer settings.
+Write simple HTTP and IMAP clients to send commands, and parse results.
+Write self-extracting installer conforming to "Add/Remove Programs" guidelines.
+Write dynamic virtual file system for incremental backup to removable media.
+Write some simple stored procedures against MSSQL.
+
+
+Aug/1999-Aug/2000  NovaRad
+Integrate DICOM transport and JPEG2k compression into C++ medical imaging client.
+Design predictive caching SCSI robotic tape archiver and begin C implementation.
+
+
+Jul/1997-Aug/1999  NetSchools
+Develop UDP/IP packet generator and simple sniffer for IR network.
+Develop network logon provider in C using SSPI and Blowfish encryption.
+Help develop write-protection for Windows 9x filesystem and registry.
+Extend compressing RAM paging driver and keyboard filter VxD using MS DDK.
+
+
+Jun/1996-Jun/1997  BioVision Motion Capture
+Develop parsers and C++ glue code to import motion capture data.
+Develop other tools to simplify and automate motion data transforms.
+Use matrix mathematics and spline approximations to smooth sparse data.
+
+
+Feb/1996-Jul/1996  IBM Eduquest
+Track and fix application bugs in C++ educational software.
+Help write printer driver to translate between Postscript, PCL, PDDP.
+
+
+Education
+Jan/1995-Dec/1998  Brigham Young University
+B.S. in Computer Science 3.6 GPA
+Teacher's Aid for "Discrete Structures and Combinatorial Mathematics" I and II
+Independent C/C++ tutor

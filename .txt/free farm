@@ -1,22 +1,33 @@
-Free Farm is a pilot project to implement the For Product business model.
+Free Farm is a pilot implementation of the For Product business model organized as a Vertically Integrated Permaculture Mosaic.
 
-. The problem we Face
-. A proposed solution
+Simple request system allows customers to easily describe products they want.
 
-. The Original Purpose of Government
-. The Original Purpose of Production
-. The Conflict Between Owners and Consumers
-. Every Worker is a Consumer
+They place orders for goods and services, but as crowdfund campaigns.
+
+When enough funds are committed, we buy the land and tools to make those goods and services.
+
+Workers gain property ownership as they complete work promises; vesting on a work-to-own basis.
+
 
 . The Return to Capital
 . The Return to Workers
 . The Hapless Consumer
 . The Origin of Profit
+. Every Worker is a Consumer
+
 . Solving Wealth Concentration at the Point-Of-Sale (POS)
 . Reflecting Profit as the Payer's Property
 . When Consumers Own For Product, Profit Goes Missing
 . Profit measures Property Misallocation
 . Using the Market when Selling Surplus
+
+
+
+. The Original Purpose of Government
+. The Original Purpose of Production
+. The Conflict Between Owners and Consumers
+
+
 
 . Product is the Only Real Value
 . Workers Must Gain Property For Product
@@ -39,23 +50,3 @@ Free Farm is a pilot project to implement the For Product business model.
 . Why Consumers Must Own the Means of Production
 
 
-Simple request system allows customers to easily describe products they want.
-
-They place orders for goods and services, but as crowdfund campaigns.
-
-When enough funds are committed, we buy the land and tools to make those goods and services.
-
-Workers gain property ownership as they complete work promises.
-vesting on a work-to-own basis
-
-Imagine tiles [or even cubes] that fit snugly on each cell of the grid.
-
-Each side of a tile or cube represents a different 'phase' of production.
-
-For example, to simulate the production of bread, a portion of the grid must be used to farm the wheat. The six sides of a "wheat cube" might be: plow, sow, water, grow, reap, burn.
-
-Another portion of the grid must hold a mill to grind flour, ovens to bake loaves and somewhere to store the finished product.
-
-Each 'productive' cell must have a tile or cube which must be 'turned' by a player or a robot for production to advance to the next phase.
-
-Time and work cause production to move from one phase to the next.

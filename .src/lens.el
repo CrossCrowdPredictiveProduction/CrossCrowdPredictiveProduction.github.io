@@ -20,8 +20,18 @@
 ;;  Affero General Public License along with this
 ;;  program.  If not, see http://GNU.org/licenses
 
+
 ;;; Features
-;; autolink plain-text documents
+;; Link plain-text documents without markup;
+;; preserve whitespace; guess formatting
+
+;;  Header: =, ==, ===, ====
+;;  Shell: $, #
+;;  Bullet: :, *, .
+;;  Quote: >, >>, "''"
+;;  Comment: //, #, ;;, /**/
+;;  Paren: (), {}, []
+;;  Path: ~/, ./LocalFile, ../LocalFile, GNU.org
 
 ;;; Installation
 
@@ -41,8 +51,11 @@
 ;; Open ~/doc/.txt/profit to define that term.
 ;; While editing that file in Emacs:  M-x lens
 ;; The output file will be ~/doc/profit.htm
+;; All lowercase in filename to always match.
 
 ;; Open ~/doc/.txt/property and mention profit.
+
+;; 
 
 ;;; Keymap:
 ;; C-c C-p opens ~/doc/property.htm in a browser
@@ -55,37 +68,6 @@
 
 ;; A bug stops terms from being lit in Emacs
 ;; but  F5 `lens-mode-rebuild-mode'  to fix.
-
-;;;; Features
-;;; Formatting
-;; All whitespace preserved
-
-;;; At beginning of line (BOL)
-;;  = Header1
-;;  == Header2
-;;  === Header3
-;;  ==== Header4
-;;  $ shell command
-;;  : * . bullet
-;;  > quote
-
-;;; Anywhere
-;;  >> quote2
-;;  >>> quote3
-;;  "'quote'"
-;;  /* comment */
-;;  ;; comment
-;;  (parenthetic)
-;;  {parenthetic}
-;;  [parenthetic]
-;;  \\UNC-Server\Shared_Folder
-;;  "\\UNC-Server\Shared Folder"
-;;  ~/LocalFile
-;;  ./LocalFile
-;;  ../LocalFile
-
-;; Implicit URLs: `lens-implicit-HTTP'
-;; Explicit URLs: [file|https?|ftp]://
 
 ;;; Version:
 ;; .01 new
@@ -231,7 +213,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
  		 ("(\\|{\\|\\[" "<small>\\&")
  		 (")\\|\\}\\|]" "\\&</small>")
 
- 		 ("\"'" "<span class=\"quot\">\\&")
+ 		 ("\"'" "<span class=\"quot2\">\\&")
  		 ("'\"" "\\&</span>")
 
 		 ;;This is not correct.  We should emit to align at column mod(4)
