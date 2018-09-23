@@ -1,6 +1,9 @@
-Related: IM, IRC, mail, mud, P2P, phone, talk
+Related: agree, communicate, IM, IRC, mail, mud, organize, P2P, phone, talk, vote
 
-To survive we must connect
+Signal.org >>Fast, simple, secure. Privacy that fits in your pocket.
+
+github.com/ethereum/go-ethereum/wiki/How-to-Whisper
+HackMD.io/FcSt28PHTq6xw24BpRiduw?both >>Whisper and PSS are two messaging procotols currently being developed in the Ethereum stack - here’s a side-by-side comparison that can help guide your choice between them.
 
 rocket.chat >>THE ULTIMATE OPEN SOURCE WEB CHAT PLATFORM  From group messages and video calls all the way to helpdesk killer features. Our goal is to become the number one cross-platform open source chat solution.
 
@@ -18,9 +21,9 @@ Moose-Team.github.io/friends >>P2P chat powered by the web
 
 NCH.sf.net >>NetChat is a combination of NetCat and ppp's "chat", put on steroids for high performance. It is meant as a network exercise tool. Using simple "say this, expect this reply" scripts, NetChat can be made to easilly speak most text-based protocols (such as SMTP, HTTP, POP3 etc.), and many binary protocols, very easilly.
 
-http://MediaWiki.org/wiki/Extension:WebIRC >>The WebIRC extension adds a special page used to chat in real time with other wiki users using a web-based IRC client. Once installed, it will be available via Special:WebIRC
+MediaWiki.org/wiki/Extension:WebIRC >>The WebIRC extension adds a special page used to chat in real time with other wiki users using a web-based IRC client. Once installed, it will be available via Special:WebIRC
 
-qwebirc.org >>qwebirc is a fast, easy to use, free and open source IRC client designed by and originally just for the QuakeNet IRC network.
+qWebIRC.org >>qwebirc is a fast, easy to use, free and open source IRC client designed by and originally just for the QuakeNet IRC network.
 
 WeeChat.org >>WeeChat is a fast, light and extensible chat client. It runs on many platforms (including Linux, BSD and Mac OS).
 

@@ -1,89 +1,80 @@
-Related: Crowd Control, IOTA
+Related: FinTech, Free Farm, HoloChain
 
-pkg.add golang
-go get -d -v github.com/holochain/holochain-proto
+LandBank is a secure public record of property and promises held For Product.
 
-go get -u github.com/whyrusleeping/gx
-go get -u github.com/whyrusleeping/gx-go
+This cryptocurrency alternative is a set of production chain optimizations.
 
-cd ~/go/src/github.com/holochain/holochain-proto
-make
+Smart Contracts and a web UI help users buy, own, rent, work, vote, insure.
 
-gx-go get github.com/holochain/holochain-proto
+Groups crowdfund the property and promises required to produce all they need.
 
-hcadmin -v #this fails...
+Users prepay with money or work and become real co-owners of land and tools.
 
-hcadmin init your.email@address.com # creates ~/.holochain/
+This "pre-allocates" goods and services to those who predict they need them.
 
+Surplus product is sold for profit which is treated as the user's investment.
 
-https://developer.holochain.org/Command_Line_Tools
+Profit proves scarcity so triggers the purchase of more sources of that kind.
 
 
-
-HomeCoin is a special kind of money backed by productive physical assets held by groups in a "For Product" manner.
-
-Each HomeCoin is issued as a Title of Ownership over the land and tools required to produce some good or service.
-
-Issuance occurs *before* the property is purchased, then sold through a modified crowdfunding.
-
-Issuance is a response to an investment, where investments are one of:
-A. Property = When someone commits money or land or tools, they receive immediate access to property which vests immediately.
-B. Promises = When someone commits to achieve future goals, they receive immediate access to property which vests on a work-to-own basis.
-C. Profit   = When someone pays more than cost, that profit (or some minimum %) is invested for that payer and vests ... according to whether that Profit is being paid with Property or Promises.
-
-
-==== PROPERTY
-To insure production continues, a HomeCoin owner must either:
-1. Directly supply property or promises toward the recurring costs of production for this group.
-2. Indirectly supply property or promises toward the recurring costs of production of some other product with forward trade ties with this group.
-3. Allow this group to trade a portion of their product for the sources that production requires.
-4. Secede from the group to retain their portion of the property under their own terms.
-
-Property owners are Product owners in that same amount when they pay their portion of the costs for that round of production.
-
-
-==== PROMISES
-Promises are commitments of future labor, traded for access to property on a work-to-own basis as described in Crowd Control.
-
-For example, if you commit to pick more than your portion of the fruit in the orchard, you have 'paid' other orchard owners who may not want to do that work.
-
-Trading work early in time allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
-
-
-
-==== NOTES
-Each Product instance has a window-of-validity in time enforced by constraints on production and on the lifetime of the product.  For example, a sapling does not produce fruit immediately, and each harvest is must be used before it gets too old.
-
-HomeCoin is really just a secure public ledger recording the INPUTS and OUTPUTS of production.
-
-A bulletin-board [paper first, code later] to determine demand and aquire commitments:
-
---------------------------------------------------------------------------------
-|                  INPUTS/commitments                 |     OUTPUTS/demands    |
-+-----------------------------------------------------+------------------------+
-|     Required Property    |    Required Promises     |    Future Product      |
-|  Usually external money  |  Skills to be applied    |  Any good or service   |
-| used to buy the property | or automation to solve   | Quality*Quantity*Rate  |
-+--------------------------+--------------------------+------------------------+
-| land, water, chicks, ... | raise, tend, gather eggs | 1 dozen AAA eggs/week  |
-| ..., cattle, tools, barn | feed, tend, milk         | 1 gal AA Milk/week     |
-|                          |                          |                        |
-|                          |                          |                        |
-|                          |                          |                        |
-|                          |                          |                        |
---------------------------------------------------------------------------------
-
-You 'buy' a future Product by committing work or money toward producing some other Product under these terms.
-
-You become a real co-owner and eventually receive the Product as the natural reward of that ownership.
-
-
-==== DEFINITIONS
+==== Definitions
 Property: All the land and tools and other non-human inputs needed to make a Product.
 Promise : A commitment from a skilled human to achieve goals toward making a Product.
 Product:  A *projected* quantity and quality of some good or service across time.
 Profit:   Any amount paid by a consumer beyond the real costs of production.
+Costs: Property and Promises actually consumed and all the externalities inflicted by this production, including various costs of exclusion.
 
 
-==== Game/App
-Build maps for real-estate listings throughout the world suitable for permaculture colonization.
+===Transactional Timeline
+User opens LandBank.app
+
+Menu shows:
+. Create new Product entry.
+. Activate new Product entry to issue unvested LandBank shares for Property and Promises.
+. Buy unvested LandBank shares with Property [or any valid 'external' money to buy Property].
+. Buy unvested LandBank shares with Promises [may commit after being verified in that skill].
+. Change Product entries just as you would edit a wiki page. Each change creates a fork which is locally enforced and globally offered to those who might be interested in other variations. If the parent entry pulls those changes into it's repo, the fork is dissolved and the sugroup reunited.
+
+By default the system shows real estate listings that are more local and meet the scale and environmental limits of each group.  This is an iterative process as the group grows and concensus changes.
+
+Each Property owners are Product owners in that same amount if they supply their portion of the costs for that round of production.
+
+
+==== PROMISES
+Promises are commitments of future labor which are traded for Property or for other Promises.
+
+For example, if you commit to pick more than your portion of the fruit in the orchard, you have 'paid' other orchard owners who may not want to do that work.  You may
+
+Trading work early in time allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
+
+
+==== NOTES
+Each Product instance has a window-of-validity in time enforced by constraints on production and on the lifetime of the product.  For example, a young tree does not produce fruit immediately, harvest must usually happen within a short window of time, and must be used or preserved before it gets too old.
+
+A bulletin-board [paper or code] lists requests and commitments.
+
+====Flow
+User requests some Product at a projected rate, such as >>1 Dozen Large Grade AA Eggs per week.
+
+Other users can also invest in that production by committing to supply Property or Promises.
+
+Trading Promises with other LandBank groups allows specialization without monetization.
+
+Land acquisition can begin once the group agrees on the scope and scale of the operation.
+
+Each investor becomes a real co-owner and receives the Product itself as the natural ROI.
+
+
+==== LandBank retention requires each co-owner either:
+. Supply Property or Promises toward the recurring costs of production for this group.
+. Supply Property or Promises toward the recurring costs of production through another group which has a trade agreement with this group.
+. Sell (or allow to be sold) enough of your Product to cover the costs of production.
+. Secede from the group and retain your portion of the property under your own terms (within the limits of realistic divisibility).
+
+== Implementations
+~/work/LandBank.sol Solidity version based on ERC 1155
+~/work/LandBank.vy Vyper
+
+
+
+

@@ -427,7 +427,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 					" <a href=\"-home.htm\">Home</a> |"
 					;; " <a href=\"-faq.htm\">FAQ</a> |"
 					" <a href=\"-diary.htm\">Diary</a> |"
-					" <a href=\"-projects.htm\">Projects</a> |"
+					;; " <a href=\"-projects.htm\">Projects</a> |"
 					" <a href=\"-todo.htm\">Todo</a> |"
 					" <a href=\"-index.htm\">Index</a> |"
 					" <a href=\"-about.htm\">About</a> |"

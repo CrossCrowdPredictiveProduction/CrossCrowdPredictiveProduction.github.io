@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <title>holo</title>
+  <link href=".src/preferred.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<p class='header'>
+ <a href="-home.htm">Home</a> | <a href="-diary.htm">Diary</a> | <a href="-todo.htm">Todo</a> | <a href="-index.htm">Index</a> | <a href="-about.htm">About</a> |</p>
+<p class='main'><span class="rel">Related:</span> <a href="landbank.htm">LandBank</a><br/>
+<br/>
+<a class="ext" href="http://HoloChain.org">HoloChain.org</a><br/>
+<br/>
+<a class="ext" href="http://pkg.add">pkg.add</a> go<a href="lang.htm">lang</a><br/>
+<br/>
+echo "set GOPATH=$<a href="home.htm">HOME</a>/go"<br/>
+echo "set PATH+=$GOPATH/bin"<br/>
+<br/>
+go get -d -v <a class="ext" href="http://github.com/holochain/holochain-proto">github.com/holochain/holochain-proto</a><br/>
+<br/>
+go get -u <a class="ext" href="http://github.com/whyrusleeping/gx">github.com/whyrusleeping/gx</a><br/>
+go get -u <a class="ext" href="http://github.com/whyrusleeping/gx-go">github.com/whyrusleeping/gx-go</a><br/>
+<br/>
+cd ~/go/src/<a class="ext" href="http://github.com/holochain/holochain-proto">github.com/holochain/holochain-proto</a><br/>
+<a href="make.htm">make</a><br/>
+<br/>
+gx-go get <a class="ext" href="http://github.com/holochain/holochain-proto">github.com/holochain/holochain-proto</a><br/>
+<br/>
+hcadmin -v # 0.0.5 <small>(<a href="holo.htm">holo</a><a href="chain.htm">chain</a> 26)</small> <a href="give.htm">give</a>s error "flag provided but not defined: -v" <br/>
+<br/>
+hcadmin init <a class="ext" href="http://your.email@address.com">your.email@address.com</a> # <a href="creat.htm">creat</a>es ~/.<a href="holo.htm">holo</a><a href="chain.htm">chain</a>/<br/>
+<br/>
+<a class="ext" href="https://developer.holochain.org/Command_Line_Tools">https://developer.holochain.org/Command_Line_Tools</a><br/>
+</p>
+<p class='footer'>
+ Page generated from <a href=".txt/holo">holo</a> by <a href=".src/lens.el">lens.el</a>.</p>
+</body>
+</html>

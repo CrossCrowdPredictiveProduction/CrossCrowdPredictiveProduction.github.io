@@ -1,0 +1,24 @@
+Related: LandBank
+
+HoloChain.org
+
+pkg.add golang
+
+echo "set GOPATH=$HOME/go"
+echo "set PATH+=$GOPATH/bin"
+
+go get -d -v github.com/holochain/holochain-proto
+
+go get -u github.com/whyrusleeping/gx
+go get -u github.com/whyrusleeping/gx-go
+
+cd ~/go/src/github.com/holochain/holochain-proto
+make
+
+gx-go get github.com/holochain/holochain-proto
+
+hcadmin -v # 0.0.5 (holochain 26) gives error "flag provided but not defined: -v" 
+
+hcadmin init your.email@address.com # creates ~/.holochain/
+
+https://developer.holochain.org/Command_Line_Tools
