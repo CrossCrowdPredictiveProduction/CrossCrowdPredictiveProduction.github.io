@@ -1,27 +1,14 @@
-git.gnu.io/Free-Farm
+Free Farm uses LandBank Titles to secure Property and Promises without debt.
 
-Free Farm is a pilot project using the LandBank property system and For Product business model.
+Users place orders for future goods and services through a crowdfunding interface.
 
-Free Farm requires Property and Promises without debt.
+Some users must supply plain-old-money to buy the land and tools, while others commit to achieve the work required for that production.
 
-Users describe the Products they want using the LandBack.app request system.
+Once enough money and work is committed, we buy the land and tools to begin production.
 
-They place orders for goods and services, but as crowdfund campaigns.
+Production must be diverse enough to supply food, shelter, sanitation, health-care, transportation, communication, etc. for on-site owners.
 
-When enough funds are committed, we buy the land and tools to make those goods and services.
-
-Workers gain property ownership as they complete work promises; vesting on a work-to-own basis.
-
-
-Related: Basic Outcome, IOTA, Crowd Cache
-
-A Vertically Integrated Permaculture Mosaic (VIPM) is a loosely coupled collection of sources required to produce and maintain all the goods and services we need, bound by the constraints of the IOTA.
-
-Intra-dependent businesses, each co-owned by the future consumers of that specific product.
-
-Each VIPM must be diverse enough to supply a basic outcome of food, shelter, sanitation, health-care, transportation, communication, etc. for all on-site owners.
-
-Each investor attempts to own approximately the amount of sources (chickens, dental tools, cattle, bees) required to produce the amount of products (eggs, healthy teeth, milk, honey) they predict they will need in the future.
+Each user attempts to own approximately the amount of sources (chickens, dental tools, cattle, bees) required to produce the amount of products (eggs, healthy teeth, milk, honey) they predict they will need in the future.
 
 Unlike a cooperative, the owners do not buy the product from a central authority, but instead just claim the portion they already own.
 
@@ -39,11 +26,11 @@ For example, we might buy feed for the cattle and chickens at first, but must pl
 
 That is an obvious and easy example, but we will incrementally target the more difficult products such as raising the plants or animals to retrieve fibers we will spin into thread, weave into cloth, cut and sew into our clothing.  We will buy wells and refineries to process crude oil into gasoline.  We will buy mines and forges to build heavy machinery.
 
-As more VIPMs become operational, our goals can expand to much larger targets, for example, building spinnerets, looms, sewing machines and some of the tools to capture the power they need.
+As more Free Farms become operational, our goals can expand to much larger targets, for example, building spinnerets, looms, sewing machines and some of the tools to capture the power they need.
 
-Much later, when there are hundreds or thousands of VIPMs, all that we need will be possible simply by dedicating property and promises to that production.
+Much later, when there are hundreds or thousands of Free Farms, all that we need will be possible simply by dedicating property and promises to that production.
 
-The size and complexity of a VIPM is bound both by the desired quality-of-life and by the completeness of vertical integration.
+The size and complexity of a Free Farm is bound both by the desired quality-of-life and by the completeness of vertical integration.
 
 The initial boot-up phase may require workers live in tents and eat cafeteria-style meals that they prepare from bulk purchases until they have built the first of the permanent structures and before the agriculture is fully operational.
 
@@ -53,19 +40,19 @@ Eventually we will grow all of the inputs for food, soap, cloth, medicine, and b
 ==Bootup
 Estimate the quantity and quality food, housing, sanitation, clothing, basic health-care, child care, transportation, etc. needed to support on-site workers.
 
-Estimate the sources and promises needed for that production and issue Crowd Cache toward those goals.
+Estimate the sources and promises needed for that production and issue LandBank Titles toward those goals.
 
-Sell those Crowd Cache for commitments of sources and promises.
+Sell those LandBank Titles for commitments of work or money.  We call work commitments Promises, and use the money only to buy Property.
 
-Part of the property must be the physical sources such as land, water, tools, organisms, lumber, wire, pipe, etc. needed to create and operate the VIPM.
+Part of the Property must be the physical sources such as land, water, tools, organisms, lumber, wire, pipe, etc. needed to create and operate the Free Farm.
 
 The rest must be 'bootup' goods such as tents, bulk-food, used clothing, first-aid kits, etc. needed to support workers until the agriculture is productive and before the permanent shelters are complete.
 
-We may also need to sell some Crowd Cache for money to secure commitments of external services that are not yet available on-site such as dental work, extended health care, long-distance travel, etc. until we scale large enough to provide those services on-site.
+We may also need to sell some LandBank Title for money to secure commitments of external services that are not yet available on-site such as advanced dental work, extended health care, long-distance travel, etc. until we scale large enough to provide those services on-site.
 
-Potential workers will look at the list of work needed and signup to fulfill the 'promises' portion of some Crowd Cache for which they have skills.  If a group of owners accept those commitments, the worker is 'paid' by that group cross-committing Crowd Cache capable of generating some of what he needs and, if during bootup phase, by also providing a portion of the consumable goods and external services needed until we are fully bootstrapped.
+Potential workers will look at the list of work needed and signup to fulfill the 'Promises' portion of some LandBank Title for which they have skills.  If a group of owners accept those commitments, the worker is the 'Paid' by that group cross-committing LandBank Titles capable of generating some of what he needs and, if during bootup phase, by also providing a portion of the consumable goods and external services needed until we are fully bootstrapped.
 
-Once we have purchased the property and secured the promises, we can begin installing the agriculture and building the first of the shared structures.
+Once we have purchased the Property and secured the Promises, we can begin installing the agriculture and building the first of the shared structures.
 
 
 ==Outline
@@ -73,9 +60,9 @@ Potential users pre-pay to purchase land, water-rights, tools, plants, animals, 
 
 Some pre-pay with money used to buy property while others pre-pay with promises as commitments to complete the needed work.
 
-After some amount of time, or some series of events [these conditions are currently unknown] the Crowd Cache vest more fully to the payer, allowing him to sell the sources.
+After some amount of time, or some series of events [these conditions are currently unknown] the LandBank Titles should vest more fully to the payer, allowing him to sell the sources.
 
-At some point, and under certain constraints, and mostly to resolve disputes, subgroups must finally be allowed to fork from the rest while retaining Source ownership.
+At some point, and under certain constraints, and mostly to resolve disputes, subgroups must finally be allowed to secede (fork/split) from the group while retaining Property ownership.
 
 
 ==Commentary
@@ -85,9 +72,9 @@ Let's make new corporations owned by the users of those products.
 
 We will organize groups to co-buy the property needed for production.
 
-We will organize workers to promise to work in the future in exchange for ownership in the VIPM.
+We will organize workers to promise to work in the future in exchange for ownership in the Free Farm.
 
-Each investor (whether of property or of promises) becomes a real co-owner in the VIPM and receives the product itself as a natural return for those investments.  Each co-owner of the sources is co-owner of the products in that same amount.
+Each investor (whether of property or of promises) becomes a real co-owner in the Free Farm and receives the product itself as a natural return for those investments.  Each co-owner of the sources is co-owner of the products in that same amount.
 
 For example, if you own .15% of a dairy, then you own .15% of the milk.
 
@@ -148,7 +135,7 @@ Attract Workers to build and operate the infrastructure by providing a "Basic Ou
 Occupy that land with tents to begin planting and building.
 Will want to qualify as non-profit to avoid Property taxes.
 
-Each Investor (whether committing money or work) becomes a co-owner of some Property within the VIPM.
+Each Investor (whether committing money or work) becomes a co-owner of some Property within the Free Farm.
 
 Each worker receives the 'level' of Basic Outcome according to the quantity and quality of work they commit to achieve in the future.
 
@@ -164,77 +151,56 @@ We do not sell the Products (except Surplus) because all of that output is in th
 
 
 ==Overview
-Investors become co-Owners in the VIPM according to the value they commit as measured by the others in that subgroup.
+Investors become co-owners in the Free Farm according to the value they commit as measured by the others in that group.
 
-Each co-owner of sources is the co-owner of products even before production is complete.  You might say they each own their portion of all *potential* products.  They do not buy the products from the VIPM, but must only claim that which is already their property.
+Each co-owner of Property is the co-owner of Products even before production is complete.  You might say they each own their portion of all *potential* Products.  They do not buy the Products from Free Farm, but instead just claim that which is already theirs.
 
-For example, if you like milk and honey, then you will need co-ownership in cattle and bees and all other sourcess, (land, shelter, food, medicine), and the things needed to create those things (plants, animals, tools), recursively through the entire tree of production.
+For example, if you like milk and honey, then you will need co-ownership in cattle and bees and all other Property, (land, shelter, food, medicine), and the things needed to create those things (plants, animals, tools), recursively through the entire tree of production.
 
 
 ==Timeline
-The vision of future product is proposed.
+The vision of a future product is proposed.
+Constraints are enforced.
+A 3D construction playground
 We must estimate the scale and level of vertical integration needed for that, balancing more immediate needs with longer term goals.
 Then we write a 'recipe' for that production which includes
  A list of Property needed
  A list of Promises needed
-We issue Crowd Cache against those Property and Promises.
-We sell the Crowd Cache to purchase the Property.
+We issue LandBank Titles against those Property and Promises.
+We sell the LandBank Titles to purchase the Property.
 Some will pay with commitments of Property, usually by commitments plain-old-money.
 Some will pay with commitments of Promises by committing to work in the future.
-Once we have all the needed Property and Promises, we can begin production.
-After the first round of production, Products are distributed to each investor based on their % of ownership.
-Owners with surplus Product have the option to sell to non-owners to cover the costs of that production.
-Profit will be collected from the non-owners (as much as the market will bear), and is treated as they payer's investment toward more Property.
 
+Once we have all the needed Property and Promises, we can begin production.
+
+After the first round of production, Products are distributed to each investor based on their % of ownership.
+
+Owners with surplus Product may sell to non-owners to cover costs of production.
+
+Profit may be collected from the non-owners (as much as the market will bear), but some of that profit must be treated as that payer's investment toward buying more Property.
 
 When workers commit Promises, they receive ownership in the Property of that which they needs the Products, not necessarily in that which they know how to operate or maintain.
 
 So, if you want "Dental Assurance", you need co-ownership in the land and capital needed to perform dentistry, and then you 'hire' any Dentist to fix your teeth by cross-committing Promises to work on behalf of that dentist in return for his Promise to fix your teeth when needed.
 
-
-
-
 Promising to work *before* production begins allows us to trade Labor between ourselves and never need to trade oranges with apples, since the co-owners of the Property own their % of the Product *already*, even before they are produced.  This is "Predictive Barter" - where we Property and Promises are preallocated to those who need the Products.
 
-
-A functional VIPM will require a minimum "Horizontal Diversity" to allow us to 'pay' each other without needing to pass tokens.  For example, we buy/build a dentist office and the tools for simple dental procedures.  We must attract or train someone that can operate those tools, and who is willing to commit to do that work for the 'pay' of gaining co-ownership in the property for his housing, food, clothing, transportation, sanitation, etc. combined with commitments of others to operate that property for his benefit in return for his fixing their teeth.  Notice this fully replaces traditional insurance.
+A functional Free Farm will require a minimum "Horizontal Diversity" to allow us to 'pay' each other without needing to pass tokens.  For example, we buy/build a dentist office and the tools for simple dental procedures.  We must attract or train someone that can operate those tools, and who is willing to commit to do that work for the 'pay' of gaining co-ownership in the property for his housing, food, clothing, transportation, sanitation, etc. combined with commitments of others to operate that property for his benefit in return for his fixing their teeth.  Notice this fully replaces traditional insurance.
 
 We will also want to work toward "Vertical Integration" to move away from the need to gather and spend external tokens. For example, we will buy grains and alfalfa at first to feed our chickens and cattle, but will also grow those plants to avoid the need to buy in the future.  Vertical Integration is a very long-term goal, and we won't co-own mines or factories right away, but will just buy off-the-shelf tools at first, while we are 'booting'.
 
+Part of the initial costs for purchasing the property might be collected from middle-income consumers who are willing to pre-pay for organic goods and services.
 
-Part of the initial costs for purchasing the property might be collected from middle-income consumers who are willing to pre-pay for organic goods.
+Each person can invest as much or as little as they like in any one Product.
 
-Each person would invest just enough (either Money, Land or Capital) to cover the predicted costs of production for the amount of Product they each intend to use.
+If you don't like Avocados, you surely shouldn't own any titles in that orchard.
 
-Each of these investors would still need to pay their % of the costs as usual, but since they would accept the Product itself as the return for that risk, there would be sale, and so Profit would not exist at all.
+Each co-owner must pay their part of the costs, but accept the Product itself as the return for that risk, so no sale, and no Profit.
 
-Labor will come from skilled artisans initially willing to work in return for food, shelter, basic medical care, etc. with a future payout of real co-ownership in the VIPM.
+Labor will come from skilled artisans initially willing to work in return for food, shelter, basic medical care, etc. with a future payout of real co-ownership in the Free Farm.
 
 These workers must receive real co-ownership in the property for which they need the outputs, but until those facilities are functional, will need to be paid more 'directly' by being housed in tents and fed basic rations, etc.
 
-Products are not sold when the users co-own the property needed for that production because the product is already in the hands of those who will consume it even before it is produced.
-
-For example, you do not buy Apples when you co-own an Apple orchard because you *already* own your % of that product according to your % of ownership in the physical Sources (trees, land, water-rights, etc.) needed to produce those apples.
-
-There is no need to pay wages when workers commit work before production begins because compensation comes in the form of co-ownership in the property they need combined with promises to work on your behalf from others in the VIPM.
+There is no need to pay wages when workers commit work before production begins because compensation comes in the form of co-ownership in the property they need combined with promises from others to work on their behalf to produce all the goods and services they need
 
 For example, if you promise to pick Apples in return for someone else promising to pick Oranges and someone else promises to fix your teeth, and someone else promises to fix your car, etc., then we can enjoy the full benefits of specialization without the problem of double coincidence of wants caused by trading products late.
-
-
-
-==Notes
-Articles of Organization/Incorporation
-
-Mission Statement
-
-Statement of Purpose
-
-Project Charter
-
-Terms of Reference
-
-Vision
-
-Scope
-
-Goals

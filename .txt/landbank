@@ -1,80 +1,169 @@
-Related: FinTech, Free Farm, HoloChain
+Related: FinTech, Free Farm, HoloChain, git.gnu.io/LunchMoney/LandBank/wikis/landbank
 
-LandBank is a secure public record of property and promises held For Product.
+LandBank is an asset-backed cryptocoin alternative using Smart Contracts to
+reclaim and repurpose the supply chain toward the reproduction of use value.
 
-This cryptocurrency alternative is a set of production chain optimizations.
+Users prepay with work or money and become real co-owners of land and tools
+required to produce all the goods and services they need for a Basic Outcome.
 
-Smart Contracts and a web UI help users buy, own, rent, work, vote, insure.
+In this way the group avoids debt for property acquisition and labor costs.
 
-Groups crowdfund the property and promises required to produce all they need.
+Workers are given immediate access to LandBank titles which vest as work is
+completed, thereby avoiding the usual debt encountered for food and housing.
 
-Users prepay with money or work and become real co-owners of land and tools.
+Each co-owner accepts the product itself as the natural return on investment,
+pre-allocating goods and services to those who predict they will need them.
 
-This "pre-allocates" goods and services to those who predict they need them.
+Since the product is not sold, price == costs and profit does not exist
+because the usual transaction of purchase does not occur for these owners.
 
-Surplus product is sold for profit which is treated as the user's investment.
+Surplus product may be sold for profit to those with insufficient ownership,
+but some profit must be invested for that user in more property under these
+terms, or to buy LandBank titles being offered for sale by current owners.
 
-Profit proves scarcity so triggers the purchase of more sources of that kind.
 
-
-==== Definitions
+== Definitions
 Property: All the land and tools and other non-human inputs needed to make a Product.
 Promise : A commitment from a skilled human to achieve goals toward making a Product.
 Product:  A *projected* quantity and quality of some good or service across time.
 Profit:   Any amount paid by a consumer beyond the real costs of production.
-Costs: Property and Promises actually consumed and all the externalities inflicted by this production, including various costs of exclusion.
+Costs: All Property and Promises actually consumed and all the externalities inflicted by this production, including all externalities and the many costs of exclusion.
 
 
-===Transactional Timeline
-User opens LandBank.app
-
-Menu shows:
-. Create new Product entry.
-. Activate new Product entry to issue unvested LandBank shares for Property and Promises.
-. Buy unvested LandBank shares with Property [or any valid 'external' money to buy Property].
-. Buy unvested LandBank shares with Promises [may commit after being verified in that skill].
-. Change Product entries just as you would edit a wiki page. Each change creates a fork which is locally enforced and globally offered to those who might be interested in other variations. If the parent entry pulls those changes into it's repo, the fork is dissolved and the sugroup reunited.
-
-By default the system shows real estate listings that are more local and meet the scale and environmental limits of each group.  This is an iterative process as the group grows and concensus changes.
-
-Each Property owners are Product owners in that same amount if they supply their portion of the costs for that round of production.
+==                    Ricardian Contract
+===                Terms of Operation
+1. Money becomes Property:   Investors become real co-owners with rights of secession.
+2. Property becomes Product: Investors are consumers paying early for things they need.
+3. Promises become Property: Workers are consumers who also become owners as they work.
+4. Profit becomes Property:  Consumers become owners if they overpay for surplus Product.
 
 
-==== PROMISES
-Promises are commitments of future labor which are traded for Property or for other Promises.
+==== 1. Money becomes Property
+Similar to crowdfunding, consumers prepay for future goods and services, but instead of just receiving one round of production, they become the real property owners of the land and tools that will be purchased for that production.
 
-For example, if you commit to pick more than your portion of the fruit in the orchard, you have 'paid' other orchard owners who may not want to do that work.  You may
+This is similar to equity-based crowdfunding, but in this case each investor is taking risk for the ancient reason that they simply want the results.
 
-Trading work early in time allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
+This allows the group to operate at zero profit even while all investors remain satisfied.  The compensation is the same amount as a For Profit investment, but inverted since the consumer *avoids* paying profit for that product.
 
 
-==== NOTES
-Each Product instance has a window-of-validity in time enforced by constraints on production and on the lifetime of the product.  For example, a young tree does not produce fruit immediately, harvest must usually happen within a short window of time, and must be used or preserved before it gets too old.
+==== 2. Property becomes Product
+Each owner accepts the product itself as the direct and natural return on investment (ROI).
 
-A bulletin-board [paper or code] lists requests and commitments.
+Owners receive the same value as from a For Profit investment, but as a reduction in price.
 
-====Flow
+This protects them from profit they would otherwise pay when buying that product on the market.
+
+The price each pays as a consumer is the costs each paid as a co-owner and there is no sale.
+
+Each owns the same portion of the product as they own of the property used for that production.
+
+Subgroups must be allowed to split the property and secede when it is realistically divisible.
+
+
+==== 3. Promises become Property
+Every worker is a consumer who must also own property to control the products he must consume.
+
+Workers promise to accomplish future goals and receive property as those promises are fulfilled.
+
+This replaces the rent or mortgage that would otherwise take most of the wages.
+
+Vested Property can be used as collateral to access even more valuable Property.
+
+
+==== 4. Profit becomes Property.
+Owners may sell surplus Product and collect more than production costs, but some Profit must be invested for those users so they incrementally gain the Property ownership required to finally also control the production they need.
+
+You must either:
+A: Issue new LandBank titles and commit work or money toward buying that new property.
+
+B: Buy LandBank titles from other owners.
+
+This should cause Profit to safely approach zero
+
+
+
+==               End of Terms of Operation
+
+
+
+
+====Transactional Timeline
 User requests some Product at a projected rate, such as >>1 Dozen Large Grade AA Eggs per week.
 
-Other users can also invest in that production by committing to supply Property or Promises.
+The user is then shown Real Estate listings near their location usable for that production.
 
-Trading Promises with other LandBank groups allows specialization without monetization.
+Other users can also invest in that production by supplying some of the required Property or Promises required for that production, or for any other group using the LandBank system.
 
-Land acquisition can begin once the group agrees on the scope and scale of the operation.
+LandBank title are issued for each square foot of the potential purchase site.
 
-Each investor becomes a real co-owner and receives the Product itself as the natural ROI.
+The price of each LandBank title is based on:
+1. The market price to buy (not rent) the land and tools required for that production.
+2. The labor requirements for that production.
+
+Those paying with money must implicitly also buy enough titles to provide a Basic Outcome for all workers.
+
+Once all the titles are sold, the land is purchased and production can begin.
+
+Workers gain real property ownership as work is completed.
+
+Investors becomes a real co-owners and receive the Product itself as the natural ROI.
+
+Trading Promises across other LandBank groups allows specialization without monetization.
 
 
-==== LandBank retention requires each co-owner either:
-. Supply Property or Promises toward the recurring costs of production for this group.
-. Supply Property or Promises toward the recurring costs of production through another group which has a trade agreement with this group.
+==== LandBank App Menu:
+. Create new Product entry.
+. Issue unvested LandBank titles to secure the Property and Promises required for a Product.
+. Buy unvested LandBank titles with Property [or any valid 'external' money to buy Property].
+. Buy unvested LandBank titles with Promises [may commit after being verified in that skill].
+. Change a Product entry just as you would edit a wiki page, but your change creates a fork which is locally enforced and (optionally) globally offered to those who might be interested in your changes.  If the parent entry pulls those changes into it's repo, your fork is dissolved and the sugroup reunited.
+
+
+==== Products
+Each Product instance has a window-of-validity in time enforced by constraints on production and on the lifetime of the product.  For example, a young tree does not produce fruit immediately, harvest must usually happen within a short window of time, and must be used or preserved before it gets too old.
+
+
+==== Property
+By default the system shows real estate listings that are more local and meet the scale and environmental limits of each group.  This is an iterative process as the group grows and concensus changes.
+
+Each owner of Property is an owner of Product in that same amount.
+Owners must pay costs for each round of production with work or with money or by trading with other groups.
+
+Each owner may optionally secede from that group or might allow an automatic 'decay' to incrementally relinquish property if your use of the product declines.
+
+Each co-owner must either:
+. Supply Property or Promises for your portion of the costs of production for this group.
+. Supply Property or Promises for your portion of the costs of production through another group which has a trade agreement with this group, and recursively, to any depth.
 . Sell (or allow to be sold) enough of your Product to cover the costs of production.
 . Secede from the group and retain your portion of the property under your own terms (within the limits of realistic divisibility).
+
+
+==== Promises
+Promises are commitments of future labor which are used to pay for Property under these terms, or for Promises from others to work for you in the future.
+
+For example, if you commit to pick more than your portion of the fruit in the orchard, you have 'paid' other orchard owners who may not want to do that work.
+
+Trading work before production begins allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
+
+This creates a direct insurance and inverts the usual incentives of scarcity and destruction toward natural abundance and permanent solutions.
+
+Consider the mechanic, the plumber, the dentist, the doctor traditionally
+all want your car, your pipes, your teeth, your body to have problems.
+
+But if they commit "up front" to fix any trouble that might occur in the future,
+They suddenly hope you never have any trouble at all, but will often require
+periodic checkups and routine maintenance in the hopes of reducing work.
+
+
+==== Surplus and Profit
+You may sell any amount of your Product at any price.
+Profit is treated as the payer's LandBank investment.
+
+This safely minimizes Profit as Property is slowly distributed to those who need the results of that production.
+
+
+==                    End of Ricardian Contract
 
 == Implementations
 ~/work/LandBank.sol Solidity version based on ERC 1155
 ~/work/LandBank.vy Vyper
-
-
-
-
