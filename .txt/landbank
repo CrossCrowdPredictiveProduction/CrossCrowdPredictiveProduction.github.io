@@ -1,5 +1,6 @@
 Related: FinTech, Free Farm, HoloChain, git.gnu.io/LunchMoney/LandBank/wikis, CrossCrowdPredictiveProduction.github.io/landbank.htm
 
+==                    Introduction
 LandBank is an asset-backed cryptocoin alternative using Smart Contracts to
 reclaim and repurpose the supply chain toward the reproduction of use value.
 
@@ -14,15 +15,15 @@ completed, thereby avoiding the usual debt encountered for food and housing.
 Each co-owner accepts the product itself as the natural return on investment,
 pre-allocating goods and services to those who predict they will need them.
 
-Since the product is not sold, price == costs and profit does not exist
+Since the product is not sold, price equals costs and profit does not exist
 because the usual transaction of purchase does not occur for these owners.
 
 Surplus product may be sold for profit to those with insufficient ownership,
 but some profit must be invested for that user in more property under these
 terms, or to buy LandBank titles being offered for sale by current owners.
 
-
-== Definitions
+==                    Ricardian Contract
+=== Definitions
 Property: All the land and tools and other non-human inputs needed to make a Product.
 Promise : A commitment from a skilled human to achieve goals toward making a Product.
 Product:  A *projected* quantity and quality of some good or service across time.
@@ -30,8 +31,7 @@ Profit:   Any amount paid by a consumer beyond the real costs of production.
 Costs: All Property and Promises actually consumed and all the externalities inflicted by this production, including all externalities and the many costs of exclusion.
 
 
-==                    Ricardian Contract
-===                Terms of Operation
+===                    Terms of Operation
 1. Money becomes Property:   Investors become real co-owners with rights of secession.
 2. Property becomes Product: Investors are consumers paying early for things they need.
 3. Promises become Property: Workers are consumers who also become owners as they work.
@@ -74,51 +74,11 @@ Vested Property can be used as collateral to access even more valuable Property.
 Owners may sell surplus Product and collect more than production costs, but some Profit must be invested for those users so they incrementally gain the Property ownership required to finally also control the production they need.
 
 You must either:
-A: Issue new LandBank titles and commit work or money toward buying that new property.
-
+A: Issue new LandBank titles and commit work or money toward buying that new Property.
 B: Buy LandBank titles from other owners.
 
-This should cause Profit to safely approach zero
 
-
-
-==               End of Terms of Operation
-
-
-
-
-====Transactional Timeline
-User requests some Product at a projected rate, such as >>1 Dozen Large Grade AA Eggs per week.
-
-The user is then shown Real Estate listings near their location usable for that production.
-
-Other users can also invest in that production by supplying some of the required Property or Promises required for that production, or for any other group using the LandBank system.
-
-LandBank title are issued for each square foot of the potential purchase site.
-
-The price of each LandBank title is based on:
-1. The market price to buy (not rent) the land and tools required for that production.
-2. The labor requirements for that production.
-
-Those paying with money must implicitly also buy enough titles to provide a Basic Outcome for all workers.
-
-Once all the titles are sold, the land is purchased and production can begin.
-
-Workers gain real property ownership as work is completed.
-
-Investors becomes a real co-owners and receive the Product itself as the natural ROI.
-
-Trading Promises across other LandBank groups allows specialization without monetization.
-
-
-==== LandBank App Menu:
-. Create new Product entry.
-. Issue unvested LandBank titles to secure the Property and Promises required for a Product.
-. Buy unvested LandBank titles with Property [or any valid 'external' money to buy Property].
-. Buy unvested LandBank titles with Promises [may commit after being verified in that skill].
-. Change a Product entry just as you would edit a wiki page, but your change creates a fork which is locally enforced and (optionally) globally offered to those who might be interested in your changes.  If the parent entry pulls those changes into it's repo, your fork is dissolved and the sugroup reunited.
-
-
+=== Commentary
 ==== Products
 Each Product instance has a window-of-validity in time enforced by constraints on production and on the lifetime of the product.  For example, a young tree does not produce fruit immediately, harvest must usually happen within a short window of time, and must be used or preserved before it gets too old.
 
@@ -155,7 +115,7 @@ They suddenly hope you never have any trouble at all, but will often require
 periodic checkups and routine maintenance in the hopes of reducing work.
 
 
-==== Surplus and Profit
+==== Profit
 You may sell any amount of your Product at any price.
 Profit is treated as the payer's LandBank investment.
 
@@ -164,6 +124,38 @@ This safely minimizes Profit as Property is slowly distributed to those who need
 
 ==                    End of Ricardian Contract
 
-== Implementations
+
+== Smart Contract Design Notes
 ~/work/LandBank.sol Solidity version based on ERC 1155
 ~/work/LandBank.vy Vyper
+
+===Transactional Timeline
+User requests some Product at a projected rate, such as >>1 Dozen Large Grade AA Eggs per week.
+
+The user is then shown Real Estate listings near their location usable for that production.
+
+Other users can also invest in that production by supplying some of the required Property or Promises required for that production, or for any other group using the LandBank system.
+
+LandBank title are issued for each square foot of the potential purchase site.
+
+The price of each LandBank title is based on:
+1. The market price to buy (not rent) the land and tools required for that production.
+2. The labor requirements for that production.
+
+Those paying with money must implicitly also buy enough titles to provide a Basic Outcome for all workers.
+
+Once all the titles are sold, the land is purchased and production can begin.
+
+Workers gain real property ownership as work is completed.
+
+Investors becomes a real co-owners and receive the Product itself as the natural ROI.
+
+Trading Promises across other LandBank groups allows specialization without monetization.
+
+
+=== LandBank App Menu:
+. Create new Product entry.
+. Issue unvested LandBank titles to secure the Property and Promises required for a Product.
+. Buy unvested LandBank titles with Property [or any valid 'external' money to buy Property].
+. Buy unvested LandBank titles with Promises [may commit after being verified in that skill].
+. Change a Product entry just as you would edit a wiki page, but your change creates a fork which is locally enforced and (optionally) globally offered to those who might be interested in your changes.  If the parent entry pulls those changes into it's repo, your fork is dissolved and the sugroup reunited.
