@@ -1,0 +1,11 @@
+Related: CityCoin
+
+Smart Contracts: Part of Financial Technology (FinTech)
+
+npm install --save dapparatus
+
+import { Metamask, Gas, ContractLoader, Transactions, Events, Scaler, Blockie, Address, Button } from "dapparatus"
+
+https://medium.com/authio/solidity-ctf-part-4-read-the-fine-print-5ad259a5f5bb
+
+AuthIO.org >>Verify your smart contracts behave as intended.

@@ -1,27 +1,27 @@
-Related: FinTech, Free Farm, HoloChain, git.gnu.io/LunchMoney/LandBank/wikis, CrossCrowdPredictiveProduction.github.io/landbank.htm
+Related: FinTech, Free Farm, HoloChain
 
 
 ==                    Introduction
-LandBank is an asset-backed cryptocoin alternative using Smart Contracts to
-reclaim and repurpose the supply chain toward the reproduction of use value.
+CityCoin is a non-fungible, asset-backed, collateralized stable coin backed
+by the Means of Production and human labor required to produce all we need.
 
 Users prepay with work or money and become real co-owners of land and tools
 required to produce all the goods and services they need for a Basic Outcome.
 
-In this way the group avoids debt for property acquisition and labor costs.
-
-Workers are given immediate access to LandBank titles which vest as work is
-completed, thereby avoiding the usual debt encountered for food and housing.
+In this way groups can avoid interest bearing debt for land, labor or capital.
 
 Each co-owner accepts the product itself as the natural return on investment,
 pre-allocating goods and services to those who predict they will need them.
+
+Workers are given immediate access to CityCoin titles which vest as work is
+completed, thereby avoiding the usual debt encountered for food and housing.
 
 Since the product is not sold, price equals costs and profit does not exist
 because the usual transaction of purchase does not occur for these owners.
 
 Surplus product may be sold for profit to those with insufficient ownership,
 but some profit must be invested for that user in more property under these
-terms, or to buy LandBank titles being offered for sale by current owners.
+terms, or to buy CityCoin titles being offered for sale by current owners.
 
 
 ==                    Ricardian Contract
@@ -76,8 +76,8 @@ Vested Property can be used as collateral to access even more valuable Property.
 Owners may sell surplus Product and collect more than production costs, but some Profit must be invested for those users so they incrementally gain the Property ownership required to finally also control the production they need.
 
 You must either:
-A: Issue new LandBank titles and commit work or money toward buying that new Property.
-B: Buy LandBank titles from other owners.
+A: Issue new CityCoin titles and commit work or money toward buying that new Property.
+B: Buy CityCoin titles from other owners.
 
 
 === Commentary
@@ -119,7 +119,7 @@ periodic checkups and routine maintenance in the hopes of reducing work.
 
 ==== Profit
 You may sell any amount of your Product at any price.
-Profit is treated as the payer's LandBank investment.
+Profit is treated as the payer's CityCoin investment.
 
 This safely minimizes Profit as Property is slowly distributed to those who need the results of that production.
 
@@ -128,36 +128,39 @@ This safely minimizes Profit as Property is slowly distributed to those who need
 
 
 == Smart Contract Design Notes
-~/work/LandBank.sol Solidity version based on ERC 1155
-~/work/LandBank.vy Vyper
+Medium.com/@austin_48503/buidlguidl-0x1-guidlcoin-3be30c6ac76f
+
+~/work/CityCoin.sol Solidity version based on ERC 1155
+~/work/CityCoin.vy Vyper
+
 
 ===Transactional Timeline
 User requests some Product at a projected rate, such as >>1 Dozen Large Grade AA Eggs per week.
 
 The user is then shown Real Estate listings near their location usable for that production.
 
-Other users can also invest in that production by supplying some of the required Property or Promises required for that production, or for any other group using the LandBank system.
+Other users can also invest in that production by supplying some of the required Property or Promises required for that production, or for any other group using the CityCoin system.
 
-LandBank title are issued for each square foot of the potential purchase site.
+CityCoin title are issued for each square foot of the potential purchase site.
 
-The price of each LandBank title is based on:
+The price of each CityCoin title is based on:
 1. The market price to buy (not rent) the land and tools required for that production.
 2. The labor requirements for that production.
 
-Those paying with money must implicitly also buy enough titles to provide a Basic Outcome for all workers.
+Those paying with money must implicitly also buy enough CityCoin titles for all workers.
 
-Once all the titles are sold, the land is purchased and production can begin.
+Once all the titles are sold, the land and tools are purchased and production can begin.
 
 Workers gain real property ownership as work is completed.
 
 Investors becomes a real co-owners and receive the Product itself as the natural ROI.
 
-Trading Promises across other LandBank groups allows specialization without monetization.
+Trading Promises across other CityCoin groups, before production begins, allows specialization without monetization.
 
 
-=== LandBank App Menu:
+=== CityCoin App Menu:
 . Create new Product entry.
-. Issue unvested LandBank titles to secure the Property and Promises required for a Product.
-. Buy unvested LandBank titles with Property [or any valid 'external' money to buy Property].
-. Buy unvested LandBank titles with Promises [may commit after being verified in that skill].
+. Issue unvested CityCoin titles to secure the Property and Promises required for a Product.
+. Buy unvested CityCoin titles with Property [or any valid 'external' money to buy Property].
+. Buy unvested CityCoin titles with Promises [may commit after being verified in that skill].
 . Change a Product entry just as you would edit a wiki page, but your change creates a fork which is locally enforced and (optionally) globally offered to those who might be interested in your changes.  If the parent entry pulls those changes into it's repo, your fork is dissolved and the sugroup reunited.

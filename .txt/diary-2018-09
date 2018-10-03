@@ -1,3 +1,78 @@
+2018-09-30: AntiChatter -- Separating Truth from Popularity
+
+Features:
+
+Just like a web search, questions are never "off topic", but simply 'flow' to where they make most sense.
+
+A hierarchy of questions limits users to only those groups which align with their "world view".
+
+2018-09-30:
+David Braden wrote >>The flow of money through the market cannot make up the deficiency in the flow of organic molecules through the living system.
+
+@artbrock wrote >>The actual flow of goods, services, resources, knowledge or participation flows COUNTER to an exchange currency.
+
+2018-09-29: Solid.inrupt.com >>Solid was created by the inventor of the World Wide Web, Sir Tim Berners-Lee. Its mission is to reshape the web as we know it. Solid will foster a new breed of applications with capabilities above and beyond anything that exists today.
+
+2018-09-29: Could we make a new coin, "backed by" or "issued against" the Means of Production required to build and maintain the physical network we need?
+Each coin sold would represent real ownership in the company, but instead of holding that property For Profit, it is held For Product.
+
+2018-09-29: A Censorship Resistant Network will use property ownership of the physical layer to achieve full dominion over that subnet.  The Smart Contract "gas" fee is modified to incrementally acquire the land, tools and work required for full sovereignty over our communication.
+
+2018-09-29: David Braden wrote >>In CP Foods, there are partners who have developed skills offering landscape services and other partners who has developed skills at preparing and selling meals made from what the landscapers produce.  These skilled partners direct the activities of the partnership, enter into contracts and partnerships with property owners and offer skill development to new partners.
+
+2018-09-29: Recursive Autonomous Funding (RAF) issues Tokens which are sold in an ongoing crowdfunding campaign to incrementally secure the Property and Promises required to control the physical layer hosting that network, and to host (house and feed) all contributing users.
+
+2018-09-28: Daaaam  YouTube.com/watch?v=GAm48rkUBl4 >>The Prodigy - Light Up the Sky (Lyric Video)
+
+2018-09-28: The MST3k crew are in great form during "Terror from the Year 5000".
+
+2018-09-28: Creature from the Crypto -- A coin/DApp/DOA using smart contracts to auto-acquisition the land, tools and work required to build and maintain it's own material substrate.
+
+2018-09-27: We must reconnect money issuance with taxation in a better way.  This is related to votax.
+
+2018-09-27:
+Every crypto/DApp/DAO can be stopped by owners of the Physical Layer.
+We need new Smart Contract terms that semi-automate the purchase and
+management of the land, tools and work required to host the software.
+
+2018-09-27: Technical phone interview with John Li at Blend.com
+
+2018-09-26:
+Ethereum "gas" pays the market price for computation
+but leaves us vulnerable to owners of those machines.
+
+The "phy" extension would require some % of "gas"
+be used to crowdfund the purchase of land and tools
+and work to make user owned and controlled networks.
+
+
+2018-09-26: Other names: CityCoin, SupplyChain, ChainOfProduction, WorkBlock, ProofOf[Property|Ownership|Have|Own|Title|Deed]
+
+2018-09-26: EthResear.ch/t/storage-taxes-for-ethereum makes me even more sure that issuance and governance are deeply tied, with votax being part of that discussion.
+
+2018-09-26: BlockWars.live >>Map-based war game running on the Ethereum blockchain
+
+2018-09-26: SuperBlocks.com >>Superblocks Lab IDE Developing your Ethereum DApp has never been so easy    Superblocks Lab helps you code, build and deploy smart contracts and decentralized applications.    No more copy paste and complicated setups.
+
+2018-09-25: Physical Layer Management Strategy for the DApp/DAO Ecosystem
+
+Every DApp is only as unstoppable as the physical networks it uses.
+
+The owners of those networks can censor or throttle as they please.
+
+Ethereum Smart Contracts already use "gas" to pay for these costs,
+but the lack of control over the physical layer is never addressed,
+so we are left vulnerable to established ISP and cell owners.
+
+A suggested extension "phy" would require some non-zero % of "gas"
+be invested for the paying user to crowdfund the purchase of land
+and tools and work required to operate a physical network to host
+future transactions.  This would cause all users to incrementally
+gain ownership in the physical layer required for our sovereignty.
+
+
+2018-09-25: Migrating toward Security-Focused and Crypto-Aware Brave.com web browser.
+
 2018-09-25:
 Rent flows up, to those who own more Land than they need.
 Profit flows up, to those who own more Capital than they need.
@@ -13,13 +88,13 @@ Algorithmic rules guarantee enough scarcity to attract investors with market cap
 
 Some are pegged to a supposedly stable assets, such as gold, the US Dollar, the exchange value of real estate or corporate shares.
 
-LandBank is an asset-backed cryptocoin alternative using Smart Contracts to reclaim and repurpose the supply chain toward the reproduction of use value.
+CityCoin is an asset-backed cryptocoin alternative using Smart Contracts to reclaim and repurpose the supply chain toward the reproduction of use value.
 
 2018-09-24: WePower.network >>WePower fuels renewable energy production by enabling developers to raise capital by selling their energy production upfront in the form of tradeable Smart Energy Contracts.
 
-2018-09-24: Trying to move to git.GNU.io/LunchMoney/LandBank
+2018-09-24: Trying to move to git.GNU.io/LunchMoney/CityCoin
 
-2018-09-20: Rewriting LandBank
+2018-09-20: Rewriting CityCoin
 
 2018-09-20:
 
@@ -37,11 +112,11 @@ if you do, you must also distribute the sources.
 
 2018-09-18: Interviewed with Blend.com today.
 Blog.HelloBloom.io/introducing-bloom-payment-channels-enabled-by-ethereum-whisper-1fec8ba10a03
-github.com/uport-project/uport-connect
+github.com/uport-project
 
 2018-09-18: ForumForTheFuture.org >>Reinventing the way the world works.    We specialise in addressing critical global challenges by catalysing change in key systems, from food to apparel, energy to shipping.
 
-2018-09-18: LandBank
+2018-09-18: CityCoin
 
 2018-09-17: Crypto Currencies and Smart Contracts are shaping our economic and legal systems.
 
@@ -53,9 +128,9 @@ github.com/uport-project/uport-connect
 
 2018-09-14: Reading Solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html
 
-2018-09-14: DecentraLand.org <<Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize their content and applications.
+2018-09-14: DecentraLand.org >>Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize their content and applications.
 
-2018-09-13: LandBank Meta/Notes
+2018-09-13: CityCoin Meta/Notes
 
 This is a Social Contract or Community Constitution written as a Smart Contract.
 
@@ -150,7 +225,7 @@ TransferWise zero-copy optimization
 
 2018-09-06: >>What Would a Co-op Coin ICO Look Like? By Oliver Sylvester-Bradley Resilience.org/stories/2018-01-26/co-op-coin-ico-look-like
 
-2018-09-05: Working on the LandBank cryptocurrency alternative.
+2018-09-05: Working on the CityCoin cryptocurrency alternative.
 
 2018-09-05: CABINC.org >>CAB mission is to partner with the community to eliminate poverty and create social change through advocacy and essential services. We are glad that you are here to learn more about who we are and we look forward to partnering with you as we further our mission.
 
@@ -180,12 +255,15 @@ Farms, restaurants, mines, factories, hospitals operate without human interventi
 
 They can even repair, recycle and duplicate themselves as long as they have access to land, minerals and energy.
 
+Whether this is good or bad depends upon *why* we own.
+
+If For Profit: dystopia.
+If For Product: utopia.
+
 2018-09-04: GuerrillaGrafters.org >>We aim to turn city streets into food forests, and unravel civilization one branch at a time.
 
 2018-09-02: Resilience.org/stories/2017-02-01/representation-is-no-longer-enough >>
 
-2018-09-02: CNI-COOP.net/channel/pip >>Community Supported Manufacturing -- capitalism-free production sector
+2018-09-02: CNI-COOP.net/channel/pip >>Community Supported Manufacturing -- capitalism-free production sector  Matrix.CNI-COOP.net/_matrix/media/v1/download/matrix.cni-coop.net/FSIrEKickANXczPjcEwMSDnO
 
 2018-09-02: Wiki.GoodRelations-Vocabulary.org/Documentation/Conceptual_model
-
-2018-09-02: Financial Technology (FinTech or fintech) is the tech

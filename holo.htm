@@ -12,30 +12,28 @@
 <body>
 <p class='header'>
  <a href="-home.htm">Home</a> | <a href="-diary.htm">Diary</a> | <a href="-todo.htm">Todo</a> | <a href="-index.htm">Index</a> | <a href="-about.htm">About</a> |</p>
-<p class='main'><span class="rel">Related:</span> <a href="landbank.htm">LandBank</a><br/>
+<p class='main'><span class="rel">Related:</span> <a href="citycoin.htm">CityCoin</a><br/>
 <br/>
 <a class="ext" href="http://HoloChain.org">HoloChain.org</a><br/>
 <br/>
-<a class="ext" href="http://pkg.add">pkg.add</a> go<a href="lang.htm">lang</a><br/>
+wget <a class="ext" href="https://sh.rustup.rs">https://sh.rustup.rs</a><br/>
+bash <a class="ext" href="http://sh.rustup.rs">sh.rustup.rs</a><br/>
+<a href="rust.htm">rust</a>up <a href="tool.htm">tool</a><a href="chain.htm">chain</a> <a href="inst.htm">inst</a>all nightly<br/>
+<a href="rust.htm">rust</a>up override set nightly<br/>
+<a href="rust.htm">rust</a>up default nightly # switch to the nightly <a href="rust.htm">rust</a> <a href="tool.htm">tool</a><a href="chain.htm">chain</a> as your default<br/>
+<a href="rust.htm">rust</a>up target add wasm32-unknown-unknown --<a href="tool.htm">tool</a><a href="chain.htm">chain</a> nightly # adds WASM as a <a href="comp.htm">comp</a>ilation target<br/>
 <br/>
-echo "set GOPATH=$<a href="home.htm">HOME</a>/go"<br/>
-echo "set PATH+=$GOPATH/bin"<br/>
 <br/>
-go get -d -v <a class="ext" href="http://github.com/holochain/holochain-proto">github.com/holochain/holochain-proto</a><br/>
+git clone <a class="ext" href="https://github.com/holochain/HoloWorld">https://github.com/holochain/HoloWorld</a><br/>
+git clone <a class="ext" href="https://github.com/holochain/holochain-rust">https://github.com/holochain/holochain-rust</a><br/>
+git clone <a class="ext" href="https://github.com/holochain/holochain-cmd">https://github.com/holochain/holochain-cmd</a><br/>
 <br/>
-go get -u <a class="ext" href="http://github.com/whyrusleeping/gx">github.com/whyrusleeping/gx</a><br/>
-go get -u <a class="ext" href="http://github.com/whyrusleeping/gx-go">github.com/whyrusleeping/gx-go</a><br/>
 <br/>
-cd ~/go/src/<a class="ext" href="http://github.com/holochain/holochain-proto">github.com/holochain/holochain-proto</a><br/>
-<a href="make.htm">make</a><br/>
+cd <a href="holo.htm">holo</a><a href="chain.htm">chain</a>-cmd<br/>
+cargo <a href="inst.htm">inst</a>all -f --path .<br/>
 <br/>
-gx-go get <a class="ext" href="http://github.com/holochain/holochain-proto">github.com/holochain/holochain-proto</a><br/>
 <br/>
-hcadmin -v # 0.0.5 <small>(<a href="holo.htm">holo</a><a href="chain.htm">chain</a> 26)</small> <a href="give.htm">give</a>s error "flag provided but not defined: -v" <br/>
-<br/>
-hcadmin init <a class="ext" href="http://your.email@address.com">your.email@address.com</a> # <a href="creat.htm">creat</a>es ~/.<a href="holo.htm">holo</a><a href="chain.htm">chain</a>/<br/>
-<br/>
-<a class="ext" href="https://developer.holochain.org/Command_Line_Tools">https://developer.holochain.org/Command_Line_Tools</a><br/>
+cargo build --target=wasm32-unknown-unknown<br/>
 </p>
 <p class='footer'>
  Page generated from <a href=".txt/holo">holo</a> by <a href=".src/lens.el">lens.el</a>.</p>

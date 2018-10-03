@@ -1,24 +1,22 @@
-Related: LandBank
+Related: CityCoin
 
 HoloChain.org
 
-pkg.add golang
+wget https://sh.rustup.rs
+bash sh.rustup.rs
+rustup toolchain install nightly
+rustup override set nightly
+rustup default nightly # switch to the nightly rust toolchain as your default
+rustup target add wasm32-unknown-unknown --toolchain nightly # adds WASM as a compilation target
 
-echo "set GOPATH=$HOME/go"
-echo "set PATH+=$GOPATH/bin"
 
-go get -d -v github.com/holochain/holochain-proto
+git clone https://github.com/holochain/HoloWorld
+git clone https://github.com/holochain/holochain-rust
+git clone https://github.com/holochain/holochain-cmd
 
-go get -u github.com/whyrusleeping/gx
-go get -u github.com/whyrusleeping/gx-go
 
-cd ~/go/src/github.com/holochain/holochain-proto
-make
+cd holochain-cmd
+cargo install -f --path .
 
-gx-go get github.com/holochain/holochain-proto
 
-hcadmin -v # 0.0.5 (holochain 26) gives error "flag provided but not defined: -v" 
-
-hcadmin init your.email@address.com # creates ~/.holochain/
-
-https://developer.holochain.org/Command_Line_Tools
+cargo build --target=wasm32-unknown-unknown

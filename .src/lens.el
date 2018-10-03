@@ -53,21 +53,52 @@
 ;; The output file will be ~/doc/profit.htm
 ;; All lowercase in filename to always match.
 
-;; Open ~/doc/.txt/property and mention profit.
+;;  Main entry points are `lens', `lens-mode', `lens-make-page'
+;;  `lens-dired-make-marked-pages' and `lens-clean'
 
-;; 
+;;  In `lens-mode': RET or `mouse-2' at beginning of term visits that file.
 
-;;; Keymap:
-;; C-c C-p opens ~/doc/property.htm in a browser
-;; C-c C-c  `lens-make-page'
+;; `lens-mode' keys:
+;; f5       `lens-mode-rebuild-mode'
+;; C-cC-c   `lens-make-page'
+;; C-cC-p   preview generated HTML of this source file
 ;; RET      Follow link
 ;; C-m      Insert line-feed
 
-;; M-x lens-clean  destroys all output files
-;; M-x lens  generates pages with old output
+;;;; Features
 
-;; A bug stops terms from being lit in Emacs
-;; but  F5 `lens-mode-rebuild-mode'  to fix.
+;;; Formatting
+;; All whitespace preserved
+
+;;; At beginning of line (BOL)
+;;  = Header1
+;;  == Header2
+;;  === Header3
+;;  ==== Header4
+;;  $ shell command
+;;  : bullet
+;;  * bullet
+;;  + bullet
+;;  . bullet
+;;  > quote
+
+;;; Anywhere
+;;  >> quote2
+;;  >>> quote3
+;;  "'quote'"
+;;  /* comment */
+;;  ;; comment
+;;  (parenthetic)
+;;  {parenthetic}
+;;  [parenthetic]
+;;  \\UNC-Server\Shared_Folder
+;;  "\\UNC-Server\Shared Folder"
+;;  ~/LocalFile
+;;  ./LocalFile
+;;  ../LocalFile
+
+;; Implicit URLs: `lens-implicit-HTTP'
+;; Explicit URLs: [file|https?|ftp]://
 
 ;;; Version:
 ;; .01 new
@@ -126,7 +157,6 @@ All terms less than this match only at the beginning of words (using `\\b')")
   "\\([a-zA-Z0-9\.]\\)+@[^])}>:,; \t\n]*"
   "email addrs")
 
-;; ugh, this is so wrong
 (defconst lens-implicit-HTTP
   "\\(\\([a-zA-Z0-9_-]\\)+\\.\\)+\\([a-zA-Z][a-zA-Z]\\)[^])}>:,; \t\n]*"
   ;;maybe use `regexp-opt' here?
