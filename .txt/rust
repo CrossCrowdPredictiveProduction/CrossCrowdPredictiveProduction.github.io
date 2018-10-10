@@ -1,5 +1,7 @@
 lang
 
+Doc.Rust-Lang.org
+
 rustup toolchain install nightly
 rustup override set nightly
 rustup default nightly # switch to the nightly rust toolchain as your default

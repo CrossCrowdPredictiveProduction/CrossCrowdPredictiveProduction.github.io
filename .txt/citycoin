@@ -1,27 +1,49 @@
-Related: FinTech, Free Farm, HoloChain
+Related: FinTech, For Product, Free Farm
 
 
 ==                    Introduction
-CityCoin is a non-fungible, asset-backed, collateralized stable coin backed
-by the Means of Production and human labor required to produce all we need.
+CityCoin is a cryptocurrency alternative issued as titles of
+property ownership against the land and tools and work required
+for the production of all the goods and services those citizens
+need for a reasonable standard of living without external help.
 
-Users prepay with work or money and become real co-owners of land and tools
-required to produce all the goods and services they need for a Basic Outcome.
 
-In this way groups can avoid interest bearing debt for land, labor or capital.
+Potential citizens invest in 3 different ways:
+1. Pay with plain-old-money to crowdfund the debt-free purchase of
+    Land and Tools from the regular market.
 
-Each co-owner accepts the product itself as the natural return on investment,
-pre-allocating goods and services to those who predict they will need them.
+2. Pay with commitments to work in the future in a legally binding
+    manner, causing you, the worker, to possibly lose CityCoin
+    titles if those promises are not kept.
 
-Workers are given immediate access to CityCoin titles which vest as work is
-completed, thereby avoiding the usual debt encountered for food and housing.
+3. Pay in a sort of 'accidental' way when you buy surplus product
+    from other owners and pay more than the real costs of production.
+    Those owners are required to invest some of that profit as an
+    investment in CityCoin on your behalf.
 
-Since the product is not sold, price equals costs and profit does not exist
-because the usual transaction of purchase does not occur for these owners.
 
-Surplus product may be sold for profit to those with insufficient ownership,
-but some profit must be invested for that user in more property under these
-terms, or to buy CityCoin titles being offered for sale by current owners.
+Each investor becomes a real co-owner and accepts the product itself
+as the natural return on investment, thereby pre-allocating goods and
+services to those who predict they need them.
+
+Workers commit to achieve future goals in return for immediate access
+to CityCoin titles vesting as those promises are completed, thereby
+avoiding excessive price and rent usually paid for food and housing.
+
+CityCoin titles are valid only as long as the property and promises
+required for that production are secured under these terms.
+
+Since the product is not sold (except surplus), price equals costs
+and profit does not exist since the usual transaction of purchase
+does not occur for these special owners.
+
+Any owner may sell surplus product and collect profit from those with
+insufficient ownership, but some of that profit must be invested for
+that very same paying user to buy newly issued CityCoins, or to buy
+CityCoins being offered for sale by other owners.
+
+In this way we can produce all our food and shelter and other basic
+needs without paying profit, interest or rent.
 
 
 ==                    Ricardian Contract
@@ -36,30 +58,30 @@ Costs: All Property and Promises actually consumed and all the externalities inf
 ===                    Terms of Operation
 1. Money becomes Property:   Investors become real co-owners with rights of secession.
 2. Property becomes Product: Investors are consumers paying early for things they need.
-3. Promises become Property: Workers are consumers who also become owners as they work.
+3. Promises become Property: Workers are also investors, becoming owners as they work.
 4. Profit becomes Property:  Consumers become owners if they overpay for surplus Product.
 
 
 ==== 1. Money becomes Property
 Similar to crowdfunding, consumers prepay for future goods and services, but instead of just receiving one round of production, they become the real property owners of the land and tools that will be purchased for that production.
 
-This is similar to equity-based crowdfunding, but in this case each investor is taking risk for the ancient reason that they simply want the results.
-
-This allows the group to operate at zero profit even while all investors remain satisfied.  The compensation is the same amount as a For Profit investment, but inverted since the consumer *avoids* paying profit for that product.
+This may sound like equity-based crowdfunding, but in this case each investor is taking risk for the ancient reason that they simply want the results.
 
 
 ==== 2. Property becomes Product
 Each owner accepts the product itself as the direct and natural return on investment (ROI).
 
+Instead of selling the product to some other consumer, hoping for a price above cost, the product has been pre-distributed to the consumer who predicted they would need it.  There is no sale because it is already the individuated property of that co-owner
+
+This allows the group to operate at zero profit even while all investors remain satisfied.  The compensation is the same amount as a For Profit investment, but inverted since the consumer *avoids* paying profit for that product.
+
 Owners receive the same value as from a For Profit investment, but as a reduction in price.
 
-This protects them from profit they would otherwise pay when buying that product on the market.
+This protects the consumer from paying the profit they otherwise would have paid when buying that product at the market.
 
-The price each pays as a consumer is the costs each paid as a co-owner and there is no sale.
+The price each pays as a consumer is the costs each paid as a co-owner and there is no sale.  Each owns the same portion of the product as they own of the property used for that production.
 
-Each owns the same portion of the product as they own of the property used for that production.
-
-Subgroups must be allowed to split the property and secede when it is realistically divisible.
+Subgroups must be allowed to secede from the majority when the property is realistically divisible.
 
 
 ==== 3. Promises become Property
@@ -82,18 +104,26 @@ B: Buy CityCoin titles from other owners.
 
 === Commentary
 ==== Products
-Each Product instance has a window-of-validity in time enforced by constraints on production and on the lifetime of the product.  For example, a young tree does not produce fruit immediately, harvest must usually happen within a short window of time, and must be used or preserved before it gets too old.
+Each Product instance has a window-of-validity in time enforced by constraints on production and on the lifetime of the product.
+
+For example, a young tree does not produce fruit immediately, harvest must usually happen within a short window of time, and must be used or preserved before it gets too old.
 
 
 ==== Property
-By default the system shows real estate listings that are more local and meet the scale and environmental limits of each group.  This is an iterative process as the group grows and concensus changes.
+Land and tools must meet the minimum scale and complexity required to eventually deliver all the goods and services the owners of that city need without requiring outside trade.
+
+The design and layout of shared structures, borders, roads, etc. would ideally be decided before the land is purchased.
+
+A variety of templates designed in accordance with permaculture principles could be offered for guidance.
+
+Ownership is distributed to subgroups according to the products they prepay for.
+
+For example, if you pay for "1 Gallon of milk per month" you receive ownership in the dairy and cattle and land it sits on, and the land to grow the Alfalfa and the water rights required for all of that production and also enough CityCoin to pay the people who will do the work required for your portion.
 
 Each owner of Property is an owner of Product in that same amount.
-Owners must pay costs for each round of production with work or with money or by trading with other groups.
 
-Each owner may optionally secede from that group or might allow an automatic 'decay' to incrementally relinquish property if your use of the product declines.
-
-Each co-owner must either:
+Owners must pay the initial and recurring costs of production by either:
+. Allow 'Decay' function sell property to pay costs as your interest in that product declines.
 . Supply Property or Promises for your portion of the costs of production for this group.
 . Supply Property or Promises for your portion of the costs of production through another group which has a trade agreement with this group, and recursively, to any depth.
 . Sell (or allow to be sold) enough of your Product to cover the costs of production.
@@ -101,27 +131,37 @@ Each co-owner must either:
 
 
 ==== Promises
-Promises are commitments of future labor which are used to pay for Property under these terms, or for Promises from others to work for you in the future.
+Promises are commitments of future labor which are traded for Property under these terms, or for Promises from others to work for you in the future.
 
-For example, if you commit to pick more than your portion of the fruit in the orchard, you have 'paid' other orchard owners who may not want to do that work.
+For example, you might commit to pick fruit in the orchard during harvest season, drive a bus during the week, and cook breakfast every other Sunday at one of the many restaurants.
 
-Trading work before production begins allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
+For the safety of all citizens, each citizen must receive enough CityCoin to insure the production they need to remain healthy, even if unable to work.
 
-This creates a direct insurance and inverts the usual incentives of scarcity and destruction toward natural abundance and permanent solutions.
+When CityCoin is purchased with promises, it vests incrementally, as those promises are fulfilled.
 
-Consider the mechanic, the plumber, the dentist, the doctor traditionally
-all want your car, your pipes, your teeth, your body to have problems.
+Initially, all jobs required to build and maintain the city are offered for the same number of CityCoin titles, with the price increasing in a step-wise manner, such as incrementing by one CityCoin each day the job remains listed...  This isn't quite right.
 
-But if they commit "up front" to fix any trouble that might occur in the future,
-They suddenly hope you never have any trouble at all, but will often require
-periodic checkups and routine maintenance in the hopes of reducing work.
+You may apply for any job, but must prove you have that skill.
+
+Trading work early in time, before production begins, allows us to specialize without passing tokens while also solving the "simultaneous coincidence of wants" problem that faces typical barter.
+
+This creates a far more direct and real insurance (as an assurance contract) and inverts the usual incentives of scarcity and destruction toward our natural and original goals of abundance and permanent solutions.
+
+In the regular market, mechanics, plumbers and dentists need broken cars, pipes, teeth to make the tokens flow.
+
+But if they can instead commit "up front" to fix any trouble that might occur in the future, they suddenly hope you never have any trouble at all, since they have received your commitment to work for them (or buy Property for them) either way.
+
+This returns work to the natural position as a problem to be minimized instead of being a confused social goal.
+
+A guild system could help determine worker skill levels while offering advancement through free access to educational media and paid apprenticeships.
+
+Guilds would protect owners by spreading fulfillment and quality risks across groups of workers.
 
 
 ==== Profit
-You may sell any amount of your Product at any price.
-Profit is treated as the payer's CityCoin investment.
+You may sell any amount of your Product at any price, but some percentage of that Profit must be treated as the payer's investment toward issuing more CityCoin, or to buy CityCoin being sold by others.
 
-This safely minimizes Profit as Property is slowly distributed to those who need the results of that production.
+This safely reduces Profit as Property required for production is slowly distributed to those who need the results of that production.
 
 
 ==                    End of Ricardian Contract
@@ -152,16 +192,15 @@ Those paying with money must implicitly also buy enough CityCoin titles for all 
 
 Once all the titles are sold, the land and tools are purchased and production can begin.
 
-Workers gain real property ownership as work is completed.
-
 Investors becomes a real co-owners and receive the Product itself as the natural ROI.
 
-Trading Promises across other CityCoin groups, before production begins, allows specialization without monetization.
+Workers gain real property ownership as work is completed.
+
+Trading work promises across subgroups, before production begins, allows specialization without monetization.
 
 
 === CityCoin App Menu:
 . Create new Product entry.
-. Issue unvested CityCoin titles to secure the Property and Promises required for a Product.
-. Buy unvested CityCoin titles with Property [or any valid 'external' money to buy Property].
-. Buy unvested CityCoin titles with Promises [may commit after being verified in that skill].
-. Change a Product entry just as you would edit a wiki page, but your change creates a fork which is locally enforced and (optionally) globally offered to those who might be interested in your changes.  If the parent entry pulls those changes into it's repo, your fork is dissolved and the sugroup reunited.
+. System issues unvested CityCoin titles according to the Property and Promises required for that Product.
+. Users buy unvested CityCoin titles with plain-old-money or with commitments of future labor.
+
