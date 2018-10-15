@@ -1,7 +1,6 @@
-Ledgers can record things like property, promises, products.
+Ledgers are usually text records of things like property, promises, products, profit.
 
-A blockchain is a publicly visible and theoretically immutable ledger.
-
+A ledger should be readable by each in that group, but only writable in a manner agreed upon by the entire group while allowing subgroups to secede/fork when the propert can be divided in a realistic manner that retains most of the value for each part.
 
 PowerLedger.io >>Energy, reimagined. Imagine a world where electricity is dependable, affordable and clean, for everyone.
 

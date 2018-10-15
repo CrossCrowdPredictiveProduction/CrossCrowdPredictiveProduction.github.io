@@ -3,9 +3,10 @@ Related: block, chain, CityCoin, fintech
 Smart Contracts are legal instruments written in specialized programming languages such as:
 Solidity  
 Vyper  Vyper.ReadTheDocs.io  github.com/ethereum/vyper/wiki/Vyper-tools-and-resources
-Bamboo  OCaml
+Bamboo  github.com/pirapira/bamboo OCaml >>Bamboo: a morphing smart contract language
 Flint
-LLL  
+LLL
+Obsidian IEEEXplore.IEEE.org/document/7965268 >>Obsidian: A Safer Blockchain Programming Language
 EVM  The Ethereum Virtual Machine 'executes'
 
 ==Competitors
