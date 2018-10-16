@@ -31,7 +31,7 @@
 ;;  Quote: >, >>, "''"
 ;;  Paren: (), {}, []
 ;;  Implicit: GNU.org
-;;  Explicit: gopher://GNU.org
+;;  Explicit: ftp://GNU.org
 
 ;;; Installation
 ;; Copy this file somewhere like ~/doc/.src/lens.el
@@ -180,9 +180,12 @@ All terms less than this match only at the beginning of words (using `\\b')")
 
 		 ;;  		 ("^.*?:" "<span class=\"h4\">\\&" "</span>");anything followed by a : is a title?
 
-         ("^Related:"  "<span class=\"rel\">\\&</span>")
-         ;; This is for the diary date markup
+         ("^Related:"  "<span class=\"rel\">\\&" "</span>")
+ 		 ;;("^Related:.*"  "<small>\\&"  "</small>")
+
+         ;; This is date markup for the diary
 		 ("^[0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}:"  "<hr/><span class=\"date\">\\&</span>")
+
  		 ("^>"  "<span class=\"quot\">\\&"  "</span>")
 
  		 ("^="  "<span class=\"h1\">\\&"  "</span>")
@@ -197,6 +200,8 @@ All terms less than this match only at the beginning of words (using `\\b')")
  		 ;; ("^[ \t]*\\([0-9]\\|:\\|\\*\\|\\.\\|o\\)" "<span class=\"bullet\">\\&</span>")
          ("^[ \t]*\\(:\\|\\*\\|\\.\\)" "<span class=\"bullet\">\\&</span>")
 
+
+         ;;; BOL not required
  		 ("(\\|{\\|\\[" "<small>\\&")
  		 (")\\|\\}\\|]" "\\&</small>")
 
@@ -211,7 +216,7 @@ All terms less than this match only at the beginning of words (using `\\b')")
 		 ;; 		 ("\t" "&#11;") ;;disallowed in SGML (HTML) and XML 1.0
 
 		 ("  " "&nbsp;&nbsp;")
-		 ("^ " "&nbsp;")
+		 ("^ " "&nbsp;") ;; this seems wrong
 
  		 (">>" "<span class=\"quot2\">\\&" "</span>")
  		 (">>>" "<span class=\"quot3\">\\&" "</span>")

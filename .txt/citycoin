@@ -1,33 +1,31 @@
 Related: For Product, Free Farm
 
-
 == Introduction
-CityCoin is a money backed by the land, tools and work required to build and maintain a series of self supporting, permaculture based, private cities directly owned and controlled by those citizen.
+CityCoin is a digital money issued against and backed by the land, tools and work required to build and maintain a series of permaculture based, self supporting, private cities directly owned and controlled by those citizen.
 
 
-=== Components
-0. A PRODUCT of some *projected* quality and quantity.
-1. A set of PROPERTY ownership titles to produce that PRODUCT.
-2. A set of PROMISES to aquire, install, operate and maintain that PROPERTY.
-3. A set of rules around how we treat PRODUCT, PROPERTY and PROMISES and PROFIT.
-
-
-=== Issuance
-Each CityCoin is issued as a title of partial ownership over PROPERTY that will be purchased at the completion of the crowdfunding/ICO event for that city.
+Each CityCoin title represents:
+0. A future Product of some *projected* quality and quantity [good or service to be produced].
+1. A set of Property ownership titles to produce that Product [land and tools for production].
+2. A set of Promises to aquire, install, operate and maintain the Property [work commitments].
+3. A set of constraints on how we use Products, Property, Promises and Profit [this contract].
 
 
 == Ricardian Contract
-=== Terms of Operation
+=== Trade Agreement / Terms of Operation
 1. Money becomes Property:   Investors become real co-owners with rights of secession.
 2. Property becomes Product: Owners are consumers paying early for goods and services.
 3. Promises become Property: Workers become owners as they complete work commitments.
-4. Profit becomes Property:  Consumers become owners if they overpay for Surplus Product.
+4. Profit becomes Property:  Consumers become owners as they buy surplus & pay profit.
 
 
 ==== 1. Money becomes Property
-Similar to crowdfunding, consumers prepay for future goods and services, but instead of just receiving one round of production, they become the real property owners of the land and tools that will be purchased for that production.
+Similar to crowdfunding, consumers prepay for future goods and services with plain-old-money, but instead of just receiving one round of production, they become the real property owners of the land and tools that will be purchased for that future production.
 
-This may sound like equity-based crowdfunding, but in this case each investor is taking risk for the ancient reason that they simply want the results.
+This is fundamentally different from equity-based crowdfunding because of *why* the investors take risk.
+
+In this case, the risk is made to insure production and abundance, causing gluts to no longer pose any threat to investors, except those holding excessive surplus.
+
 
 
 ==== 2. Property becomes Product
@@ -60,7 +58,50 @@ Any owner may sell surplus product and even collect profit, but some of that pro
 This causes all users to incrementally gain the property ownership required to finally also control the production they need and receive those products at cost.
 
 
-=== Investment types
+
+=== Limitations
+CityCoin titles are only as valid as the Property and Promises backing the *projected* use-value of that future Product.
+
+
+==== Phases of Development 
+: PREBOOT[0]:
+ Search real estate listings to meet the many requirements such as: minimum size, maximum price, fitness for permaculture, zoning restrictions, water rights, mineral rights, taxes, fees, etc.
+
+ Start crowdfunding pre-campaign to ask workers and other investor where they prefer to build.
+
+ Finalize parcel selection and issue CityCoin titles against each square foot of that land.
+
+
+: BOOTUP[1]:
+ Switch to full crowdfunding campaign, selling CityCoin titles to receive real commitments from workers and other investors.
+
+ Reach agreement over general structure of the city such as a central meeting place, major roads, nature preserves, strict borders, pollution restrictions, and any other constraints this group may decide to enforce upon itself.
+
+
+: STARTUP[2]:
+ Purchase land, tools and startup supplies, including primary bulk food ingredients such as bushels of grains, legumes, raw potatoes, bales of herbs and spices etc. to cook large, cheap but nutritious shared meals and begin soap and cloth making.
+
+ Workers may move onsite immediately, but must use tents, cafeteria style dining and temporary sanitation facilities as first shared structures are built.
+
+ Build first shared structures.
+
+ Install quickly-maturing plants and animals primarily for food.
+
+
+: STASIS[3]:
+ The city can support Tier0 without external trade.
+ Build first private structures such as tiny houses.
+ Install slow-maturing plants and animals with uses beyond food.
+
+: SOVEREIGN[4]:
+ The city can support Tier1 without external trade.
+
+
+: SURPLUS[5]:
+ The city produces more than it consumes.
+
+
+==== Investment types
 1. Pay with commitments of plain-old-money to crowdfund the debt-free
     purchase of real estate and tools from the regular market.
 
@@ -75,10 +116,6 @@ This causes all users to incrementally gain the property ownership required to f
     Owners selling surplus are required to buy CityCoin titles with
     some of their profits, and vest ownership of those titles to you,
     the payer.  //[[How should we determine the minimum percentage?]]
-
-
-=== Limitations
-CityCoin titles are only as valid as the Property and Promises backing the *projected* use-value of that future Product.
 
 
 ==== Products
@@ -144,7 +181,6 @@ Any owner may sell any amount of Product at any price, but some percentage of th
 This safely reduces Profit within the system as the Property required for production is incrementally redistributed to the users of those Products.
 
 
-
 === Definitions
 Property: All the land and tools and other non-human inputs needed to make a Product.
 Promise : A commitment from a skilled human to achieve goals toward making a Product.
@@ -154,14 +190,27 @@ Costs:    All Property and Promises actually consumed and all other externalitie
 Surplus:  Any amount of Product the current owner will not use directly.
 
 
-=== Quality of Life
-Tier0: Bare essentials of food, shelter and sanitation.
-Tier1: Tier0 + private toilet, private shower, private room.
+=== Quality of Life (QoL)
+The QoL Tier system is an estimation of the minimum Property and Promises required for the health and comfort of each citizen.
+
+Tier0: Shared sanitation, shelter and food required during BOOTUP phases
+Tier1: Studio apartment, simple food.
+Tier2: Bigger place; better stuff.
+
 
 == End of Ricardian Contract
 
 
-==Transactional Timeline
+== CityCoin App Transactional Timeline
+
+{List all Products currently in funding stage and accepting new investors}
+
+>> User clicks on a Product to show details
+
+$ BUY unvested CityCoin titles
+
+>>> User becomes investor by committing money or promises of future work.
+
 User requests some Product at a projected rate, such as >>1 Dozen Large Grade AA Eggs per week.
 
 The user is then shown Real Estate listings near their location usable for that production.
@@ -172,20 +221,14 @@ CityCoin title are issued for each square foot of the potential purchase site.
 
 The price of each CityCoin title is based on:
 1. The market price to purchase (must not rent or lease) the land and tools required for that production.
-2. The quantity * quality * skill-level of work required for that production.
+2. The work  [quantity] x [quality] x [skill-level]  required for that production.
 
-Those paying with money are implicitly buying enough CityCoin titles for all workers.
+Those paying with money are implicitly buying enough CityCoin titles to compensate those workers.
 
 Once all money and work commitments are secured, the real estate listing and supporting tools are purchased and production can begin.
 
-Trading work Promises across subgroups, before production begins, allows specialization without monetization.
+Trading work Promises before production begins allows specialization without monetization.
 
-
-== CityCoin App Menu
-{List of all Products in funding stage and accepting new investors}
->> User clicks on a Product to show details
-$ BUY unvested CityCoin titles
->>> User becomes investor by committing money or promises of future work.
 
 
 == Smart Contract Design Notes
