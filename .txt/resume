@@ -1,78 +1,44 @@
+Patrick T Anderson
+Software Engineer & FinTech Architect
+LinkedIn.com/in/patricktanderson
+Patrick.T.Anderson@gmail.com
 
-                         Patrick T Anderson
-                Software Engineer and FinTech Architect
-                     Patrick.T.Anderson@gmail.com
-
-
-
-Apr/2018 - Present    CityCoin    git.gnu.io/CityCoin
-Designed the "For Product" business model to capture shared-asset value.
-Writing Ethereum Smart Contracts for CityCoin supply chain optimization.
+Features:
 
 
-May/2016 - Mar/2018    Sling TV    SlingTV.com
+
+Objectives:
+Reclaim local sovereignty through social contracts applied to the real property and work required to secure future products.
+
+
+President:  CityCoin  git.gnu.io/CityCoin  Apr/2018 - Present
+Design "For Product" business model for value capture of shared assets.
+Writing Ethereum Smart Contracts for CityCoin supply chain management.
+
+
+Senior Software Engineer:  Sling TV  SlingTV.com  May/2016 - Mar/2018
 Repair, redesign and rewrite the core of in-house C++/lua video player.
 Triage and repair problems with threading, resource locking, scheduling.
-Create and manage Jenkins jobs to automate the build and run some tests.
+Create and manage Jenkins jobs for Android, Roku, iOS, tvOS and Linux.
 
 
-Dec/2013 - Nov/2015    RackWare Inc.    RackWareInc.com
-Extend, solidify and simplify file-based imaging suite using C++, Batch, Bash.
-Script the build, package, verify, install, test and report using git, Jenkins.
-Automate VM lifecycle management on vSphere, KVM, XEN through virsh and others.
+Senior Software Engineer:  RackWare Inc  RackWareInc.com  Dec/2013 - Nov/2015
+Simplify and extend their file-based imaging suite using C++, BASH, Batch.
+Build, package, test, verify and report using BASH, Python, git, Jenkins.
+Automate VM management for AWS, IBM, vSphere, KVM, XEN, VirtualBox.
 
 
-Oct/2008 - Oct/2013    StorageCraft Technology Corporation (STC)    StorageCraft.com
-Write caching VHD and VHDX plugins in Object-Oriented-C on Windows, Linux, macOS.
-Extend cross-platform, block-based imaging suite using Emacs Lisp, OO-C and C++.
-Integrate VMware VDDK libraries for VMDK and ESXi targets using C++ and REST.
-Automate build system to compile, sign, package, verify and report.
-Develop simple C++ framework to overcome Windows installer limitations.
-Write skeleton snapshot driver for HFS+ on macOS using C and Xcode.
+Software Engineer IV:  StorageCraft  StorageCraft.com  Oct/2008 - Oct/2013
+Write caching VHD and VHDX plugins using OO-C on Windows, Linux, macOS.
+Extend cross-platform, block-based imaging suite using OO-C and C++.
+Build, sign, package, verify and report with Batch and InstallShield.
 
 
-Aug/2005 - Oct/2008    Social Sufficiency Coalition    SocialSufficiencyCoalition.BlogSpot.com
-Begin basic Linux and Android development.
-Write autolink "pass through" static website generator 'lens.el' with XHTML and CSS.
-Use this tool to enforce strict term definitions for comparison of economic models.
-Define new Mode of Production implemented through Intra Owner Trade Agreement (IOTA).
+Also worked at:  Altiris.com, NovaRad.net, NetSchools.in
 
 
-Aug/2000 - Aug/2005    Altiris    Altiris.com (now Symantec)
-Write thin C++ library to automate resource management and simplify Win32 API.
-Increase performance and decrease maintenance using "pass through" interfaces.
-Extend, debug and repair Windows device drivers to read/write hardware settings.
-Write W32 Service remotely control and report computer settings.
-Write simple HTTP and IMAP clients to send commands, and parse results.
-Write self-extracting installer conforming to "Add/Remove Programs" guidelines.
-Write dynamic virtual file system for incremental backup to removable media.
-Write some simple stored procedures against MSSQL.
-
-
-Aug/1999 - Aug/2000    NovaRad    NovaRad.net
-Integrate DICOM transport and JPEG2k compression into C++ medical imaging client.
-Design predictive caching SCSI robotic tape archiver and begin C implementation.
-
-
-Jul/1997 - Aug/1999    NetSchools    NetSchools.in
-Develop UDP/IP packet generator and simple sniffer for IR network.
-Develop network logon provider in C using SSPI and Blowfish encryption.
-Help develop write-protection for Windows 9x filesystem and registry.
-Extend compressing RAM paging driver and keyboard filter VxD using MS DDK.
-
-
-Jun/1996 - Jun/1997    BioVision Motion Capture    [closed]
-Develop parsers and C++ glue code to import motion capture data.
-Develop other tools to simplify and automate motion data transforms.
-Use matrix mathematics and spline approximations to smooth sparse data.
-
-
-Feb/1996 - Jul/1996    IBM Eduquest    IBM.com
-Track and fix application bugs in C++ educational software.
-Help write printer driver to translate between Postscript, PCL, PDDP.
-
-
-Jan/1995 - Dec/1998    Brigham Young University    BYU.edu
-B.S. in Computer Science 3.6 GPA
+Student:  Brigham Young University  BYU.edu  Jan/1995 - Dec/1998
+Bachelor of Science in Computer Science
 Teacher's Aid for "Discrete Structures and Combinatorial Mathematics" I and II
 Independent C/C++ tutor
+

@@ -84,6 +84,7 @@ data
 date rate
 debt
 deed
+demand
 demo
 dev
 -diary
@@ -130,6 +131,7 @@ diary-2018-07
 diary-2018-08
 diary-2018-09
 diary-2018-10
+diary-2018-11
 dine
 direct
 dishbot
@@ -198,6 +200,7 @@ holo
 home
 home coin
 hous
+hs
 icon
 idea
 ignu
@@ -209,6 +212,7 @@ inst
 insur
 interest
 intra owner trade agreement
+invent
 iota
 job
 join
@@ -300,7 +304,7 @@ produc
 product futures foundation
 profit
 promis
-proper
+property
 property left
 propertyleft
 protect
@@ -354,6 +358,7 @@ stallman
 star
 state
 sun
+supply
 sure
 surplus
 swap
