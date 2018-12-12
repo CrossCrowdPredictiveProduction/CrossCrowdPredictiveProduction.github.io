@@ -4,56 +4,54 @@
                         Patrick.T.Anderson@gmail.com
 
 
-Founder:  Product Futures Foundation  git.gnu.io/CityCoin  Apr/2018 - Present
-Design "For Product" business model for value capture of shared assets.
-Writing Ethereum Smart Contracts for CityCoin supply chain management.
+Founder:  fb.me/ProductFuturesFoundation  Apr/2018 - Present
+Design "For Product" business model to capture the value of shared assets.
+Define CityCoin supply chain constraints using Ricardian Contract language.
 
 
-Senior Software Engineer:  Sling TV  SlingTV.com  May/2016 - Mar/2018
+Senior Software Engineer:  SlingTV.com  May/2016 - Mar/2018
 Repair, redesign and rewrite the core of in-house C++/lua video player.
-Triage and repair problems with threading, resource locking, scheduling.
-Create and manage Jenkins jobs for Android, Roku, iOS, tvOS and Linux.
+Triage and resolve issues with threading, resource locking, scheduling.
+Build, pack, test Android, Roku, iOS, tvOS with BASH, Jenkins, Python.
 
 
-Senior Software Engineer:  RackWare Inc  RackWareInc.com  Dec/2013 - Nov/2015
+Senior Software Engineer:  RackWareInc.com  Dec/2013 - Nov/2015
 Simplify and extend their file-based imaging suite using C++, BASH, Batch.
 Build, package, test, verify and report using BASH, Python, git, Jenkins.
-Automate VM management for AWS, IBM, vSphere, KVM, XEN, VirtualBox.
+Automate VM management for AWS, IBM Cloud, vSphere, KVM, XEN, VirtualBox.
 
 
-Software Engineer IV:  StorageCraft  StorageCraft.com  Oct/2008 - Oct/2013
-Write caching VHD and VHDX plugins using OO-C on Windows, Linux, macOS.
-Extend cross-platform, block-based imaging suite using OO-C and C++.
-Build, sign, package, verify and report with Batch and InstallShield.
+Software Engineer IV:  StorageCraft.com  Oct/2008 - Oct/2013
+Extend block-based imaging suite using cross-platform OO-C and C++.
+Write plugins to read/write VHD and VHDX  for Windows, Linux, macOS.
 Integrate VMware VDDK libraries for VMDK and ESXi targets over REST.
 Automate build system to compile, sign, package, verify and report.
 Write skeleton snapshot driver for HFS+ on macOS using C and Xcode.
 
 
-Founder:  Social Sufficiency Coalition  SocialSufficiencyCoalition.BlogSpot.com  Aug/2005 - Oct/2008
-Begin basic Linux and Android development.
-Write autolink static website generator 'lens.el' with Emacs Lisp, XHTML and CSS.
-Use this tool to enforce strict term definitions for comparison of economic models.
-Define new Mode of Production implemented through Intra Owner Trade Agreement (IOTA).
+Founder:  SocialSufficiencyCoalition.BlogSpot.com  Aug/2005 - Oct/2008
+Start GNUnix as a GNU+Linux distro and begin basic Linux programming.
+Write autolink static website generator with Emacs Lisp, XHTML and CSS.
+Write Intra Owner Trade Agreement as property contract for social goals.
 
 
-Software Engineer III:  Altiris  Altiris.com (now Symantec)  Aug/2000 - Aug/2005
-Write thin C++ library to automate resource management and simplify Win32 API.
-Extend, debug and repair Windows device drivers to read/write hardware settings.
-Write W32 Service remotely control and report computer settings.
+Software Engineer III:  Altiris.com (now Symantec)  Aug/2000 - Aug/2005
+Write thin C++ library to automate resource management and simplify the API.
+Write Win32 Service to allow remote administration of any Windows client.
+Debug, repair and extend Windows drivers to read and write hardware settings.
 Write dynamic virtual file system for incremental backup to removable media.
 
 
-Software Engineer II: NovaRad  NovaRad.net  Aug/1999 - Aug/2000
+Software Engineer II: NovaRad.net  Aug/1999 - Aug/2000
 Integrate DICOM transport and JPEG2k compression into C++ medical imaging client.
 Design predictive caching SCSI robotic tape archiver and begin C implementation.
 
 
-Software Engineer:  NetSchools  NetSchools.in  Jul/1997 - Aug/1999
+Software Engineer:  NetSchools.in  Jul/1997 - Aug/1999
 Develop UDP/IP packet generator and simple sniffer for IR network.
-Develop network logon provider in C using SSPI and Blowfish encryption.
+Develop Windows logon provider in C using SSPI and Blowfish encryption.
 Help develop write-protection for Windows 9x filesystem and registry.
-Extend RAM paging driver and keyboard filter driver using MS DDK.
+Extend RAM paging driver and keyboard filter driver using MS WDK.
 
 
 Software Engineer:  BioVision Motion Capture  Jun/1996 - Jun/1997
@@ -64,10 +62,9 @@ Use matrix mathematics and spline approximations to smooth sparse data.
 
 Software Tester: IBM Eduquest  IBM.com  Feb/1996 - Jul/1996
 Track and fix application bugs in C++ educational software.
-Help write printer driver to translate between Postscript, PCL, PDDP.
+Help write code to translate between Postscript, PCL, PDDP.
 
 
-Student:  Brigham Young University  BYU.edu  Jan/1995 - Dec/1998
-Bachelor of Science in Computer Science
-Teacher's Aid for "Discrete Structures and Combinatorial Mathematics" I and II
-Independent C/C++ tutor
+Bachelor of Science in CS:  Brigham Young University  BYU.edu  Jan/1995 - Dec/1998
+Teacher's Aid: "Discrete Structures and Combinatorial Mathematics" I and II
+Independent tutor: C and C++
